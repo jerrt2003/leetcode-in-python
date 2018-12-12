@@ -10,16 +10,18 @@ class Solution(object):
         1. Create a stack and push '-1' into stack (為什麼需要push -1: 因為符合待會算寬度的邏輯)
         2. initial area = 0
         3. Go through the heights list and do following:
-        - if heights[i] <= heights[stack[-1] (e.g. 現存stack中heights最高者), continue to push idx i into stack
+        - if heights[i] > heights[stack[-1] (e.g. 現存stack中heights最高者), continue to push idx i into stack (升冪)
         - when heights[i] <= heights[stack[-1]]: 一旦遇到降冪, 則可以開始往前算面積
             - h = heights[stack.pop()]
             - w = i - stack[-1] - 1 (算寬度)
             - area = max(area, h*w)
             - 一直算到 heights[i] >= heights[stack[-1]] 為止
+            - 跳出while loop後要記得把current i push進去stack
         - when reached the end of list, then start pop the stack till stack reached -1 (e.g. 開始算所有剩下有可能的面積)
             - h = heights[stack.pop()]
             - w = len(heights) - stack[-1] -1
             - area = max(area, h*w)
+        - (最後留下來的長方圖應為一個升冪排序的長方圖)
         :type heights: List[int]
         :rtype: int
         """

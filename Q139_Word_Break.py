@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Solution(object):
     '''
     def wordBreak(self, s, wordDict):
@@ -34,7 +35,9 @@ class Solution(object):
         :param wordDict:
         :return: bool
         """
-        DP = [False]*(len(s)+1) #DP[i] means words 0 to i-1 can be break into dict word
+        DP = [False]*(len(s)+1) # DP[i] means words 0 to i-1 can be break into dict words
+        # DP[0] means a empty string
+        # But why DP[0] is True --> We need it to be true for the following logic of "if DP[j] and s[j:i] in wordDict:"
         DP[0] = True
         for i in range(1, len(s)+1):
             for j in range(i):
@@ -43,8 +46,8 @@ class Solution(object):
                     break
         return DP[len(s)]
 
-#s = "leetcode"
-#wordDict = ["leet", "code"]
+s = "leetcode"
+wordDict = ["leet", "code"]
 
 #s = "applepenapple"
 #wordDict = ["apple", "pen"]
@@ -52,8 +55,8 @@ class Solution(object):
 #s = "catsandog"
 #wordDict = ["cats", "dog", "sand", "and", "cat"]
 
-s = "abcd"
-wordDict = ["c","abc","b","cd"]
+#s = "abcd"
+#wordDict = ["c","abc","b","cd"]
 
 sol = Solution()
 print sol.wordBreak(s, wordDict)
