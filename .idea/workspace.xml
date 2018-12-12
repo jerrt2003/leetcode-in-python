@@ -37,15 +37,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/BFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BFS2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/155. Min Stack/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py" />
         <option value="$PROJECT_DIR$/718. Maximum Length of Repeated Subarray/DP.py" />
         <option value="$PROJECT_DIR$/454. 4Sum II/Hashmap.py" />
         <option value="$PROJECT_DIR$/53. Maximum Subarray/Kadanes_Algorithm.py" />
@@ -193,6 +192,7 @@
         <option value="$PROJECT_DIR$/847. Shortest Path Visiting All Nodes/BFS.py" />
         <option value="$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py" />
         <option value="$PROJECT_DIR$/155. Min Stack/Stack.py" />
+        <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py" />
       </list>
     </option>
   </component>
@@ -220,7 +220,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="155. Min Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="150. Evaluate Reverse Polish Notation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Greedy">
+  <component name="RunManager" selected="Python.Stack">
     <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,24 +273,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/847. Shortest Path Visiting All Nodes/BFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="BFS2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/310. Minimum Height Trees" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/310. Minimum Height Trees/BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,6 +345,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300. Longest Increasing Subsequence/Q300_Longest_Increasing_Subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,19 +465,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.BFS2 (1)" />
       <item itemvalue="Python.BFS_Dijkastra" />
       <item itemvalue="Python.DFS_BFS" />
       <item itemvalue="Python.BFS" />
       <item itemvalue="Python.Greedy" />
+      <item itemvalue="Python.Stack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stack" />
         <item itemvalue="Python.Greedy" />
         <item itemvalue="Python.BFS" />
         <item itemvalue="Python.DFS_BFS" />
         <item itemvalue="Python.BFS_Dijkastra" />
-        <item itemvalue="Python.BFS2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -527,9 +527,9 @@
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23117569" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.31307793" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" visible="true" weight="0.31175694" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32675222" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -911,6 +911,11 @@
           <line>26</line>
           <option name="timeStamp" value="700" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="701" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -919,17 +924,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="701" />
+      <option name="time" value="702" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1262,6 +1260,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
