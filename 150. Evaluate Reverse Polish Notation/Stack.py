@@ -30,7 +30,7 @@ class Solution(object):
                 elif token == '-': p = p2-p1
                 elif token == '*': p = p2*p1
                 else:
-                    if p2*p1 < 0:
+                    if p2*p1 < 0: # !! 6/-132 = -1
                         p = -1 * (abs(p2)/abs(p1))
                     else:
                         p = p2/p1
