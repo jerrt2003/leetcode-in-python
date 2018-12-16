@@ -20,15 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/155. Min Stack/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -55,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/363. Max Sum of Rectangle No Larger Than K/Solution.py" />
         <option value="$PROJECT_DIR$/141. Linked List Cycle/O_N.py" />
         <option value="$PROJECT_DIR$/141. Linked List Cycle/2_pointer.py" />
         <option value="$PROJECT_DIR$/142. Linked List Cycle II/ON.py" />
@@ -193,12 +192,12 @@
         <option value="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" />
         <option value="$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py" />
         <option value="$PROJECT_DIR$/496. Next Greater Element I/Stack.py" />
+        <option value="$PROJECT_DIR$/71. Simplify Path/Stack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2518" />
-    <option name="y" value="379" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -221,12 +220,12 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="316. Remove Duplicate Letters" type="462c0819:PsiDirectoryNode" />
+              <item name="71. Simplify Path" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="496. Next Greater Element I" type="462c0819:PsiDirectoryNode" />
+              <item name="316. Remove Duplicate Letters" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,25 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack (1)">
-    <configuration name="Greedy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/406. Queue Reconstruction by Height" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Stack (4)">
     <configuration name="Q300_Longest_Increasing_Subsequence (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,6 +332,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/739. Daily Temperatures/Stack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Stack (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/71. Simplify Path" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/71. Simplify Path/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -471,19 +470,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.Greedy" />
       <item itemvalue="Python.Stack" />
       <item itemvalue="Python.Stack (1)" />
       <item itemvalue="Python.Stack (2)" />
       <item itemvalue="Python.Stack (3)" />
+      <item itemvalue="Python.Stack (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stack (4)" />
         <item itemvalue="Python.Stack (1)" />
         <item itemvalue="Python.Stack (3)" />
         <item itemvalue="Python.Stack (2)" />
         <item itemvalue="Python.Stack" />
-        <item itemvalue="Python.Greedy" />
       </list>
     </recent_temporary>
   </component>
@@ -524,18 +523,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2518" y="379" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13492675" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20211361" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.31175694" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32675222" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -937,6 +936,11 @@
           <line>25</line>
           <option name="timeStamp" value="707" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/71. Simplify Path/Stack.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="711" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -945,17 +949,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="708" />
+      <option name="time" value="712" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/367. Valid Perfect Square/BS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/363. Max Sum of Rectangle No Larger Than K/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -1294,6 +1291,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
         </state>
       </provider>
     </entry>
