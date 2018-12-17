@@ -20,15 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -55,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -65,28 +56,37 @@
         </entry>
       </file>
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/Stack.py">
+        <entry file="file://$PROJECT_DIR$/682. Baseball Game/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/DFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="141" selection-start-line="10" selection-start-column="141" selection-end-line="10" selection-end-column="141" />
+            <state relative-caret-position="105">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/224. Basic Calculator/Stack.py">
+        <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="444">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -142,10 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/141. Linked List Cycle/O_N.py" />
-        <option value="$PROJECT_DIR$/141. Linked List Cycle/2_pointer.py" />
-        <option value="$PROJECT_DIR$/142. Linked List Cycle II/ON.py" />
-        <option value="$PROJECT_DIR$/75. Sort Colors/dutch_partitioning_problem.py" />
         <option value="$PROJECT_DIR$/75. Sort Colors/O_N_1_pass.py" />
         <option value="$PROJECT_DIR$/234. Palindrome Linked List/2_pointer.py" />
         <option value="$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py" />
@@ -193,11 +189,16 @@
         <option value="$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py" />
         <option value="$PROJECT_DIR$/496. Next Greater Element I/Stack.py" />
         <option value="$PROJECT_DIR$/71. Simplify Path/Stack.py" />
+        <option value="$PROJECT_DIR$/682. Baseball Game/Stack.py" />
+        <option value="$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py" />
+        <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py" />
+        <option value="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2518" />
+    <option name="y" value="379" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -221,11 +222,6 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
               <item name="71. Simplify Path" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="316. Remove Duplicate Letters" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack (4)">
+  <component name="RunManager" selected="Python.Stack">
     <configuration name="Q300_Longest_Increasing_Subsequence (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,24 +292,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Stack (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/224. Basic Calculator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/224. Basic Calculator/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,6 +333,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Stack (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/682. Baseball Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/682. Baseball Game/Stack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,11 +359,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/636. Exclusive Time of Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,19 +466,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.Stack" />
       <item itemvalue="Python.Stack (1)" />
-      <item itemvalue="Python.Stack (2)" />
       <item itemvalue="Python.Stack (3)" />
       <item itemvalue="Python.Stack (4)" />
+      <item itemvalue="Python.Stack (5)" />
+      <item itemvalue="Python.Stack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.Stack (5)" />
         <item itemvalue="Python.Stack (4)" />
         <item itemvalue="Python.Stack (1)" />
         <item itemvalue="Python.Stack (3)" />
-        <item itemvalue="Python.Stack (2)" />
-        <item itemvalue="Python.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -523,18 +519,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-2518" y="379" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20211361" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20211361" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.31175694" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32675222" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -941,6 +937,16 @@
           <line>20</line>
           <option name="timeStamp" value="711" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/682. Baseball Game/Stack.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="712" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="713" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -949,38 +955,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="712" />
+      <option name="time" value="714" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/363. Max Sum of Rectangle No Larger Than K/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/O_N.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/2_pointer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/Tortoise_and_Hare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="147" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="147" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II/ON.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1298,6 +1276,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/682. Baseball Game/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
         </state>
       </provider>
     </entry>
