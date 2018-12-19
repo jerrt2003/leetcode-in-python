@@ -20,91 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Brutal_Force.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/682. Baseball Game/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="27" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py">
+      <file leaf-file-name="Better_Stack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Better_Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/739. Daily Temperatures/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/232. Implement Queue using Stacks/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="486">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -142,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/75. Sort Colors/O_N_1_pass.py" />
-        <option value="$PROJECT_DIR$/234. Palindrome Linked List/2_pointer.py" />
         <option value="$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py" />
         <option value="$PROJECT_DIR$/904. Fruit Into Baskets/Sliding_Window.py" />
         <option value="$PROJECT_DIR$/86. Partition List/Solution.py" />
@@ -191,14 +117,15 @@
         <option value="$PROJECT_DIR$/71. Simplify Path/Stack.py" />
         <option value="$PROJECT_DIR$/682. Baseball Game/Stack.py" />
         <option value="$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py" />
-        <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py" />
         <option value="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py" />
+        <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Super_Stack.py" />
+        <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py" />
+        <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Better_Stack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2518" />
-    <option name="y" value="379" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -210,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +147,13 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="71. Simplify Path" type="462c0819:PsiDirectoryNode" />
+              <item name="636. Exclusive Time of Functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +187,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack">
+  <component name="RunManager" selected="Python.Better_Stack">
+    <configuration name="Better_Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/636. Exclusive Time of Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/636. Exclusive Time of Functions/Better_Stack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Q300_Longest_Increasing_Subsequence (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,24 +237,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Stack (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/739. Daily Temperatures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/739. Daily Temperatures/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,18 +394,18 @@
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
       <item itemvalue="Python.Stack (1)" />
-      <item itemvalue="Python.Stack (3)" />
       <item itemvalue="Python.Stack (4)" />
       <item itemvalue="Python.Stack (5)" />
       <item itemvalue="Python.Stack" />
+      <item itemvalue="Python.Better_Stack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Better_Stack" />
         <item itemvalue="Python.Stack" />
         <item itemvalue="Python.Stack (5)" />
         <item itemvalue="Python.Stack (4)" />
         <item itemvalue="Python.Stack (1)" />
-        <item itemvalue="Python.Stack (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +446,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2518" y="379" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
@@ -530,7 +457,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.31175694" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -551,7 +478,6 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,6 +492,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -944,8 +871,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="713" />
+          <line>23</line>
+          <option name="timeStamp" value="715" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -955,24 +882,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="714" />
+      <option name="time" value="716" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II/ON.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="100" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/75. Sort Colors/dutch_partitioning_problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/75. Sort Colors/O_N_1_pass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1244,38 +1157,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/232. Implement Queue using Stacks/Solution.py">
+    <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Super_Stack.py" />
+    <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
+        <state relative-caret-position="705">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1286,17 +1172,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py">
+    <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
+    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="450">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1304,6 +1204,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/232. Implement Queue using Stacks/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="27" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Better_Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
         </state>
       </provider>
     </entry>
