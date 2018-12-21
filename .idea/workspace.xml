@@ -46,11 +46,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Backtracking.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Backtracking.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/37. Sudoku Solver/Backtracking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="-309">
               <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Backtracking_not_working.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/51. N-Queens/Backtracking_not_working.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/51. N-Queens/DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/77. Combinations/DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -102,13 +129,13 @@
       <replace>[</replace>
       <replace>]</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/51. N-Queens</dir>
+    </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/127. Word Ladder/bi_direction_BFS.py" />
-        <option value="$PROJECT_DIR$/127. Word Ladder/BFS.py" />
-        <option value="$PROJECT_DIR$/127. Word Ladder/Bi_Direction_BFS.py" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/new_BFS.py" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/BFS.py" />
         <option value="$PROJECT_DIR$/743. Network Delay Time/Djikstra_PriorityQ.py" />
@@ -157,12 +184,14 @@
         <option value="$PROJECT_DIR$/78. Subsets/Solution.py" />
         <option value="$PROJECT_DIR$/89. Gray Code/Solution.py" />
         <option value="$PROJECT_DIR$/37. Sudoku Solver/Backtracking.py" />
+        <option value="$PROJECT_DIR$/51. N-Queens/Backtracking.py" />
+        <option value="$PROJECT_DIR$/51. N-Queens/DFS.py" />
+        <option value="$PROJECT_DIR$/77. Combinations/DFS.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2111" />
-    <option name="y" value="263" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -185,7 +214,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="37. Sudoku Solver" type="462c0819:PsiDirectoryNode" />
+              <item name="77. Combinations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -234,7 +263,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Backtracking">
+  <component name="RunManager" selected="Python.DFS (1)">
+    <configuration name="Backtracking (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51. N-Queens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51. N-Queens/Backtracking_not_working.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Backtracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +300,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Better_Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DFS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +308,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/636. Exclusive Time of Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/77. Combinations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/636. Exclusive Time of Functions/Better_Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/77. Combinations/DFS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51. N-Queens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51. N-Queens/DFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,24 +354,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/78. Subsets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/78. Subsets/Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,24 +367,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89. Gray Code/Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46. Permutations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46. Permutations/Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -440,19 +469,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.Better_Stack" />
-      <item itemvalue="Python.Solution" />
-      <item itemvalue="Python.Solution (1)" />
       <item itemvalue="Python.Solution (2)" />
       <item itemvalue="Python.Backtracking" />
+      <item itemvalue="Python.Backtracking (1)" />
+      <item itemvalue="Python.DFS" />
+      <item itemvalue="Python.DFS (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DFS (1)" />
+        <item itemvalue="Python.DFS" />
+        <item itemvalue="Python.Backtracking (1)" />
         <item itemvalue="Python.Backtracking" />
         <item itemvalue="Python.Solution (2)" />
-        <item itemvalue="Python.Solution (1)" />
-        <item itemvalue="Python.Solution" />
-        <item itemvalue="Python.Better_Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -493,24 +522,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2111" y="263" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34610304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16380449" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
-      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.31175694" />
+      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.3109151" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22590594" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.05416116" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
       <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,7 +552,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -926,6 +955,16 @@
           <line>25</line>
           <option name="timeStamp" value="725" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/51. N-Queens/Backtracking_not_working.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="742" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/77. Combinations/DFS.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="743" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -934,31 +973,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="732" />
+      <option name="time" value="744" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/61. Rotate List/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/904. Fruit Into Baskets/Sliding_Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="102" selection-start-line="24" selection-start-column="102" selection-end-line="24" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/2_pointer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -1281,8 +1299,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/37. Sudoku Solver/Backtracking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="-309">
           <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51. N-Queens/Backtracking_not_working.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51. N-Queens/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/77. Combinations/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
