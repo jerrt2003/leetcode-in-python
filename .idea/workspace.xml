@@ -28,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="O_N.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="O_N.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/929. Unique Email Addresses/O_N.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dict_2pointer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/482. License Key Formatting/String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -73,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/126. Word Ladder II/New_Bi_BFS.py" />
-        <option value="$PROJECT_DIR$/126. Word Ladder II/Bi_BFS.py" />
         <option value="$PROJECT_DIR$/126. Word Ladder II/BFS.py" />
         <option value="$PROJECT_DIR$/407. Trapping Rain Water II/HeapQ.py" />
         <option value="$PROJECT_DIR$/210. Course Schedule II/Topological_Sort_Kahn.py" />
@@ -124,13 +140,15 @@
         <option value="$PROJECT_DIR$/20. Valid Parentheses/Stack.py" />
         <option value="$PROJECT_DIR$/15. 3Sum/O_N.py" />
         <option value="$PROJECT_DIR$/929. Unique Email Addresses/O_N.py" />
+        <option value="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py" />
+        <option value="$PROJECT_DIR$/482. License Key Formatting/String.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2380" />
-    <option name="y" value="443" />
-    <option name="width" value="1440" />
+    <option name="x" value="-1961" />
+    <option name="y" value="301" />
+    <option name="width" value="1080" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -151,7 +169,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="929. Unique Email Addresses" type="462c0819:PsiDirectoryNode" />
+              <item name="482. License Key Formatting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.O_N (2)">
-    <configuration name="DFS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.String">
+    <configuration name="Dict_2pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,29 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/77. Combinations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/77. Combinations/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51. N-Queens" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51. N-Queens/DFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,6 +295,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300. Longest Increasing Subsequence/Q300_Longest_Increasing_Subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/482. License Key Formatting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/482. License Key Formatting/String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,19 +415,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.DFS" />
-      <item itemvalue="Python.DFS (1)" />
       <item itemvalue="Python.O_N" />
       <item itemvalue="Python.O_N (1)" />
       <item itemvalue="Python.O_N (2)" />
+      <item itemvalue="Python.Dict_2pointer" />
+      <item itemvalue="Python.String" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String" />
+        <item itemvalue="Python.Dict_2pointer" />
         <item itemvalue="Python.O_N (2)" />
         <item itemvalue="Python.O_N (1)" />
         <item itemvalue="Python.O_N" />
-        <item itemvalue="Python.DFS (1)" />
-        <item itemvalue="Python.DFS" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +468,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2380" y="443" width="1440" height="877" extended-state="0" />
+    <frame x="-1961" y="301" width="1080" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
@@ -461,7 +479,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.31444758" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -893,6 +911,16 @@
           <line>22</line>
           <option name="timeStamp" value="743" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="746" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/482. License Key Formatting/String.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="751" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -901,24 +929,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="744" />
+      <option name="time" value="752" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/77. Combinations/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/126. Word Ladder II/Bi_BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="56" lean-forward="true" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/513. Find Bottom Left Tree Value/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1253,6 +1267,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/482. License Key Formatting/String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
