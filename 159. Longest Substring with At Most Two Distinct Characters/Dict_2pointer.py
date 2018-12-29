@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import collections
 class Solution(object):
     def lengthOfLongestSubstringTwoDistinct(self, s):
         """
@@ -14,23 +15,20 @@ class Solution(object):
         """
         if len(s) == 0:
             return 0
-        count_dict = dict()
+        count_dict = collections.defaultdict(int)
         p1 = p2 = max_len = 0
-        count_dict[s[p2]] = 1
+        count_dict[s[p2]] += 1
         while True:
             if len(count_dict) < 3:
                 max_len = max(max_len, p2-p1+1)
                 p2 += 1
                 if p2 >= len(s):
                     break
-                if s[p2] in count_dict:
-                    count_dict[s[p2]] += 1
-                else:
-                    count_dict[s[p2]] = 1
+                count_dict[s[p2]] += 1
             else:
                 count_dict[s[p1]] -= 1
                 if count_dict[s[p1]] == 0:
-                    count_dict.pop(s[p1])
+                    del count_dict[s[p1]]
                 p1 += 1
         return max_len
 
