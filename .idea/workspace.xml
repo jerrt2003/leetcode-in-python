@@ -58,8 +58,8 @@
       <file leaf-file-name="DFS_TLE.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="211">
+              <caret line="18" column="26" lean-forward="true" selection-end-line="37" />
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
               </folding>
@@ -67,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS_Count_Island.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DFS_Count_Island.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Union_Find.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="30" column="112" selection-start-line="30" selection-start-column="112" selection-end-line="30" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -121,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py" />
-        <option value="$PROJECT_DIR$/529. Minesweeper/DFS.py" />
         <option value="$PROJECT_DIR$/529. Minesweeper/BFS.py" />
         <option value="$PROJECT_DIR$/773. Sliding Puzzle/BFS.py" />
         <option value="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/BFS.py" />
@@ -172,6 +188,8 @@
         <option value="$PROJECT_DIR$/844. Backspace String Compare/Stack.py" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS.py" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" />
+        <option value="$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py" />
+        <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py" />
       </list>
     </option>
   </component>
@@ -238,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DFS_Count_Island">
+  <component name="RunManager" selected="Python.Union_Find">
     <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,24 +311,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="O_N (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/929. Unique Email Addresses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/929. Unique Email Addresses/O_N.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Q300_Longest_Increasing_Subsequence (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,6 +342,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/482. License Key Formatting/String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Union_Find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,19 +462,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.O_N (2)" />
       <item itemvalue="Python.Dict_2pointer" />
       <item itemvalue="Python.String" />
       <item itemvalue="Python.DFS" />
       <item itemvalue="Python.DFS_Count_Island" />
+      <item itemvalue="Python.Union_Find" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Union_Find" />
         <item itemvalue="Python.DFS_Count_Island" />
         <item itemvalue="Python.DFS" />
         <item itemvalue="Python.Dict_2pointer" />
         <item itemvalue="Python.String" />
-        <item itemvalue="Python.O_N (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +522,7 @@
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16380449" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16380449" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
@@ -514,7 +532,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32364598" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32364598" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
       <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -958,24 +976,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="758" />
+      <option name="time" value="782" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/529. Minesweeper/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/286. Walls and Gates/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1299,13 +1303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py">
+    <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding>
-            <element signature="e#24#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1313,6 +1314,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="18" column="26" lean-forward="true" selection-end-line="37" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="112" selection-start-line="30" selection-start-column="112" selection-end-line="30" selection-end-column="112" />
         </state>
       </provider>
     </entry>
