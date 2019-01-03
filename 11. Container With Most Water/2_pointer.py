@@ -1,8 +1,16 @@
 __author__ = 'dcheng'
 class Solution:
-    # @param {integer[]} height
-    # @return {integer}
     def maxArea(self, height):
+        """
+        Solution: 2-pointer
+        Time Complexity: O(n)
+        Space Complexity: O(1)
+        Inspired By: MySELF!!
+        TP:
+        - Using 2 pointer to track
+        :param height:
+        :return:
+        """
         if len(height) == 0:
             return -1
         left = 0
