@@ -28,6 +28,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/42. Trapping Rain Water/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="51" column="117" selection-start-line="51" selection-start-column="117" selection-end-line="51" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UF.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/200. Number of Islands/UF.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_pointer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2_pointer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11. Container With Most Water/2_pointer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -90,15 +99,6 @@
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DFS_Count_Island.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/310. Minimum Height Trees/BFS2.py" />
         <option value="$PROJECT_DIR$/310. Minimum Height Trees/BFS.py" />
         <option value="$PROJECT_DIR$/310. Minimum Height Trees/BFS_TLE.py" />
         <option value="$PROJECT_DIR$/785. Is Graph Bipartite?/BFS.py" />
@@ -199,11 +198,13 @@
         <option value="$PROJECT_DIR$/399. Evaluate Division/UF.py" />
         <option value="$PROJECT_DIR$/299. Bulls and Cows/Hashset.py" />
         <option value="$PROJECT_DIR$/11. Container With Most Water/Q11_ContainerWithMostWater.py" />
+        <option value="$PROJECT_DIR$/42. Trapping Rain Water/Stack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1973" />
+    <option name="y" value="409" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -215,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,18 +227,22 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="11. Container With Most Water" type="462c0819:PsiDirectoryNode" />
+              <item name="42. Trapping Rain Water" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
               <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
+              <item name="561. Array Partition I" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,7 +535,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-1973" y="409" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
@@ -548,41 +554,41 @@
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32100397" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.30514446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28665787" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
       <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.30514446" />
-      <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
-      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1019,13 +1025,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/310. Minimum Height Trees/BFS_TLE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1370,6 +1369,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42. Trapping Rain Water/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="51" column="117" selection-start-line="51" selection-start-column="117" selection-end-line="51" selection-end-column="117" />
         </state>
       </provider>
     </entry>

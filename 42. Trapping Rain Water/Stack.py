@@ -45,6 +45,11 @@ class Solution(object):
                         break
                     left_height = height[stack[-1]]
                     h = min(right_height, left_height) - bottom_height
+                    # Consider this: [5,4,2,1,1,3]
+                    # when we hit i = 5, the r_height is 3, bottom_height is height[stack.pop()] = 1, the left_height will be height[stack[-1]] = 1
+                    # so we have a situation of: h = min(r_height, l_height) - bottom_height = 1 - 1 = 0
+                    # thus water we calculate during this iteration will be: w * h = (5-3-1) * 0 = 0
+                    # but that's ok, since next iteration we will calculate the real water trap between i = 2 ~ i = 5
                     w = i - stack[-1] - 1
                     maxWater += h*w
                 stack.append(i)
