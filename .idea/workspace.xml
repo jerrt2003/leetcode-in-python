@@ -19,29 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="O_N.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15. 3Sum/O_N.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/42. Trapping Rain Water/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="765">
               <caret line="51" column="117" selection-start-line="51" selection-start-column="117" selection-end-line="51" selection-end-column="117" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UF.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/200. Number of Islands/UF.py">
+      <file leaf-file-name="O_N.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Two Sum/O_N.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -73,41 +64,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/399. Evaluate Division/BFS.py">
+      <file leaf-file-name="BS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="386">
+              <caret line="37" lean-forward="true" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/399. Evaluate Division/DFS.py">
+      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="405">
+              <caret line="27" column="18" lean-forward="true" selection-end-line="27" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS_TLE.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py">
+      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/88. Merge Sorted Array/Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="26" selection-end-line="37" />
-              <folding>
-                <element signature="e#24#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-25" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/56. Merge Intervals/Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Union_Find.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py">
+      <file leaf-file-name="O_N_Solution.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/O_N_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="105">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -148,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/310. Minimum Height Trees/BFS.py" />
         <option value="$PROJECT_DIR$/310. Minimum Height Trees/BFS_TLE.py" />
         <option value="$PROJECT_DIR$/785. Is Graph Bipartite?/BFS.py" />
         <option value="$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py" />
@@ -189,7 +183,6 @@
         <option value="$PROJECT_DIR$/844. Backspace String Compare/Stack.py" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS.py" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" />
-        <option value="$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py" />
         <option value="$PROJECT_DIR$/200. Number of Islands/Union_Find.py" />
         <option value="$PROJECT_DIR$/200. Number of Islands/UF.py" />
@@ -199,12 +192,13 @@
         <option value="$PROJECT_DIR$/299. Bulls and Cows/Hashset.py" />
         <option value="$PROJECT_DIR$/11. Container With Most Water/Q11_ContainerWithMostWater.py" />
         <option value="$PROJECT_DIR$/42. Trapping Rain Water/Stack.py" />
+        <option value="$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py" />
+        <option value="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/O_N_Solution.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1973" />
-    <option name="y" value="409" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -228,6 +222,11 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
               <item name="42. Trapping Rain Water" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
+              <item name="88. Merge Sorted Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -276,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Hashset">
+  <component name="RunManager" selected="Python.BS">
     <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,6 +289,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/399. Evaluate Division/BFS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="BS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Median of Two Sorted Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,24 +379,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/399. Evaluate Division/UF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="UF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200. Number of Islands" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200. Number of Islands/UF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,19 +481,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.UF" />
       <item itemvalue="Python.BFS" />
       <item itemvalue="Python.DFS (1)" />
       <item itemvalue="Python.UF (1)" />
       <item itemvalue="Python.Hashset" />
+      <item itemvalue="Python.BS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BS" />
         <item itemvalue="Python.Hashset" />
         <item itemvalue="Python.UF (1)" />
         <item itemvalue="Python.DFS (1)" />
         <item itemvalue="Python.BFS" />
-        <item itemvalue="Python.UF" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +534,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1973" y="409" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
@@ -544,7 +543,7 @@
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30911493" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
-      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
+      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" visible="true" weight="0.30911493" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
@@ -552,15 +551,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32100397" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16248348" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -570,25 +569,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.30514446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28665787" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
-      <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
       <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.30514446" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1013,6 +1012,11 @@
           <line>20</line>
           <option name="timeStamp" value="820" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="824" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1021,31 +1025,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="821" />
+      <option name="time" value="825" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/310. Minimum Height Trees/BFS_TLE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/310. Minimum Height Trees/BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree/DFS_BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -1215,24 +1198,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/56. Merge Intervals/Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" selection-start-line="27" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Two Sum/O_N.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1289,13 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1374,8 +1336,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/42. Trapping Rain Water/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="765">
           <caret line="51" column="117" selection-start-line="51" selection-start-column="117" selection-end-line="51" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Two Sum/O_N.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="18" lean-forward="true" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/88. Merge Sorted Array/Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/56. Merge Intervals/Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/O_N_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
