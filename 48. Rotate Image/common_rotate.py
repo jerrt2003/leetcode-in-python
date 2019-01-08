@@ -7,8 +7,14 @@ class Solution(object):
         Space Complexity: O(1)
         Inspired By: https://leetcode.com/problems/rotate-image/discuss/18872/A-common-method-to-rotate-the-image
         TP:
+        (clock wise)
+        - 先上下reverse, 再對角線互換
         - first reverse the matrix
         - then we swap the diagonal element (e.g. matrix[i][j] = matrix[j][i])
+        (counter-clock wise)
+        - 先左右reverse, 在對角線互換
+        - first reverse left to right
+        - then swap diagonal
         :type matrix: List[List[int]]
         :rtype: void Do not return anything, modify matrix in-place instead.
         """

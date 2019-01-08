@@ -19,56 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/42. Trapping Rain Water/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="117" selection-start-line="51" selection-start-column="117" selection-end-line="51" selection-end-column="117" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O_N.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1. Two Sum/O_N.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_pointer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11. Container With Most Water/2_pointer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" lean-forward="true" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="18" lean-forward="true" selection-end-line="27" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/88. Merge Sorted Array/Array.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/56. Merge Intervals/Array.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,16 +37,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hash.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/Hash.py">
+      <file leaf-file-name="2_pointer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16. 3Sum Closest/2_pointer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="99" selection-start-line="11" selection-start-column="99" selection-end-line="11" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="O_N_Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/27. Remove Element/O_N_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usingZip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/48. Rotate Image/usingZip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="one_line_zip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/48. Rotate Image/one_line_zip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common_rotate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/48. Rotate Image/common_rotate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack_based_on_histogram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q152_Maximum_Product_Subarray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/Q152_Maximum_Product_Subarray.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="2_pointer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16. 3Sum Closest/2_pointer.py">
+      <file leaf-file-name="kadane.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/kadane.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="11" column="99" selection-start-line="11" selection-start-column="99" selection-end-line="11" selection-end-column="99" />
+            <state relative-caret-position="135">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -137,12 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/785. Is Graph Bipartite?/BFS.py" />
-        <option value="$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py" />
-        <option value="$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree/DFS_BFS.py" />
-        <option value="$PROJECT_DIR$/847. Shortest Path Visiting All Nodes/BFS.py" />
-        <option value="$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py" />
-        <option value="$PROJECT_DIR$/155. Min Stack/Stack.py" />
         <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py" />
         <option value="$PROJECT_DIR$/341. Flatten Nested List Iterator/Stack.py" />
         <option value="$PROJECT_DIR$/341. Flatten Nested List Iterator/DFS.py" />
@@ -188,12 +186,17 @@
         <option value="$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py" />
         <option value="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/O_N_Solution.py" />
         <option value="$PROJECT_DIR$/16. 3Sum Closest/2_pointer.py" />
+        <option value="$PROJECT_DIR$/27. Remove Element/O_N_Solution.py" />
+        <option value="$PROJECT_DIR$/48. Rotate Image/usingZip.py" />
+        <option value="$PROJECT_DIR$/48. Rotate Image/one_line_zip.py" />
+        <option value="$PROJECT_DIR$/48. Rotate Image/common_rotate.py" />
+        <option value="$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py" />
+        <option value="$PROJECT_DIR$/152. Maximum Product Subarray/kadane.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2182" />
-    <option name="y" value="424" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -205,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,33 +219,12 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="16. 3Sum Closest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="42. Trapping Rain Water" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="88. Merge Sorted Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="561. Array Partition I" type="462c0819:PsiDirectoryNode" />
+              <item name="152. Maximum Product Subarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,11 +239,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/152. Maximum Product Subarray" />
       <recent name="$PROJECT_DIR$/23. Merge k Sorted Lists" />
       <recent name="$PROJECT_DIR$/22. Generate Parentheses" />
       <recent name="$PROJECT_DIR$/21. Merge Two Sorted Lists" />
       <recent name="$PROJECT_DIR$/20. Valid Parentheses" />
-      <recent name="$PROJECT_DIR$/19. Remove Nth Node From End of List" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_pointer">
+  <component name="RunManager" selected="Python.common_rotate">
     <configuration name="2_pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +295,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DFS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="O_N_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,29 +303,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/399. Evaluate Division" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27. Remove Element" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/399. Evaluate Division/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Hashset" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/299. Bulls and Cows" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/299. Bulls and Cows/Hashset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Remove Element/O_N_Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,24 +331,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="UF (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/399. Evaluate Division" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/399. Evaluate Division/UF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -397,6 +344,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="common_rotate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48. Rotate Image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48. Rotate Image/common_rotate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="one_line_zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48. Rotate Image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48. Rotate Image/one_line_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,19 +464,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.DFS (1)" />
-      <item itemvalue="Python.UF (1)" />
-      <item itemvalue="Python.Hashset" />
       <item itemvalue="Python.BS" />
       <item itemvalue="Python.2_pointer" />
+      <item itemvalue="Python.O_N_Solution" />
+      <item itemvalue="Python.one_line_zip" />
+      <item itemvalue="Python.common_rotate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.common_rotate" />
+        <item itemvalue="Python.one_line_zip" />
+        <item itemvalue="Python.O_N_Solution" />
         <item itemvalue="Python.2_pointer" />
         <item itemvalue="Python.BS" />
-        <item itemvalue="Python.Hashset" />
-        <item itemvalue="Python.UF (1)" />
-        <item itemvalue="Python.DFS (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -534,18 +517,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2182" y="424" width="1440" height="877" extended-state="0" />
+    <frame x="-1709" y="469" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30911493" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30911493" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32628798" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -566,7 +549,6 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,6 +564,7 @@
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -608,37 +591,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/18. 4Sum/Q18_4sum.py</url>
+          <url />
           <line>3</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/18. 4Sum/Q18_4sum.py</url>
+          <url />
           <line>22</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/18. 4Sum/Q18_4sum.py</url>
+          <url />
           <line>5</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/19. Remove Nth Node From End of List/Q19_RemoveNthNodeFromEndOfList.py</url>
+          <url />
           <line>9</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/19. Remove Nth Node From End of List/Q19_RemoveNthNodeFromEndOfList.py</url>
+          <url />
           <line>17</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/19. Remove Nth Node From End of List/Q19_RemoveNthNodeFromEndOfList.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/21. Merge Two Sorted Lists/Q21_MergeTwoSortedLists.py</url>
+          <url />
           <line>11</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -653,7 +636,7 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/53. Maximum Subarray/Q53_Maximum_Subarray.py</url>
+          <url />
           <line>7</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
@@ -668,354 +651,364 @@
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/322. Coin Change/DP_Bottom_Up.py</url>
+          <url />
           <line>13</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py</url>
-          <line>32</line>
+          <url />
+          <line>33</line>
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py</url>
-          <line>35</line>
+          <url />
+          <line>36</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/DP.py</url>
+          <url />
           <line>30</line>
           <option name="timeStamp" value="209" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/99. Recover Binary Search Tree/InOrderTraverse.py</url>
+          <url />
           <line>42</line>
           <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/463. Island Perimeter/Hash.py</url>
+          <url />
           <line>19</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/36. Valid Sudoku/Hash.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="244" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/202. Happy Number/Hash.py</url>
+          <url />
           <line>24</line>
           <option name="timeStamp" value="249" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/88. Merge Sorted Array/Array.py</url>
+          <url />
           <line>17</line>
           <option name="timeStamp" value="257" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/118. Pascal's Triangle/Array.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="258" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/118. Pascal's Triangle/Array.py</url>
+          <url />
           <line>26</line>
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/41. First Missing Positive/Array.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="262" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/54. Spiral Matrix/Array.py</url>
+          <url />
           <line>16</line>
           <option name="timeStamp" value="290" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/167. Two Sum II - Input array is sorted/Two_Pointer.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="291" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/228. Summary Ranges/O_N_Solution.py</url>
+          <url />
           <line>11</line>
           <option name="timeStamp" value="292" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/ON_solution.py</url>
+          <url />
           <line>16</line>
           <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/38. Count and Say/count_and_say.py</url>
+          <url />
           <line>14</line>
           <option name="timeStamp" value="327" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/557. Reverse Words in a String III/Solution.py</url>
+          <url />
           <line>11</line>
           <option name="timeStamp" value="331" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/43. Multiply Strings/Solution.py</url>
+          <url />
           <line>27</line>
           <option name="timeStamp" value="338" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/76. Minimum Window Substring/sliding_window.py</url>
+          <url />
           <line>44</line>
           <option name="timeStamp" value="348" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/93. Restore IP Addresses/backtracking.py</url>
+          <url />
           <line>35</line>
           <option name="timeStamp" value="349" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/258. Add Digits/Recursion.py</url>
+          <url />
           <line>11</line>
           <option name="timeStamp" value="351" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/394. Decode String/DFS.py</url>
+          <url />
           <line>42</line>
           <option name="timeStamp" value="362" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/207. Course Schedule/DFS_Graph.py</url>
+          <url />
           <line>23</line>
           <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/98. Validate Binary Search Tree/DFS.py</url>
+          <url />
           <line>35</line>
           <option name="timeStamp" value="386" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/332. Reconstruct Itinerary/DFS.py</url>
+          <url />
           <line>39</line>
           <option name="timeStamp" value="396" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/117. Populating Next Right Pointers in Each Node II/DFS.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="404" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/494. Target Sum/TLE_DFS.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="479" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/494. Target Sum/DFS_Memorization.py</url>
+          <url />
           <line>19</line>
           <option name="timeStamp" value="482" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240. Search a 2D Matrix II/BS.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="495" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240. Search a 2D Matrix II/Search_Space_Reduction_O_mn.py</url>
+          <url />
           <line>22</line>
           <option name="timeStamp" value="496" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/BS.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="500" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/74. Search a 2D Matrix/BS_2_times.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="504" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/174. Dungeon Game/DP.py</url>
+          <url />
           <line>33</line>
           <option name="timeStamp" value="512" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/174. Dungeon Game/DP.py</url>
+          <url />
           <line>29</line>
           <option name="timeStamp" value="514" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/300. Longest Increasing Subsequence/DP.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="519" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py</url>
+          <url />
           <line>41</line>
           <option name="timeStamp" value="524" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/718. Maximum Length of Repeated Subarray/DP.py</url>
+          <url />
           <line>24</line>
           <option name="timeStamp" value="530" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/367. Valid Perfect Square/BS.py</url>
+          <url />
           <line>14</line>
           <option name="timeStamp" value="535" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py</url>
+          <url />
           <line>27</line>
           <option name="timeStamp" value="539" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/127. Word Ladder/Bi_Direction_BFS.py</url>
+          <url />
           <line>36</line>
           <option name="timeStamp" value="558" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/126. Word Ladder II/BFS.py</url>
+          <url />
           <line>14</line>
           <option name="timeStamp" value="586" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/126. Word Ladder II/BFS.py</url>
+          <url />
           <line>31</line>
           <option name="timeStamp" value="587" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/BFS.py</url>
+          <url />
           <line>19</line>
           <option name="timeStamp" value="598" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/743. Network Delay Time/Djikstra_PriorityQ.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="602" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS.py</url>
+          <url />
           <line>50</line>
           <option name="timeStamp" value="658" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS2.py</url>
+          <url />
           <line>37</line>
           <option name="timeStamp" value="672" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/310. Minimum Height Trees/BFS_TLE.py</url>
+          <url />
           <line>23</line>
           <option name="timeStamp" value="682" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="687" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree/DFS_BFS.py</url>
+          <url />
           <line>42</line>
           <option name="timeStamp" value="694" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/847. Shortest Path Visiting All Nodes/BFS.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="698" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py</url>
+          <url />
           <line>26</line>
           <option name="timeStamp" value="700" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py</url>
+          <url />
           <line>24</line>
           <option name="timeStamp" value="701" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/224. Basic Calculator/Stack.py</url>
+          <url />
           <line>49</line>
           <option name="timeStamp" value="705" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/224. Basic Calculator/Stack.py</url>
+          <url />
           <line>24</line>
           <option name="timeStamp" value="706" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/739. Daily Temperatures/Stack.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="707" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/71. Simplify Path/Stack.py</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="711" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/682. Baseball Game/Stack.py</url>
+          <url />
           <line>11</line>
           <option name="timeStamp" value="712" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py</url>
+          <url />
           <line>23</line>
           <option name="timeStamp" value="715" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/37. Sudoku Solver/Backtracking.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="725" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/51. N-Queens/Backtracking_not_working.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="742" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/77. Combinations/DFS.py</url>
+          <url />
           <line>22</line>
           <option name="timeStamp" value="743" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/482. License Key Formatting/String.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="751" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="757" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/200. Number of Islands/UF.py</url>
+          <url />
           <line>18</line>
           <option name="timeStamp" value="796" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/200. Number of Islands/UF.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="797" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/399. Evaluate Division/BFS.py</url>
+          <url />
           <line>44</line>
           <option name="timeStamp" value="804" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/399. Evaluate Division/UF.py</url>
+          <url />
           <line>23</line>
           <option name="timeStamp" value="818" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/299. Bulls and Cows/Hashset.py</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="820" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py</url>
+          <url />
           <line>8</line>
           <option name="timeStamp" value="824" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>13</line>
+          <option name="timeStamp" value="827" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>22</line>
+          <option name="timeStamp" value="828" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1025,45 +1018,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="825" />
+      <option name="time" value="829" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/847. Shortest Path Visiting All Nodes/BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="98" selection-start-line="11" selection-start-column="98" selection-end-line="11" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/155. Min Stack/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/DFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1337,19 +1295,16 @@
     <entry file="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/BS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="37" lean-forward="true" selection-end-line="37" />
+          <caret line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="18" lean-forward="true" selection-end-line="27" selection-end-column="18" />
+          <caret line="27" column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/88. Merge Sorted Array/Array.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/56. Merge Intervals/Array.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1365,13 +1320,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/Hash.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/16. 3Sum Closest/2_pointer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="165">
           <caret line="11" column="99" selection-start-line="11" selection-start-column="99" selection-end-line="11" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27. Remove Element/O_N_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48. Rotate Image/one_line_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48. Rotate Image/usingZip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48. Rotate Image/common_rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/Q152_Maximum_Product_Subarray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/kadane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>

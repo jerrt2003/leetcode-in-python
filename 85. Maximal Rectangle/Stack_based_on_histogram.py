@@ -22,6 +22,7 @@ class Solution(object):
                 - h: height[stack.pop()]
                 - w: len(row) - stack[-1] -1
                 - area = max(area, h*w)
+        - 一路升冪排序直到遇到第一個會造成降冪的Height!!!
         :type matrix: List[List[str]]
         :rtype: int
         """
