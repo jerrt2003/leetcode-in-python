@@ -22,6 +22,9 @@ class Solution(object):
         res = 1 if len(nums) > 0 else 0 # take care of the boundary condition
         for num in nums:
             if num - 1 not in nums: # if num-1 in nums which means it will be taken care of by other iteration already
+                '''
+                原來我還想要說可以用類似DP的方式去加速(避免重複的算), 但是有了if nums-1 not in nums的條件實際上我們不會碰到重複的狀況
+                '''
                 tmp_res = 1
                 current_num = num
                 while current_num+1 in nums:

@@ -38,7 +38,7 @@ class Solution(object):
         因為在上方iteration時我們一定是作完了left_to_right->up_to_down->right_to_left->down_to_up整套,所以剩下的一定是left_to_right or up_to_down
         '''
         if i_start == i_end:
-            res.extend(matrix[i_start][x] for x in range(j_start, j_end+1))
+            res.extend(matrix[i_start][x] for x in range(j_start, j_end+1)) # WHY i_end+1 or j_end+1 <-- 沒有下一個iteration了,所以必須要包含最後一個數字
         elif j_start == j_end:
             res.extend(matrix[x][j_start] for x in range(i_start, i_end+1))
         return res
