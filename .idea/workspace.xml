@@ -19,88 +19,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="common_rotate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/48. Rotate Image/common_rotate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack_based_on_histogram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/Stack_based_on_histogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kadane.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/kadane.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP_Interative.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/DP_Interative.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="o_n_solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/41. First Missing Positive/o_n_solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="35" column="69" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hash.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/219. Contains Duplicate II/Hash.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2nd_Scan_still_use_hash.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/219. Contains Duplicate II/2nd_Scan_still_use_hash.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Set.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/128. Longest Consecutive Sequence/Set.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/BS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="600">
               <caret line="40" column="134" selection-start-line="40" selection-start-column="134" selection-end-line="40" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Two_Pointer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/167. Two Sum II - Input array is sorted/Two_Pointer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ON_solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/268. Missing Number/ON_solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linear_Solution_Using_Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/268. Missing Number/Linear_Solution_Using_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="O_N_Linear.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/31. Next Permutation/O_N_Linear.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/289. Game of Life/Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="14" column="94" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="14" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2nd_Scan_Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/289. Game of Life/2nd_Scan_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="40" column="141" selection-start-line="40" selection-start-column="141" selection-end-line="40" selection-end-column="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ON_solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/ON_solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2nd_scan_solution.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/2nd_scan_solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q31_Next_Permutation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/31. Next Permutation/Q31_Next_Permutation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -141,12 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" />
-        <option value="$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py" />
-        <option value="$PROJECT_DIR$/496. Next Greater Element I/Stack.py" />
-        <option value="$PROJECT_DIR$/71. Simplify Path/Stack.py" />
-        <option value="$PROJECT_DIR$/682. Baseball Game/Stack.py" />
-        <option value="$PROJECT_DIR$/225. Implement Stack using Queues/Stack.py" />
         <option value="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py" />
         <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Super_Stack.py" />
         <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/Stack.py" />
@@ -192,10 +190,16 @@
         <option value="$PROJECT_DIR$/128. Longest Consecutive Sequence/Set.py" />
         <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/BS.py" />
         <option value="$PROJECT_DIR$/54. Spiral Matrix/Array.py" />
+        <option value="$PROJECT_DIR$/268. Missing Number/ON_solution.py" />
+        <option value="$PROJECT_DIR$/268. Missing Number/Linear_Solution_Using_Sum.py" />
+        <option value="$PROJECT_DIR$/31. Next Permutation/O_N_Linear.py" />
+        <option value="$PROJECT_DIR$/289. Game of Life/Solution.py" />
+        <option value="$PROJECT_DIR$/289. Game of Life/2nd_Scan_Solution.py" />
+        <option value="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/2nd_scan_solution.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -218,7 +222,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
-              <item name="54. Spiral Matrix" type="462c0819:PsiDirectoryNode" />
+              <item name="448. Find All Numbers Disappeared in an Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,11 +243,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/31. Next Permutation" />
       <recent name="$PROJECT_DIR$/152. Maximum Product Subarray" />
       <recent name="$PROJECT_DIR$/23. Merge k Sorted Lists" />
       <recent name="$PROJECT_DIR$/22. Generate Parentheses" />
       <recent name="$PROJECT_DIR$/21. Merge Two Sorted Lists" />
-      <recent name="$PROJECT_DIR$/20. Valid Parentheses" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -258,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BS (1)">
-    <configuration name="2_pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2nd_scan_solution">
+    <configuration name="2nd_scan_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16. 3Sum Closest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16. 3Sum Closest/2_pointer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/2nd_scan_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +299,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="O_N_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="O_N_Linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27. Remove Element" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/31. Next Permutation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Remove Element/O_N_Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31. Next Permutation/O_N_Linear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,19 +468,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.2_pointer" />
-      <item itemvalue="Python.O_N_Solution" />
       <item itemvalue="Python.one_line_zip" />
       <item itemvalue="Python.common_rotate" />
       <item itemvalue="Python.BS (1)" />
+      <item itemvalue="Python.O_N_Linear" />
+      <item itemvalue="Python.2nd_scan_solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2nd_scan_solution" />
+        <item itemvalue="Python.O_N_Linear" />
         <item itemvalue="Python.BS (1)" />
         <item itemvalue="Python.common_rotate" />
         <item itemvalue="Python.one_line_zip" />
-        <item itemvalue="Python.O_N_Solution" />
-        <item itemvalue="Python.2_pointer" />
       </list>
     </recent_temporary>
   </component>
@@ -517,60 +521,60 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5003524" side_tool="true" weight="0.20475562" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30911493" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30911493" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.62087184" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6195509" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.23467231" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16248348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.339498" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.30514446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28665787" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.30514446" />
-      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
-      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.30514446" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1010,6 +1014,16 @@
           <line>22</line>
           <option name="timeStamp" value="828" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/31. Next Permutation/O_N_Linear.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="829" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/2nd_scan_solution.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="832" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1018,66 +1032,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="829" />
+      <option name="time" value="834" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/71. Simplify Path/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I/Brutal_Force.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/232. Implement Queue using Stacks/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/78. Subsets/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/46. Permutations/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/89. Gray Code/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1347,9 +1305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/219. Contains Duplicate II/Hash.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/219. Contains Duplicate II/2nd_Scan_still_use_hash.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1366,15 +1321,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/BS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="255">
           <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="600">
           <caret line="40" column="134" selection-start-line="40" selection-start-column="134" selection-end-line="40" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167. Two Sum II - Input array is sorted/Two_Pointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/268. Missing Number/ON_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/268. Missing Number/Linear_Solution_Using_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31. Next Permutation/Q31_Next_Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31. Next Permutation/O_N_Linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/289. Game of Life/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="94" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="14" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/289. Game of Life/2nd_Scan_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="40" column="141" selection-start-line="40" selection-start-column="141" selection-end-line="40" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/ON_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array/2nd_scan_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>

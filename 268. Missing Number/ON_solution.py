@@ -3,8 +3,8 @@ class Solution(object):
     def missingNumber(self, nums):
         """
         Solution: 用減法
-        Time Complexity:
-        Space Complexity:
+        Time Complexity: O(n)
+        Space Complexity: O(1)
         Inspired by: https://leetcode.com/problems/missing-number/discuss/69795/Java-solution-O(1)-space-and-O(n)-in-time
         TP:
         - we have only one missing number

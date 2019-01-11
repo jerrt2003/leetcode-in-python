@@ -34,14 +34,22 @@ class Solution(object):
     def nnb(self, board, i, j):
         m, n = len(board), len(board[0])
         count = 0
-        if i - 1 >= 0 and j - 1 >= 0:   count += board[i - 1][j - 1] % 2
-        if i - 1 >= 0:                count += board[i - 1][j] % 2
-        if i - 1 >= 0 and j + 1 < n:    count += board[i - 1][j + 1] % 2
-        if j - 1 >= 0:                count += board[i][j - 1] % 2
-        if j + 1 < n:                 count += board[i][j + 1] % 2
-        if i + 1 < m and j - 1 >= 0:    count += board[i + 1][j - 1] % 2
-        if i + 1 < m:                 count += board[i + 1][j] % 2
-        if i + 1 < m and j + 1 < n:     count += board[i + 1][j + 1] % 2
+        if i - 1 >= 0 and j - 1 >= 0:
+            count += board[i - 1][j - 1] % 2
+        if i - 1 >= 0:
+            count += board[i - 1][j] % 2
+        if i - 1 >= 0 and j + 1 < n:
+            count += board[i - 1][j + 1] % 2
+        if j - 1 >= 0:
+            count += board[i][j - 1] % 2
+        if j + 1 < n:
+            count += board[i][j + 1] % 2
+        if i + 1 < m and j - 1 >= 0:
+            count += board[i + 1][j - 1] % 2
+        if i + 1 < m:
+            count += board[i + 1][j] % 2
+        if i + 1 < m and j + 1 < n:
+            count += board[i + 1][j + 1] % 2
         return count
 
 board = [
