@@ -9,12 +9,13 @@ class Solution(object):
         Algorithm:
         - T[i][k][0]: maximum profit at the end of the i-th day with (at most) k transactions and with 0 stock in our hand AFTER taking the action
         - T[i][k][1]: maximum profit at the end of the i-th day with (at most) k transactions and with 1 stock in our hand AFTER taking the action
-        - k 代表"已發生"的交易次數,而不是還剩下的交易次數
+        ?? - k 代表"已發生"的交易次數,而不是還剩下的交易次數 ?? <--
+        k: max allowed transaction
         - Base Case:
             - T[-1][k][0] = 0 (no stock in hand thus no profit)
             - T[-1][k][1] = -int('inf') (it is impossible to have stock at beginning (i is -1)
             - T[i][0][0] = 0 (k=0 -> no transaction allowed-> no profit)
-            - T[i][0][1] = -int('inf') (it is impossible to have stock in hand but no transaction allowed)
+            - T[i][0][1] = -int('inf') (it is impossible to buy('have') stock in hand but no transaction allowed)
         - Recurrence relations:
             - T[i][k][0] = max(T[i-1][k][0], T[i-1][k][1] + price[i]) -> sell doesn't effect k
             - T[i][k][1] = max(T[i-1][k][1], T[i-1][k-1][0] - price[i]) -> buy effect k thus k-1

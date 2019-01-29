@@ -18,7 +18,7 @@ class Solution(object):
         Thinking process:
             - preorder-traversal: root -> left -> right (rule 1)
             - inorder-traversal: left -> root -> right (rule 2)
-            - pop the first element x in porder: it must be the root for the tree (rule 1)
+            - pop the first element x in pre-order: it must be the root for the tree (rule 1)
             - Find idx of x in inorder list, then:
                 - (rule 2)
                 - inorder[:i] must be in the left side of tree
