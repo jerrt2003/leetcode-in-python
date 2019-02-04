@@ -28,6 +28,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2nd_scan.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/2nd_scan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q5_Longest_Palindromic_Substring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/Q5_Longest_Palindromic_Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-186" />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Greedy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/45. Jump Game II/Greedy.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,7 +74,7 @@
       <file leaf-file-name="Stack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="495">
               <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
             </state>
           </provider>
@@ -82,18 +98,9 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="O_N_1_pass.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/75. Sort Colors/O_N_1_pass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75" />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dutch_partitioning_problem.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/75. Sort Colors/dutch_partitioning_problem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -132,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/128. Longest Consecutive Sequence/Set.py" />
         <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/BS.py" />
         <option value="$PROJECT_DIR$/54. Spiral Matrix/Array.py" />
         <option value="$PROJECT_DIR$/268. Missing Number/ON_solution.py" />
@@ -183,10 +189,11 @@
         <option value="$PROJECT_DIR$/560. Subarray Sum Equals K/backtracking.py" />
         <option value="$PROJECT_DIR$/560. Subarray Sum Equals K/Hashmap_1_pass.py" />
         <option value="$PROJECT_DIR$/75. Sort Colors/2nd_scan.py" />
+        <option value="$PROJECT_DIR$/5. Longest Palindromic Substring/2nd_scan.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -199,13 +206,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_X" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_X" type="462c0819:PsiDirectoryNode" />
+              <item name="5. Longest Palindromic Substring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -226,6 +237,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2nd_scan (1)">
+  <component name="RunManager" selected="Python.2nd_scan (2)">
     <configuration name="2nd_scan (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +290,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2nd_scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2nd_scan (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/162. Find Peak Element" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Longest Palindromic Substring" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/162. Find Peak Element/2nd_scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Longest Palindromic Substring/2nd_scan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,19 +477,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Q300_Longest_Increasing_Subsequence (1)" />
-      <item itemvalue="Python.2nd_scan" />
       <item itemvalue="Python.DP_Top_Bottom" />
       <item itemvalue="Python.backtracking" />
       <item itemvalue="Python.Hashmap_1_pass" />
       <item itemvalue="Python.2nd_scan (1)" />
+      <item itemvalue="Python.2nd_scan (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2nd_scan (2)" />
         <item itemvalue="Python.2nd_scan (1)" />
         <item itemvalue="Python.Hashmap_1_pass" />
         <item itemvalue="Python.backtracking" />
         <item itemvalue="Python.DP_Top_Bottom" />
-        <item itemvalue="Python.2nd_scan" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +530,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
@@ -529,49 +541,49 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49964765" weight="0.30911493" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.6195509" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.34390417" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722737" visible="true" weight="0.34390417" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.48216644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48216644" />
       <window_info id="Favorites" order="2" sideWeight="0.5027726" side_tool="true" weight="0.29175475" />
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.30514446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.4002642" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28665787" />
       <window_info anchor="bottom" id="Changes" order="11" weight="0.32871014" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36195508" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32760897" />
       <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.30514446" />
-      <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32928476" />
-      <window_info anchor="bottom" id="Python Console" order="14" weight="0.25759578" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1096,6 +1108,11 @@
           <line>8</line>
           <option name="timeStamp" value="890" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5. Longest Palindromic Substring/2nd_scan.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1104,7 +1121,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="898" />
+      <option name="time" value="899" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1325,9 +1342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/DP.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/59. Spiral Matrix II/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1421,7 +1435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="495">
           <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
         </state>
       </provider>
@@ -1434,17 +1448,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/75. Sort Colors/dutch_partitioning_problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/75. Sort Colors/2nd_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/75. Sort Colors/2nd_scan.py" />
     <entry file="file://$PROJECT_DIR$/560. Subarray Sum Equals K/Hashmap_1_pass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1452,9 +1458,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/75. Sort Colors/O_N_1_pass.py">
+    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/Q5_Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75" />
+        <state relative-caret-position="-186" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/2nd_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
       </provider>
     </entry>
   </component>
