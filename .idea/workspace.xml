@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/139. Word Break/DP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +45,32 @@
       <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-158">
+            <state relative-caret-position="105">
               <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2nd_scan_DFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/139. Word Break/DP.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
@@ -79,6 +97,9 @@
         <option value="$PROJECT_DIR$/338. Counting Bits/2nd_Scan.py" />
         <option value="$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py" />
         <option value="$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py" />
+        <option value="$PROJECT_DIR$/139. Word Break/2nd_scan_recursion.py" />
+        <option value="$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py" />
+        <option value="$PROJECT_DIR$/139. Word Break/DP.py" />
       </list>
     </option>
   </component>
@@ -105,7 +126,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="10. Regular Expression Matching" type="462c0819:PsiDirectoryNode" />
+              <item name="139. Word Break" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -141,6 +162,31 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="2nd_scan_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/139. Word Break" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2nd_scan_recursion" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -166,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549440653925</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd_scan/DP/#10">
+      <created>1549562888532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549562888532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -177,9 +230,9 @@
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32893" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Project Explorer" order="2" />
@@ -187,7 +240,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989432" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,9 +257,61 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd_scan/DP/#198" />
     <MESSAGE value="2nd_scan/DP/#338" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#338" />
+    <MESSAGE value="2nd_scan/DP/#10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py</url>
+          <line>13</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/198. House Robber/2nd_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_Scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/198. House Robber/2nd_scan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -265,12 +370,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/DP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
+        <state relative-caret-position="105">
           <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/139. Word Break/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
