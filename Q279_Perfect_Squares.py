@@ -34,7 +34,11 @@ class Solution(object):
 class Solution(object):
     def numSquares(self, n):
         """
-        DP
+        Solution: DP
+        Time Complexity: O(n^2)
+        Space Complexity: O(n)
+        Inspired By: 1st scan
+        Perf: Runtime: 2892 ms, faster than 55.18% / Memory Usage: 10.8 MB, less than 15.94%
         :type n: int
         :rtype: int
         """
