@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/95. Unique Binary Search Trees II/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/413. Arithmetic Slices/Brutal_Force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/DFS.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="120" selection-start-line="15" selection-start-column="120" selection-end-line="15" selection-end-column="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP_Bottom_Up.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/91. Decode Ways/DP_Bottom_Up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="115" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Brutal_Force.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/413. Arithmetic Slices/Brutal_Force.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -55,12 +83,14 @@
         <option value="$PROJECT_DIR$/647. Palindromic Substrings/Linear.py" />
         <option value="$PROJECT_DIR$/115. Distinct Subsequences/2nd_scan_dp.py" />
         <option value="$PROJECT_DIR$/95. Unique Binary Search Trees II/DFS.py" />
+        <option value="$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py" />
+        <option value="$PROJECT_DIR$/413. Arithmetic Slices/Brutal_Force.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1239" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,7 +111,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="95. Unique Binary Search Trees II" type="462c0819:PsiDirectoryNode" />
+              <item name="413. Arithmetic Slices" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,7 +146,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DP">
+  <component name="RunManager" selected="Python.2nd_Scan">
+    <configuration name="2nd_Scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/91. Decode Ways" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="2nd_scan (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,9 +242,11 @@
       <item itemvalue="Python.2nd_scan" />
       <item itemvalue="Python.2nd_scan (1)" />
       <item itemvalue="Python.DP" />
+      <item itemvalue="Python.2nd_Scan" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2nd_Scan" />
         <item itemvalue="Python.DP" />
         <item itemvalue="Python.2nd_scan (1)" />
         <item itemvalue="Python.2nd_scan" />
@@ -292,11 +342,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550179618524</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2nd_scan/DP/#115">
+      <created>1551721329191</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551721329191</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1239" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -307,7 +364,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29064038" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -362,6 +419,16 @@
           <line>12</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -370,31 +437,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/303. Range Sum Query - Immutable/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="89" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/139. Word Break/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -716,6 +762,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="120" selection-start-line="15" selection-start-column="120" selection-end-line="15" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/91. Decode Ways/DP_Bottom_Up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="115" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/413. Arithmetic Slices/Brutal_Force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
         </state>
       </provider>
     </entry>
