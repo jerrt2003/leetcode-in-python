@@ -16,6 +16,7 @@ class Solution:
         - return DP[-1]
         - !!!!! the above forward tracking solution will hit MLE, thus we first check if string is breakable to
         avoid that !!!!!
+        Perf: Runtime: 156 ms, faster than 9.01% / Memory Usage: 11 MB, less than 80.43%
         :type s: str
         :type wordDict: List[str]
         :rtype: List[str]

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import sys
 class Solution(object):
     def coinChange(self, coins, amount):
