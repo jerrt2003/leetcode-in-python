@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/140. Word Break II/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140. Word Break II/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/140. Word Break II/DP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/322. Coin Change/DP_Bottom_Up.py" beforeDir="false" afterPath="$PROJECT_DIR$/322. Coin Change/DP_Bottom_Up.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/322. Coin Change/DP_Top_Down.py" beforeDir="false" afterPath="$PROJECT_DIR$/322. Coin Change/DP_Top_Down.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/97. Interleaving String/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/97. Interleaving String/DP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/322. Coin Change/DFS.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,17 +45,35 @@
       <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/140. Word Break II/DFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
+            <state relative-caret-position="420">
               <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/140. Word Break II/DP.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+              <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/97. Interleaving String/DP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
             </state>
           </provider>
         </entry>
@@ -94,15 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP_Bottom_Up.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/91. Decode Ways/DP_Bottom_Up.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="115" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="115" />
             </state>
           </provider>
         </entry>
@@ -146,6 +144,9 @@
         <option value="$PROJECT_DIR$/322. Coin Change/DP_Top_Down.py" />
         <option value="$PROJECT_DIR$/140. Word Break II/DFS.py" />
         <option value="$PROJECT_DIR$/140. Word Break II/DP.py" />
+        <option value="$PROJECT_DIR$/97. Interleaving String/3_pointer.py" />
+        <option value="$PROJECT_DIR$/97. Interleaving String/DP.py" />
+        <option value="$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py" />
       </list>
     </option>
   </component>
@@ -168,6 +169,11 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="97. Interleaving String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -217,8 +223,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DFS (1)">
-    <configuration name="2nd_Scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DP (1)">
+    <configuration name="2nd_Scan (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,17 +232,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/91. Decode Ways" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/97. Interleaving String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/91. Decode Ways/2nd_Scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2nd_scan (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/312. Burst Balloons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/97. Interleaving String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/312. Burst Balloons/2nd_scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/97. Interleaving String/3_pointer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +296,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,30 +304,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/279. Perfect Squares" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/97. Interleaving String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/279. Perfect Squares/DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/97. Interleaving String/DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.2nd_scan (1)" />
-      <item itemvalue="Python.DP" />
-      <item itemvalue="Python.2nd_Scan" />
       <item itemvalue="Python.DFS" />
       <item itemvalue="Python.DFS (1)" />
+      <item itemvalue="Python.3_pointer" />
+      <item itemvalue="Python.DP (1)" />
+      <item itemvalue="Python.2nd_Scan (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DP (1)" />
+        <item itemvalue="Python.2nd_Scan (1)" />
+        <item itemvalue="Python.3_pointer" />
         <item itemvalue="Python.DFS (1)" />
         <item itemvalue="Python.DFS" />
-        <item itemvalue="Python.2nd_Scan" />
-        <item itemvalue="Python.DP" />
-        <item itemvalue="Python.2nd_scan (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551891913615</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP">
+      <created>1551979411318</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551979411318</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -452,11 +465,11 @@
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -490,7 +503,8 @@
     <MESSAGE value="2nd_scan/DP/#413" />
     <MESSAGE value="2nd_scan/DP/#91/A must read solution" />
     <MESSAGE value="2nd_scan/DP/#322/adding DFS solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#322/adding DFS solution" />
+    <MESSAGE value="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,31 +546,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/139. Word Break/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/139. Word Break/Q139_Word_Break.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -848,7 +841,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/140. Word Break II/DFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="420">
           <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
         </state>
       </provider>
@@ -877,7 +870,28 @@
     <entry file="file://$PROJECT_DIR$/140. Word Break II/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/97. Interleaving String/3_pointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/97. Interleaving String/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
         </state>
       </provider>
     </entry>

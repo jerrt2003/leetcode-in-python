@@ -43,9 +43,9 @@ class Solution(object):
 #s2 = "dbbca"
 #s3 = "aadbbcbcac"
 
-s1 = "aabcc"
-s2 = "dbbca"
-s3 = "aadbbbaccc"
+s1 = "ab"
+s2 = "bc"
+s3 = "babc"
 
 sol = Solution()
 print sol.isInterleave(s1,s2,s3)
