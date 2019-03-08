@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264. Ugly Number II/Heapq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/97. Interleaving String/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/97. Interleaving String/DP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/322. Coin Change/DFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP_Bottom_Up.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/322. Coin Change/DP_Bottom_Up.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DP_Top_Down.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/322. Coin Change/DP_Top_Down.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,11 +50,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
+            <state relative-caret-position="147">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heapq.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/264. Ugly Number II/Heapq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/264. Ugly Number II/DP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="47" column="22" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="47" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -147,6 +146,7 @@
         <option value="$PROJECT_DIR$/97. Interleaving String/3_pointer.py" />
         <option value="$PROJECT_DIR$/97. Interleaving String/DP.py" />
         <option value="$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py" />
+        <option value="$PROJECT_DIR$/264. Ugly Number II/Heapq.py" />
       </list>
     </option>
   </component>
@@ -173,22 +173,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="97. Interleaving String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="139. Word Break" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="140. Word Break II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="322. Coin Change" type="462c0819:PsiDirectoryNode" />
+              <item name="264. Ugly Number II" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DP (1)">
+  <component name="RunManager" selected="Python.Heapq">
     <configuration name="2nd_Scan (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,24 +263,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/322. Coin Change" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/322. Coin Change/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="DP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,20 +281,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Heapq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/264. Ugly Number II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/264. Ugly Number II/Heapq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.DFS" />
       <item itemvalue="Python.DFS (1)" />
       <item itemvalue="Python.3_pointer" />
       <item itemvalue="Python.DP (1)" />
       <item itemvalue="Python.2nd_Scan (1)" />
+      <item itemvalue="Python.Heapq" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Heapq" />
         <item itemvalue="Python.DP (1)" />
         <item itemvalue="Python.2nd_Scan (1)" />
         <item itemvalue="Python.3_pointer" />
         <item itemvalue="Python.DFS (1)" />
-        <item itemvalue="Python.DFS" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551979411318</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2nd_scan/DP/#97">
+      <created>1552062721651</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552062721651</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2nd_scan/DP/#97">
+      <created>1552062778410</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1552062778410</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -465,11 +464,11 @@
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -504,7 +503,8 @@
     <MESSAGE value="2nd_scan/DP/#91/A must read solution" />
     <MESSAGE value="2nd_scan/DP/#322/adding DFS solution" />
     <MESSAGE value="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP" />
+    <MESSAGE value="2nd_scan/DP/#97" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#97" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -538,6 +538,11 @@
           <line>22</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/264. Ugly Number II/Heapq.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -546,24 +551,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/139. Word Break/Q139_Word_Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/72. Edit Distance/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/2nd_scan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -860,13 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/140. Word Break II/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -890,8 +874,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/97. Interleaving String/2nd_Scan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
+        <state relative-caret-position="147">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/264. Ugly Number II/Heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/264. Ugly Number II/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="47" column="22" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="47" selection-end-column="22" />
         </state>
       </provider>
     </entry>
