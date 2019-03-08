@@ -2,6 +2,10 @@
 class Solution(object):
     def isInterleave(self, s1, s2, s3):
         """
+        Solution: 2D-DP
+        Time Complexity: O(m*n)
+        Space Complexity: O(m*n)
+        Perf: Runtime: 40 ms, faster than 23.48% / Memory Usage: 10.9 MB, less than 38.89%
         :type s1: str
         :type s2: str
         :type s3: str
