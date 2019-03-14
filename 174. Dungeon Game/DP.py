@@ -5,6 +5,7 @@ class Solution(object):
         Solution: DP
         Time Complexity: O(m*n)
         Space Complexity: O(m*n)
+        Perf: Runtime: 32 ms, faster than 66.15% / Memory Usage: 11.7 MB, less than 15.38%
         Inspired By:
         - https://leetcode.com/problems/dungeon-game/discuss/52774/C++-DP-solution
         - https://leetcode.com/problems/dungeon-game/discuss/52774/C++-DP-solution/53800
@@ -24,7 +25,7 @@ class Solution(object):
         col = len(dungeon[0])
         DP = [[float('inf') for _ in range(col+1)] for _ in range(row+1)]
 
-        DP[row][col-1] = 1
+        DP[row][col-1] = 1 # !! need to initialize so we can get correct DP[row][col] as starting DP
         DP[row-1][col] = 1
 
         for i in range(row-1, -1, -1):
@@ -34,12 +35,12 @@ class Solution(object):
         return DP[0][0]
 
 
-'''
+
 dungeon = [[-2,-3,3],
           [-5,-10,1],
           [10,30,-5]]
-'''
-dungeon = [[100]]
+
+#dungeon = [[100]]
 
 #dungeon = [[0, -3]]
 
