@@ -5,6 +5,7 @@ class Solution(object):
         Solution: DP+BS
         Time Complexity: O(nlog(n))
         Space Complexity: O(n)
+        Perf: Runtime: 68 ms, faster than 74.58% / Memory Usage: 12.5 MB, less than 46.15%
         Inspired By:
         - A time complexity improved version based on simple DP solution
         - https://segmentfault.com/a/1190000003819886#articleHeader1

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/516. Longest Palindromic Subsequence/Bottom_Up_DP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project_X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_X.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213. House Robber II/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/403. Frog Jump/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/403. Frog Jump/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/403. Frog Jump/Seudo_Code_Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py" beforeDir="false" afterPath="$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,92 +18,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/221. Maximal Square/DFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/221. Maximal Square/DP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/746. Min Cost Climbing Stairs/DP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/975. Odd Even Jump/DP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/44. Wildcard Matching/DP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/718. Maximum Length of Repeated Subarray/2nd_Scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Bottom_Up_DP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/Bottom_Up_DP.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+            <state relative-caret-position="330">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary_Search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/375. Guess Number Higher or Lower II/Binary_Search.py">
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/174. Dungeon Game/DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-end-line="15" />
+            <state relative-caret-position="405">
+              <caret line="27" column="100" selection-start-line="27" selection-start-column="100" selection-end-line="27" selection-end-column="100" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2nd_scan_DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py">
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP_BS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q698_Partition_to_K_Equal_Sum_Subsets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q698_Partition_to_K_Equal_Sum_Subsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/403. Frog Jump/DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/403. Frog Jump/DP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/213. House Robber II/DP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Seudo_Code_Test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/403. Frog Jump/Seudo_Code_Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -161,12 +162,17 @@
         <option value="$PROJECT_DIR$/718. Maximum Length of Repeated Subarray/2nd_Scan.py" />
         <option value="$PROJECT_DIR$/516. Longest Palindromic Subsequence/Bottom_Up_DP.py" />
         <option value="$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/DP.py" />
+        <option value="$PROJECT_DIR$/174. Dungeon Game/DP.py" />
+        <option value="$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py" />
+        <option value="$PROJECT_DIR$/403. Frog Jump/DFS.py" />
+        <option value="$PROJECT_DIR$/403. Frog Jump/Seudo_Code_Test.py" />
+        <option value="$PROJECT_DIR$/213. House Robber II/DP.py" />
+        <option value="$PROJECT_DIR$/403. Frog Jump/DP.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2300" />
-    <option name="y" value="299" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -189,7 +195,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="221. Maximal Square" type="462c0819:PsiDirectoryNode" />
+              <item name="403. Frog Jump" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -233,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DP (1)">
-    <configuration name="2nd_Scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Seudo_Code_Test">
+    <configuration name="DFS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,47 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/300. Longest Increasing Subsequence" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/403. Frog Jump" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300. Longest Increasing Subsequence/2nd_Scan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/221. Maximal Square" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/221. Maximal Square/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="DP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/44. Wildcard Matching" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/44. Wildcard Matching/DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/403. Frog Jump/DFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,11 +266,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/221. Maximal Square" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/213. House Robber II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/221. Maximal Square/DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/213. House Robber II/DP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DP (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/174. Dungeon Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/174. Dungeon Game/DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,30 +302,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/343. Integer Break" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/403. Frog Jump" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/343. Integer Break/DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/403. Frog Jump/DP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Seudo_Code_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/403. Frog Jump" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/403. Frog Jump/Seudo_Code_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.2nd_Scan" />
+      <item itemvalue="Python.DP (3)" />
+      <item itemvalue="Python.DFS (1)" />
       <item itemvalue="Python.DP" />
-      <item itemvalue="Python.DFS" />
+      <item itemvalue="Python.Seudo_Code_Test" />
       <item itemvalue="Python.DP (2)" />
-      <item itemvalue="Python.DP (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DP (1)" />
-        <item itemvalue="Python.DP (2)" />
-        <item itemvalue="Python.DFS" />
+        <item itemvalue="Python.Seudo_Code_Test" />
         <item itemvalue="Python.DP" />
-        <item itemvalue="Python.2nd_Scan" />
+        <item itemvalue="Python.DP (2)" />
+        <item itemvalue="Python.DFS (1)" />
+        <item itemvalue="Python.DP (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -527,22 +533,35 @@
       <option name="project" value="LOCAL" />
       <updated>1552461391846</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2nd_scan/DP/#304,#516">
+      <created>1552586172180</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1552586172180</updated>
+    </task>
+    <task id="LOCAL-00027" summary="2nd_scan/DP/#174">
+      <created>1552607308475</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1552607308475</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2300" y="299" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21532364" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21532364" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -585,7 +604,9 @@
     <MESSAGE value="2nd_scan/DP/#746" />
     <MESSAGE value="2nd_scan/DP/#375,#44,#975" />
     <MESSAGE value="2nd_scan/DP/#718" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#718" />
+    <MESSAGE value="2nd_scan/DP/#304,#516" />
+    <MESSAGE value="2nd_scan/DP/#174" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd_scan/DP/#174" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -634,6 +655,21 @@
           <line>38</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/174. Dungeon Game/DP.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/403. Frog Jump/DFS.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/213. House Robber II/DP.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -642,66 +678,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/198. House Robber/2nd_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/198. House Robber/2nd_scan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -980,14 +960,70 @@
     <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/Bottom_Up_DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/DP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/174. Dungeon Game/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="100" selection-start-line="27" selection-start-column="100" selection-end-line="27" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/354. Russian Doll Envelopes/DP_BS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q698_Partition_to_K_Equal_Sum_Subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/403. Frog Jump/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/213. House Robber II/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/403. Frog Jump/DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/403. Frog Jump/Seudo_Code_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
