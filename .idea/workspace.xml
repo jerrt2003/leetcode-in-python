@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/Heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,38 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2nd_Scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/904. Fruit Into Baskets/2nd_Scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google_scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/929. Unique Email Addresses/google_scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google_scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/482. License Key Formatting/google_scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="90" selection-start-line="8" selection-start-column="90" selection-end-line="8" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/399. Evaluate Division/DFS.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/399. Evaluate Division/BFS.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,11 +59,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heap.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Heap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/Heap.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Union_Find.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS_Count_Island.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-554" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleScan_UF.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/578870132/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="2573" column="8" selection-start-line="2573" selection-start-column="8" selection-end-line="2573" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -115,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/338. Counting Bits/2nd_scan_bit_shift.py" />
         <option value="$PROJECT_DIR$/10. Regular Expression Matching/2nd_Scan.py" />
         <option value="$PROJECT_DIR$/139. Word Break/2nd_scan_recursion.py" />
         <option value="$PROJECT_DIR$/139. Word Break/2nd_scan_DFS.py" />
@@ -166,10 +167,11 @@
         <option value="$PROJECT_DIR$/399. Evaluate Division/google_scan_bfs.py" />
         <option value="$PROJECT_DIR$/844. Backspace String Compare/GoogleScan_Stack.py" />
         <option value="$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/Heap.py" />
+        <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -182,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,12 +194,13 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="857. Minimum Cost to Hire K Workers" type="462c0819:PsiDirectoryNode" />
+              <item name="947. Most Stones Removed with Same Row or Column" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2nd_Scan">
+  <component name="RunManager" selected="Python.GoogleScan_UF">
     <configuration name="2nd_Scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,24 +266,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DP (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/213. House Robber II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/213. House Robber II/DP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,6 +279,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/403. Frog Jump/DP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="GoogleScan_UF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,17 +323,17 @@
     <list>
       <item itemvalue="Python.DP" />
       <item itemvalue="Python.Seudo_Code_Test" />
-      <item itemvalue="Python.DP (2)" />
       <item itemvalue="Python.2nd_Scan_DFS" />
       <item itemvalue="Python.2nd_Scan" />
+      <item itemvalue="Python.GoogleScan_UF" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GoogleScan_UF" />
         <item itemvalue="Python.2nd_Scan" />
         <item itemvalue="Python.2nd_Scan_DFS" />
         <item itemvalue="Python.Seudo_Code_Test" />
         <item itemvalue="Python.DP" />
-        <item itemvalue="Python.DP (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -570,26 +572,34 @@
       <option name="project" value="LOCAL" />
       <updated>1553269668977</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Google/#857">
+      <created>1553531859705</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1553531859705</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21532364" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21532364" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36988112" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -599,14 +609,12 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2nd_scan/DP/#72" />
     <MESSAGE value="2nd_scan/DP/#96" />
     <MESSAGE value="2nd_scan/DP/#279" />
     <MESSAGE value="2nd_scan/DP/#303" />
@@ -631,7 +639,8 @@
     <MESSAGE value="Google/#904" />
     <MESSAGE value="Google/#929" />
     <MESSAGE value="Google/#399,#482,#844" />
-    <option name="LAST_COMMIT_MESSAGE" value="Google/#399,#482,#844" />
+    <MESSAGE value="Google/#857" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google/#857" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -705,6 +714,26 @@
           <line>13</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -713,31 +742,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="45" />
+      <option name="time" value="49" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/844. Backspace String Compare/GoogleScan_Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/303. Range Sum Query - Immutable/2nd_Scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="89" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="120" selection-start-line="15" selection-start-column="120" selection-end-line="15" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/413. Arithmetic Slices/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1019,9 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/399. Evaluate Division/DFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/399. Evaluate Division/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1062,6 +1067,32 @@
         <state relative-caret-position="165">
           <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/578870132/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="2573" column="8" selection-start-line="2573" selection-start-column="8" selection-end-line="2573" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/Union_Find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554" />
       </provider>
     </entry>
   </component>
