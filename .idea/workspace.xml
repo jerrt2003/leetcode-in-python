@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +23,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_Pointer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleScan_UF.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -47,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/96. Unique Binary Search Trees/2nd_scan.py" />
         <option value="$PROJECT_DIR$/312. Burst Balloons/2nd_scan.py" />
         <option value="$PROJECT_DIR$/312. Burst Balloons/DP_Bottom_Up.py" />
         <option value="$PROJECT_DIR$/279. Perfect Squares/DP.py" />
@@ -98,11 +115,13 @@
         <option value="$PROJECT_DIR$/410. Split Array Largest Sum/GoogleScan_DP.py" />
         <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" />
         <option value="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py" />
+        <option value="$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-2306" />
+    <option name="y" value="384" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -125,12 +144,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="222. Count Complete Tree Nodes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="308. Range Sum Query 2D - Mutable" type="462c0819:PsiDirectoryNode" />
+              <item name="777. Swap Adjacent in LR String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -169,7 +183,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GoogleScan_UF">
+  <component name="RunManager" selected="Python.2_Pointer">
+    <configuration name="2_Pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_X" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/777. Swap Adjacent in LR String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="2nd_Scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,24 +233,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/494. Target Sum/2nd_Scan_DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_X" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/403. Frog Jump" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/403. Frog Jump/DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +275,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.DP" />
       <item itemvalue="Python.Seudo_Code_Test" />
       <item itemvalue="Python.2nd_Scan_DFS" />
       <item itemvalue="Python.2nd_Scan" />
       <item itemvalue="Python.GoogleScan_UF" />
+      <item itemvalue="Python.2_Pointer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_Pointer" />
         <item itemvalue="Python.GoogleScan_UF" />
         <item itemvalue="Python.2nd_Scan" />
         <item itemvalue="Python.2nd_Scan_DFS" />
         <item itemvalue="Python.Seudo_Code_Test" />
-        <item itemvalue="Python.DP" />
       </list>
     </recent_temporary>
   </component>
@@ -540,11 +554,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553790236174</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Google/#308">
+      <created>1553874011168</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1553874011168</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="-2306" y="384" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -553,9 +574,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21475627" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21400264" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -576,7 +597,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2nd_scan/DP/#647" />
     <MESSAGE value="2nd_scan/DP/#115" />
     <MESSAGE value="2nd_scan/DP/#413" />
     <MESSAGE value="2nd_scan/DP/#91/A must read solution" />
@@ -601,7 +621,8 @@
     <MESSAGE value="Google/#947" />
     <MESSAGE value="Google/#159,#222,#410" />
     <MESSAGE value="Google/#939" />
-    <option name="LAST_COMMIT_MESSAGE" value="Google/#939" />
+    <MESSAGE value="Google/#308" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google/#308" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,17 +724,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="52" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/139. Word Break/Q139_Word_Break.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1016,13 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/222. Count Complete Tree Nodes/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1053,6 +1060,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
         </state>
       </provider>
     </entry>
