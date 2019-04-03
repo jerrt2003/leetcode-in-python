@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/158. Read N Characters Given Read4 II - Call multiple times/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/981. Time Based Key-Value Store/BS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +42,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="150">
+              <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/158. Read N Characters Given Read4 II - Call multiple times/Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/981. Time Based Key-Value Store/BS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -86,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/312. Burst Balloons/DP_Bottom_Up.py" />
-        <option value="$PROJECT_DIR$/279. Perfect Squares/DP.py" />
         <option value="$PROJECT_DIR$/Q279_Perfect_Squares.py" />
         <option value="$PROJECT_DIR$/303. Range Sum Query - Immutable/2nd_Scan.py" />
         <option value="$PROJECT_DIR$/647. Palindromic Substrings/Linear.py" />
@@ -137,6 +154,8 @@
         <option value="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py" />
         <option value="$PROJECT_DIR$/777. Swap Adjacent in LR String/2_Pointer.py" />
         <option value="$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py" />
+        <option value="$PROJECT_DIR$/158. Read N Characters Given Read4 II - Call multiple times/Solution.py" />
+        <option value="$PROJECT_DIR$/981. Time Based Key-Value Store/BS.py" />
       </list>
     </option>
   </component>
@@ -164,12 +183,12 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="777. Swap Adjacent in LR String" type="462c0819:PsiDirectoryNode" />
+              <item name="939. Minimum Area Rectangle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="939. Minimum Area Rectangle" type="462c0819:PsiDirectoryNode" />
+              <item name="981. Time Based Key-Value Store" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -588,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553880366527</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Google/#642">
+      <created>1554136915854</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1554136915854</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -603,7 +629,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -624,7 +650,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2nd_scan/DP/#413" />
     <MESSAGE value="2nd_scan/DP/#91/A must read solution" />
     <MESSAGE value="2nd_scan/DP/#322/adding DFS solution" />
     <MESSAGE value="2nd_scan/DP/#140/2nd_Scan/DFS(TLE) and DP" />
@@ -649,7 +674,8 @@
     <MESSAGE value="Google/#939" />
     <MESSAGE value="Google/#308" />
     <MESSAGE value="Google/#777" />
-    <option name="LAST_COMMIT_MESSAGE" value="Google/#777" />
+    <MESSAGE value="Google/#642" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google/#642" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -755,14 +781,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/97. Interleaving String/3_pointer.py" />
     <entry file="file://$PROJECT_DIR$/97. Interleaving String/DP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1099,11 +1117,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="150">
+          <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
           <folding>
             <element signature="e#24#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/158. Read N Characters Given Read4 II - Call multiple times/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/981. Time Based Key-Value Store/BS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
         </state>
       </provider>
     </entry>
