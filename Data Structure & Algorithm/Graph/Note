@@ -1,0 +1,8 @@
+1. Topological Sorting
+- (DAG: Directed acyclic graph 有向圖)
+2. Dijkestra Algorithm(min cost from certain point)
+3. Min-spanning Tree(min cost for 全局)
+4. Union-Find
+
+解題：
+- stack / priority queue

@@ -1,0 +1,14 @@
+In the string ABCB, the second and forth letters are the same and the first and third letters are unique.
+The same is true of the string XYZY.
+Write a function that takes in two strings and returns whether they have their matching letters in the same locations
+--e.g. the input (ABCBB, XQZQQ) would return True, and the input (ABCB, ABCA) would return False
+(because the second and forth letters of ABCB match, but the first and forth letters of ABCA match).
+
+
+Call a string “valid” if it introduces new letters in alphabetical order: the first letter is an A,
+the first letter that isn’t an A is a B, the first letter that isn’t an A or a B is a C, and so on.
+So AAAABAC is valid, but BCD is not and ABD is not. Write a function to determine if a string is valid.
+
+
+
+

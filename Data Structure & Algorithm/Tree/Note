@@ -1,0 +1,7 @@
+Tree:
+- BST: binary search tree
+- In order traversal: left -> root -> right
+- Pre order: root -> left -> right (the traversal will be in order)
+- Post order: left -> right -> root
+- Trie (Prefix Tree)
+- Segment Tree

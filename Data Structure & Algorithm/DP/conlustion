@@ -1,0 +1,91 @@
+2 kinds of DP:
+1. Recursion w/ memorization (top down)
+2. DP (bottom up)
+
+LC 70. Climbing Stairs
+f(n)=f(n-1)+f(n-2)
+
+Recursive:
+def f(n):
+    if n < 1: return 1
+    return f(n-1) + f(n-2)
+time complexity: O(2^n) / space complexity: O(n)
+
+Recursive w/ memorization:
+def f(n):
+    if n < 1: return 1
+    if mem[n] is not None: return mem[n]
+    mem[n] = f(n-1)+f(n-2)
+    return mem[n]
+time complexity: O(n) / space complexity: O(n)
+
+DP:
+DP = [1 * (n+1)] <-- padding
+for i in range(2, n+1):
+    DP[i] = DP[i-1]+DP[i-2]
+return DP[-1]
+
+Main difference between recursive+mem and DP:
+a) for loop:
+DP: No / Recursive+mem: Yes
+b) DP initialize:
+DP: Yes / Recursive+mem: No
+c) 降維
+DP: Yes / Recursive+mem: No
+d) padding (多加一列)
+DP: Yes / Recursive+mem: No
+e) 自動求解：
+DP: No / Recursive+mem: Yes
+
+Templates:
+DP)
+dp = [....] # create DP / add padding if needed
+dp[0][0] = ... # init DP (base cases)
+for i in ...:
+    for j in ...:
+        DP[i][j] = .... # transition
+return DP[m][n]
+
+Recursive+Mem)
+mem = ... # create mem
+def dp(i, j, ...):
+    if base_case(i, j): return ... # base cases
+    if mem[i][j]: return mem[i][j]
+    else:
+        mem[i][j] = ....
+        return mem[i][j]
+return dp(i,j)
+
+Type 1. Input O(n)
+------------------------------------
+dp = [0]*n
+for i in range(n):
+    dp[n] = f(dp(n-1), dp(n-2)....)
+return DP[n]
+
+Ex. 70/198/801/790/746/
+
+Type 2. Input O(n)
+------------------------------------
+dp[i] depends on all sub problems (依賴所有子問題)
+
+dp = [...]
+for i in range(n):
+    for j in range(j):
+        dp[i] = max/min(dp[i], f(dp[j]))
+return dp[-1]
+
+Ex. 139/818
+
+Type 3. Input O(m)+O(n)
+------------------------------------
+通常需要padding
+
+dp = [m+1][n+1]
+for i in range(m):
+    for j in range(n):
+        DP[i][j] = max/min(DP[i-1][j-1],DP[i-1][j],DP[i][j-1])
+return DP[-1][-1]
+
+Ex. 139/818
+
