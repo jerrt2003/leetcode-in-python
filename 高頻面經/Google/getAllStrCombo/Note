@@ -1,0 +1,4 @@
+楼主4/3日第二轮电面，interviewer 晚来了10分钟。题目如下：把输入里的每个group的string排列组合输出 . 1point3acres
+Example: Input: a{1,2,3}{b,c}
+Output: a1b a1c a2b a2c a3b a3c
+其中a, 1, 2,3， a, b, c都可以是长string,。一个group假如只有一个string,就可以不用{}包起来思路很简单,感觉是对string的考察。

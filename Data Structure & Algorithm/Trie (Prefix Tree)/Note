@@ -1,0 +1,29 @@
+模版:
+class Trie(object):
+    def __init__(self, val=None):
+        self.val = val
+        self.children = dict()
+        self.isEnd = False
+
+class Solution(object):
+    def sol(self):
+        self.root = Trie()
+
+    def add(self, word):
+        root = self.root
+        for c in word:
+            if c not in root.children:
+                newTrie = Trie(c)
+                root.children[c] = newTrie
+            root = root.children[c]
+        root.isEnd = True
+
+    def search(self, word):
+        root = self.root
+        for c in word:
+            if c not in root.children:
+                return False
+            root = root.children[c]
+        return root.isEnd
+
+Problem: #211

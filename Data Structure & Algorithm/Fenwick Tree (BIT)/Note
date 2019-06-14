@@ -1,0 +1,20 @@
+模版：
+class FenwickTree(object):
+    def __init__(self, n):
+        self.tree = [0]*(n+1) # tree長度為list長度+1
+
+    def update(self, i, delta):
+        while i < len(self.tree):
+            self.tree[i] += delta
+            i += i&(-i) # next i: i + i's lowerbit
+
+    def query(self, i): #前i個元素之total(含自己)
+        sum = 0
+        while i > 0:
+            sum += self.tree[i]
+            i -= i&(-i) # next i: i - i's lowerbit
+        return sum
+
+
+題目：
+- Google: 開關燈

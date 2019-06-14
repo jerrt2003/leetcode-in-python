@@ -1,0 +1,40 @@
+Please use this Google doc during your interview (your interviewer will see what you write here). To free your hands for typing, we recommend using a headset or speakerphone.
+
+
+
+Q: Given a list of integers (0 <= num[i] <= 100), split it into k subarrays in a way that maximizes the lowest subarray sum, outputs the lowest subarray sum value.
+
+[1, 2, 3, 3, 2, 4, 4], k = 3 -> [1, 2, 3] | [3, 2] | [4, 4], output 5
+[3, 3, 10, 3, 3, 12], k = 2 -> [3, 3, 10] | [3, 3, 12], output 16
+x <= sum(input) / k
+
+1,1,-100
+
+# nums is a list of integers, each element is in between [0, 100].
+# k is the number of subarrays.
+def lowest_subarray_sum(nums, k):
+  l, r = min(input), sum(input)/k+1
+
+  def isValid(target):
+       total = 0
+       count = 0
+       for num in nums:
+           total += num
+           if total >= target:
+               count += 1
+               total = 0
+       return count >= k
+
+  while l < r:
+     mid = (l+r-1)/2
+     if isValid(mid):
+        l = mid
+     else:
+        r = mid-1
+
+ return l
+
+l = 0, r = 2
+mid = 0
+
+lb = sum() / k - max(inputs)

@@ -1,0 +1,15 @@
+http://tinyurl.com/y4rtpuh5
+===========================
+given a n level perfectly balanced binary tree, the value of each node has a value = post order traverse value.
+for example, a n = 3 tree will look like this:
+
+       7
+     /   \
+   3      6
+  / \    / \
+1    2  4   5
+
+write a function that will return each node's parent in an array
+public int[] findParent (int n, int[] q)
+
+example: n = 3, q[] = {1 3, 6 , 7} will return {3, 7, 7, -1}

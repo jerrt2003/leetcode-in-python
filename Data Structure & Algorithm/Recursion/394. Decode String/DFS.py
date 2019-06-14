@@ -3,8 +3,8 @@ class Solution(object):
     def decodeString(self, s):
         """
         Solution: DFS
-        Time Complexity: O(n)
-        Space Complexity: O(n)
+        Time Complexity:
+        Space Complexity:
         Inspired By: MySELF!!
         TP:
         - scanning the s from left to right and:
@@ -52,7 +52,7 @@ class Solution(object):
                     res += s[i]
                 elif s[i].isdigit():
                     multiply += s[i]
-                elif s[i] == '[':
+                elif s[i] == ']':
                     tmp, i = decode(s, i+1)
                     res = res + int(multiply)*tmp
 

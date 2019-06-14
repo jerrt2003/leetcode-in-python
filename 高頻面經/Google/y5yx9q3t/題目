@@ -1,0 +1,23 @@
+有两个list:A,B
+返回：
+all element in A that not in B,
+all element in B that not in A.
+
+问了一些问题去clarify。比如在A,B里面是否有duplicated的。然后list里面是什么东西，面试官说都行，我就和她说假设是integer吧，开始做的时候面试官没讲清楚，比如:
+A:1,2,2,2,3,4
+B:2,5
+我返回了：
+resultA: 1,3,4
+resultB:5
+写完之后面试官告诉我不对，应该返回:
+resultA: 1,2,2,3,4
+resultB: 5
+面试官开始没讲清楚，我就按照题意去理解了。反正改起来也不难，就又重新写了。
+
+开始的做法是最直观的。用了两个HashMap存每个list里面每个integer的frequency。每个list走两遍。这样time是O(m+n)。m是A的size，n是B的size。space是result两个list和两个HashMap。
+然后写完后，面试官和我说能不能不用HashMap。我就问了两个list是sorted的吗，她说不是。我问那我可以sort一下，然后用two pointer。但是这样time就变成了Max(mlogm,nlogn, m+n)。
+对方没直接回答我，就说如果在去掉HashMap的基础上，牺牲点时间是必要的，那就可以。然后我就用two pointer去做了。
+逻辑就是：在sorted的A和B中，各keep一个pointer。
+如果A[pA] < B[pB] 那A[pA]肯定是 element in A that not in B --> pA++
+如果A[pA] > B[pB] 那B[pB]肯定是 element in B that not in A --> pB++
+如果A[pA] == B[pB] 那A[pA]和B[pB]都不符合要求 --> pA++, pB++

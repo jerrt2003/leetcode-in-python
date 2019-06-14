@@ -1,0 +1,20 @@
+Template:
+- 左閉右開 [l, r)
+
+def BS(l, r):
+    while l < r:
+        m = (l+r-1)/2
+        (optional) if f(m): return m <-- recommands: don't use, either way we'll find smallest number which satisfy g(m) (or f(m)
+        if g(m):
+            r = m
+        else:
+            l = m+1
+    return l
+
+** The key to the binary search is: Not to find the exact answer, but find the split point m such that for
+all numbers n, n >= m, conditions g(m) will be satisfied, then m will naturally become answer for free
+
+** the list for searching should be 單調遞增 (monotonic increasing)
+
+
+Find minimal 'm' which satisfy g(m)

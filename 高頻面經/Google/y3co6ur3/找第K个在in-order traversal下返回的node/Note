@@ -1,0 +1,2 @@
+热乎的google电面， 不知道为什么感觉凉了。。。对面小伙子一直有气无力的。。。
+题目感觉很简单：找第K个在in-order traversal下返回的node，每个node有一个值代表他总共有多少children

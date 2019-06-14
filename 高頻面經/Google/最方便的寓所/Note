@@ -1,0 +1,16 @@
+====================================================================================================
+假设一条街上有多个block，一个block上有多个建筑。想在这条街上的block安家，求满足特定建筑的最远距离最短是多少。例子：
+street = [[“store”, “school”, “museum”], [“hospital”, “restaurant”], [“school”, “restaurant”], [], [“museum”]], requirement = [“store”, “museum”, “restaurant”].
+第一个block到最近store是0，到最近museum是0，到最近restaurant是1，所以它的max是1
+第二个block到最近store是1，到最近museum是1，到最近restaurant是0，所以它的max是1
+第三个block到最近store是2，到最近museum是2，到最近restaurant是0，所以它的max是2.
+第四个block到最近store是3，到最近museum是1，到最近restaurant是1，所以它的max是3
+第五个block到最近store是4，到最近museum是0，到最近restaurant是2，所以它的max是4
+所以返回最远距离最短 1
+http://tinyurl.com/y294rhgu
+
+=================================================================================================
+一列street block，每个street block上都有POI （Point of Interests），比如学校，商店，诊所等等。也可能没有。
+给定一个list of requirements, 比如[grocery，school]，找到距离所有requirement最近的apartment位置。
+follow up是如果只有一些street block有apartment怎么办
+http://tinyurl.com/y5yoe3qx
