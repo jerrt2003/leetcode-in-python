@@ -35,6 +35,6 @@ class Solution(object):
             for i in range(idx):
                 buf[count] = self.queue.pop(0)
                 count += 1
-            if not self.queue or count == n:
+            if idx == 0:
                 break
         return count
