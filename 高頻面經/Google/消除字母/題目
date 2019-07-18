@@ -1,0 +1,6 @@
+第二轮：白人小哥，先狂问了一些java基础和ood的基础，java中的多继承，什么是封装，composition（聚合）和继承什么区别，
+什么是多态，java中什么是checked exception，什么是runtime exception。其他的记不起来了，因为我说我主语言是java，
+恰好小哥也很喜欢java，所以这轮问我基础问得很多。
+然后是做题，string deduplication的变种，给一个string，保证全是大小写英文字母，当出现同一个字母的一个大写挨着一个小写时候，消除掉这个pair。
+
+

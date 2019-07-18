@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import pq
 class Solution(object):
     def nthUglyNumber(self, n):
         """
@@ -13,14 +13,14 @@ class Solution(object):
         """
         cand = [1]
         for i in range(n-1):
-            k = heapq.heappop(cand)
+            k = pq.heappop(cand)
             if k*2 not in cand:
-                heapq.heappush(cand, k*2)
+                pq.heappush(cand, k * 2)
             if k*3 not in cand:
-                heapq.heappush(cand, k*3)
+                pq.heappush(cand, k * 3)
             if k*5 not in cand:
-                heapq.heappush(cand, k*5)
-        return heapq.heappop(cand)
+                pq.heappush(cand, k * 5)
+        return pq.heappop(cand)
 
 n = 10
 print Solution().nthUglyNumber(10)

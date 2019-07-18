@@ -4,7 +4,7 @@
 #     def __init__(self, s=0, e=0):
 #         self.start = s
 #         self.end = e
-import heapq
+import pq
 class Solution(object):
     def minMeetingRooms(self, intervals):
         """
@@ -23,8 +23,8 @@ class Solution(object):
                 schedule.append(interval.end)
             else:
                 if interval.start >= schedule[0]:
-                    heapq.heappushpop(schedule, interval.end)
+                    pq.heappushpop(schedule, interval.end)
                 else:
-                    heapq.heappush(schedule, interval.end)
+                    pq.heappush(schedule, interval.end)
         return len(schedule)
 

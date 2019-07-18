@@ -1,36 +1,46 @@
-# -*- coding: utf-8 -*-
 class Solution(object):
+    def findAllCombination(self, s):
+        m = len(s)
 
-    def dfs(self, s):
-        finalResult = ''
-        result = ['']
-        inBrace = False
-        currentWord = ''
-        currentQueue = []
-        for i in s:
-            if i is '{':
-                inBrace = True
-            elif i is '}':
-                inBrace = False
-                currentQueue.append(currentWord)
-                currentWord = ''
-                result = [a + b for b in currentQueue for a in result]
-                currentQueue = []
-            elif i is ',' and inBrace:
-                currentQueue.append(currentWord)
-                currentWord = ''
-            elif i is ',':
-                result = [a + i for a in result]
-                finalResult = finalResult + ','.join(result)
-                result = ['']
-            else:
-                if not inBrace:
-                    result = [a + i for a in result]
-                else:
-                    currentWord += i
-        return finalResult + ','.join(result)
+        def dfs(i):
+            ret = []
+            cacheList = []
+            cache = ''
+            while i < m:
+                if s[i] == '}':
+                    if cache and cacheList:
+                        cacheList = [a+cache for a in cacheList]
+                        ret.extend(cacheList)
+                    elif cacheList:
+                        ret.extend(cacheList)
+                    elif cache:
+                        ret.append(cache)
+                    return i, ret
+                elif s[i] == '{':
+                    i, insideResult = dfs(i+1)
+                    if cache:
+                        cacheList = [cache + a for a in insideResult]
+                        cache = ''
+                elif s[i] == ',':
+                    if cache and cacheList:
+                        cacheList = [a + cache for a in cacheList]
+                        ret.extend(cacheList)
+                    elif cache:
+                        ret.append(cache)
+                    cacheList = []
+                    cache = ''
+                elif s[i].isalnum():
+                    cache += s[i]
+                i += 1
+            if cache and cacheList:
+                ret = [a + cache for a in cacheList]
+            elif cache:
+                ret.append(cache)
+            return i, ret
+
+        _, result = dfs(0)
+        return result
 
 
-input = 'a{{1,2},b}c'
-
-print Solution().dfs(input)
+#assert Solution().findAllCombination('a{b,c{1,2}d,e}f') == ['abf','ac1df','ac2df','aef']
+assert Solution().findAllCombination('a{b,c{1,2}}{h,i}') == ['abh','abi','ac1h','ac1i','ac2h','ac2i']

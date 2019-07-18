@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import pq
 class GoogleInterview(object):
     """
     原题：一组坐标表示人，另一组表示车，车比人多，给每个人匹配最近的车。其中人和车的距离没有tie。
@@ -18,12 +18,12 @@ class GoogleInterview(object):
         pq = []
         for i, p in enumerate(people):
             for j, c in enumerate(cars):
-                heapq.heappush(pq, (dist(p, c), i, j))
+                pq.heappush(pq, (dist(p, c), i, j))
 
         visit_p = set()
         visit_c = set()
         while len(res) < len(people):
-            cand = heapq.heappop(pq)
+            cand = pq.heappop(pq)
             p, c = cand[1], cand[1]
             if p in visit_p or c in visit_c:
                 continue

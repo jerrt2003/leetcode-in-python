@@ -5,7 +5,7 @@ def matching(string1, string2):
         return False
     pos1 = collections.defaultdict(list)
     pos2 = collections.defaultdict(list)
-    for i, char in enumerate(string1):
+    for i, char in enumerate(string1):多餘
         pos1[char].append(i)
     for i, char in enumerate(string2):
         pos2[char].append(i)

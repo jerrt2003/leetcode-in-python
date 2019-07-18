@@ -24,7 +24,7 @@ class Solution(object):
         self.course = [[] for _ in range(numCourses)]
         self.visit = [0 for _ in range(numCourses)]
         for x, y in prerequisites:
-            self.course[x].append(y)
+            self.course[y].append(x)
         for i in range(numCourses):
             if not self.dfs(i):
                 return False

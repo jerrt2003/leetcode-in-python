@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq, collections
+import pq, collections
 class Solution(object):
     def findCheapestPrice(self, n, flights, src, dst, K):
         """
@@ -24,7 +24,7 @@ class Solution(object):
         best = dict()
         pq = [(0, 0, src)]
         while pq:
-            curr_cost, curr_stop, curr_city = heapq.heappop(pq)
+            curr_cost, curr_stop, curr_city = pq.heappop(pq)
             if curr_stop > K+1 or curr_cost > best.get((curr_stop, curr_city), float('inf')):
                 continue
             if curr_city == dst:
@@ -33,7 +33,7 @@ class Solution(object):
                 new_cost = cost + curr_cost
                 if new_cost < best.get((curr_stop+1, dst), float('inf')):
                     best[(curr_stop+1, next_stop)] = new_cost
-                    heapq.heappush(pq, (new_cost, curr_stop+1, next_stop))
+                    pq.heappush(pq, (new_cost, curr_stop + 1, next_stop))
         return -1
 
 '''

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import pq
 class Solution(object):
     def usingSlope(self, pts):
         pts.sort(key=lambda x: (x[0], x[1]))

@@ -1,0 +1,11 @@
+1. decide if a array can be divided into 2 sub-array which had 2 equal sum
+if yes, return true and print array
+=> [5,2,3] -> true, ([5],[2,3])
+=> [1,2,6] -> false
+(Sol: DFS)
+
+2. Minesweeper: given width: W, length: L and mine-number: M
+generate a grid which placed mine randomly
+
+- followup:
+at each of non-mine cell, fill-in the total number of adjacent mine number

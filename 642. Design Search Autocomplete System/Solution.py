@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import collections
-import heapq
+import pq
 class AutocompleteSystem(object):
 
     def __init__(self, sentences, times):

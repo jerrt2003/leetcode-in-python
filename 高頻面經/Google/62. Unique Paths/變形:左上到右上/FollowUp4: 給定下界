@@ -1,0 +1,9 @@
+思路：
+1：先dp一遍，得到所有到右上的路径数量
+2：然后在 0<=x<=H, 0<=y<=cols 这个小矩形中再DP一遍得到不经过下界的所有路径数量
+3：两个结果相减得到最终路径数量
+Code
+重用follow up 1的代码
+public int uniquePaths(int rows, int cols, int H) {
+	return uniquePaths(rows, cols) - uniquePaths(H, cols);
+}

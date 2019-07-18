@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import heapq as pq
 class MinimumSpanningTree(object):
 
     def findMinimumSpanningTree(self, graph, start_node, nodeNum):
@@ -16,13 +16,13 @@ class MinimumSpanningTree(object):
         v = set() # to store vertex
 
         for node, cost in graph[start_node]:
-            heapq.heappush(nextAvaiable, (cost, node, (start_node, node)))
+            pq.heappush(nextAvaiable, (cost, node, (start_node, node)))
 
         while count < nodeNum:
-            cost, node, vertex = heapq.heappop(nextAvaiable)
+            cost, node, vertex = pq.heappop(nextAvaiable)
             if node not in visited:
                 for next_node, next_cost in graph[node]:
-                    heapq.heappush(nextAvaiable, (next_cost, next_node, (node, next_node)))
+                    pq.heappush(nextAvaiable, (next_cost, next_node, (node, next_node)))
                 visited.add(node)
                 count += 1
                 v.add(vertex)

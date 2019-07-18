@@ -4,7 +4,7 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-import heapq
+import pq
 class Solution(object):
     def mergeKLists(self, lists):
         """
@@ -20,11 +20,11 @@ class Solution(object):
         start = head
         for node in lists:
             if node:
-                heapq.heappush(stack, (node.val, node))
+                pq.heappush(stack, (node.val, node))
         while stack:
-            val, curNode = heapq.heappop(stack)
+            val, curNode = pq.heappop(stack)
             head.next = curNode
             if curNode.next:
-                heapq.heappush(stack, (curNode.next.val, curNode.next))
+                pq.heappush(stack, (curNode.next.val, curNode.next))
             head = head.next
         return start.next

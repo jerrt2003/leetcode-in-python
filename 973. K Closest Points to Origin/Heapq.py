@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq, math
+import pq, math
 class Solution(object):
     def kClosest(self, points, K):
         """
@@ -13,12 +13,12 @@ class Solution(object):
         """
         neareast = []
         for i, j in points:
-            heapq.heappush(neareast, (-math.sqrt(i * i + j * j), [i, j]))
+            pq.heappush(neareast, (-math.sqrt(i * i + j * j), [i, j]))
             if len(neareast) > K:
-                heapq.heappop(neareast)
+                pq.heappop(neareast)
         res = []
         while neareast:
-            res.append(heapq.heappop(neareast)[1])
+            res.append(pq.heappop(neareast)[1])
         return res
 
 

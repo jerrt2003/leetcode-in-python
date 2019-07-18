@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import pq
 class Solution(object):
     """
     Union_Find + heapq
@@ -8,10 +8,10 @@ class Solution(object):
         UF = UnionFind(numTotalAvailableCities, roadsAvailable)
         candidate_road = []
         for city1, city2, cost in costNewRoadsConstruct:
-            heapq.heappush(candidate_road, (cost, city1, city2))
+            pq.heappush(candidate_road, (cost, city1, city2))
         res = 0
         while numTotalAvailableRoads < numTotalAvailableCities-1:
-            cost, city1, city2 = heapq.heappop(candidate_road)
+            cost, city1, city2 = pq.heappop(candidate_road)
             r1 = UF.find(city1)
             r2 = UF.find(city2)
             if r1 != r2:

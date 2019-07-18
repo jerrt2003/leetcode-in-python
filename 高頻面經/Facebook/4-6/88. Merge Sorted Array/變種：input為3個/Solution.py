@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import heapq
+import pq
 class Solution(object):
     def sortNArray(self, nums1, nums2, nums3):
         """
@@ -13,24 +13,24 @@ class Solution(object):
         pq = []
         res = []
         if nums1:
-            heapq.heappush(pq, (nums1.pop(0),1))
+            pq.heappush(pq, (nums1.pop(0), 1))
         if nums2:
-            heapq.heappush(pq, (nums2.pop(0),2))
+            pq.heappush(pq, (nums2.pop(0), 2))
         if nums3:
-            heapq.heappush(pq, (nums3.pop(0),3))
+            pq.heappush(pq, (nums3.pop(0), 3))
         while pq:
-            num, arrayIdx = heapq.heappop(pq)
+            num, arrayIdx = pq.heappop(pq)
             if num not in res:
                 res.append(num)
             if arrayIdx == 1:
                 if nums1:
-                    heapq.heappush(pq, (nums1.pop(0), 1))
+                    pq.heappush(pq, (nums1.pop(0), 1))
             elif arrayIdx == 2:
                 if nums2:
-                    heapq.heappush(pq, (nums2.pop(0), 2))
+                    pq.heappush(pq, (nums2.pop(0), 2))
             else:
                 if nums3:
-                    heapq.heappush(pq, (nums3.pop(0), 3))
+                    pq.heappush(pq, (nums3.pop(0), 3))
         return res
 
 assert Solution().sortNArray([1,2,3,10],[2,2,4,7],[3,3,9,11,12]) == [1,2,3,4,7,9,10,11,12]

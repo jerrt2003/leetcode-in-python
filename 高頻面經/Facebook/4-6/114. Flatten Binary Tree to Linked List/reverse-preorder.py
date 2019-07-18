@@ -9,6 +9,7 @@
 class Solution(object):
     def flatten(self, root):
         """
+        Perf: Runtime: 28 ms, faster than 62.82% / Memory Usage: 12.1 MB, less than 65.53%
         :type root: TreeNode
         :rtype: None Do not return anything, modify root in-place instead.
         """

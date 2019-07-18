@@ -19,7 +19,7 @@ class Solution(object):
                         while stack:
                             ii, jj = stack.pop(0)
                             for x, y in [(ii - 1, jj), (ii + 1, jj), (ii, jj - 1), (ii, jj + 1)]:
-                                if 0 <= x < m and 0 <= y < n and grid[i][j] == '1' and uf.parent[x * n + y] != r:
+                                if 0 <= x < m and 0 <= y < n and grid[i][j] == '1' and uf.parent[x * n + y] != r and (x,y) not in stack:
                                     uf.union(ii * n + jj, x * n + y)
                                     stack.append((x, y))
         return len(res)

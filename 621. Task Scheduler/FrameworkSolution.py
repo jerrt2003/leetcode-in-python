@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import collections
-import heapq
+import pq
 class Solution(object):
     def leastInterval(self, tasks, n):
         """
@@ -25,14 +25,14 @@ class Solution(object):
 
         _heap = []
         for i in range(max_freq-1):
-            heapq.heappush(_heap, (len(base_sec), base_sec[:]))
+            pq.heappush(_heap, (len(base_sec), base_sec[:]))
         freq2task_map = [(k, v) for k, v in freq2task_map.iteritems()]
         while freq2task_map:
             k, v = freq2task_map.pop()
             for i in range(v):
-                sec_len, sec = heapq.heappop(_heap)
+                sec_len, sec = pq.heappop(_heap)
                 sec.append(k)
-                heapq.heappush(_heap, (1+sec_len, sec))
+                pq.heappush(_heap, (1 + sec_len, sec))
         while _heap:
             sec_len, sec = _heap.pop()
             res += max(n+1, sec_len)
