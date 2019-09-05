@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from collections import OrderedDict
+from hash2 import OrderedDict
 class LRUCache(object):
 
     def __init__(self, capacity):

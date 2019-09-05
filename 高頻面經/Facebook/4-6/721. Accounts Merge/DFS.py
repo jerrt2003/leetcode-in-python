@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def accountsMerge(self, accounts):
         """
@@ -9,7 +9,7 @@ class Solution(object):
         :rtype: List[List[str]]
         """
         em_to_name = {}
-        em_maps = collections.defaultdict(list)
+        em_maps = hash2.defaultdict(list)
         for acct in accounts:
             name = acct[0]
             emails = acct[1:]

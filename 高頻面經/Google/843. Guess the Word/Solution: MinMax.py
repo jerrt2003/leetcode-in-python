@@ -10,7 +10,7 @@
 #        :rtype int
 #        """
 
-import collections
+import hash2
 import random
 class Solution(object):
     def findSecretWord(self, wordlist, master):
@@ -21,7 +21,7 @@ class Solution(object):
         """
         n = 0
         while n < 6:
-            countCheck = collections.defaultdict(list)
+            countCheck = hash2.defaultdict(list)
             for w1 in wordlist:
                 k = 0
                 for w2 in wordlist:

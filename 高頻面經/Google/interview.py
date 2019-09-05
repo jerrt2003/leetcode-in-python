@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 def matching(string1, string2):
     if len(string1) != len(string2):
         return False
-    pos1 = collections.defaultdict(list)
-    pos2 = collections.defaultdict(list)
+    pos1 = hash2.defaultdict(list)
+    pos2 = hash2.defaultdict(list)
     for i, char in enumerate(string1):多餘
         pos1[char].append(i)
     for i, char in enumerate(string2):

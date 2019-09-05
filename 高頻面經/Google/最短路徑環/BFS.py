@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     """
     Time Complexity: O(V(V+E))
@@ -23,7 +23,7 @@ class Solution(object):
                             stack.append(neighbor)
             return float('inf')
 
-        dir_maps = collections.defaultdict(list)
+        dir_maps = hash2.defaultdict(list)
         for s, e in edges:
             dir_maps[s].append(e)
         level = float('inf')

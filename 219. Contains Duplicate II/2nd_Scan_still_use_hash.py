@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def containsNearbyDuplicate(self, nums, k):
         """
@@ -7,7 +7,7 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        dup = collections.defaultdict(list)
+        dup = hash2.defaultdict(list)
         for i in range(len(nums)):
             if nums[i] in dup and i - dup[nums[i]][-1] <= k:
                 return True

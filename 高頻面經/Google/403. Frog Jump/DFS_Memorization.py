@@ -10,6 +10,7 @@ class Solution(object):
         :rtype: bool
         """
         DP = dict()
+
         def dfs(prev_pos, prev_jump):
             curr_pos = prev_pos + prev_jump
             if curr_pos == stones[-1]:
@@ -18,15 +19,10 @@ class Solution(object):
                 return False
             if (curr_pos, prev_jump) in DP.keys():
                 return DP[(curr_pos, prev_jump)]
-            if not dfs(curr_pos, prev_jump+1) and not dfs(curr_pos, prev_jump-1) and not dfs(curr_pos, prev_jump):
+            if dfs(curr_pos, prev_jump + 1) or dfs(curr_pos, prev_jump - 1) or dfs(curr_pos, prev_jump):
+                return True
+            else:
                 DP[(curr_pos, prev_jump)] = False
                 return False
-            return True
 
         return dfs(stones[0], 1)
-
-#stones = [0,1,3,5,6,8,12,17]
-
-stones = [0,2]
-
-print Solution().canCross(stones)

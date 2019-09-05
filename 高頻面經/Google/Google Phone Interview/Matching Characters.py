@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def matchingChar(self, str1, str2):
         def findPattern(str):
-            _firstHit = collections.defaultdict(int)
+            _firstHit = hash2.defaultdict(int)
             pattern = []
             for i in range(len(str)):
                 if str[i] not in _firstHit:

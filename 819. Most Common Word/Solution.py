@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import re, collections
+import re, hash2
 class Solution(object):
     def mostCommonWord(self, paragraph, banned):
         """
@@ -8,7 +8,7 @@ class Solution(object):
         :rtype: str
         """
         banset = banned
-        word_count = collections.Counter(re.split("; |,|\*|\n |\!|\.|\ |\?|\'", paragraph.lower()))
+        word_count = hash2.Counter(re.split("; |,|\*|\n |\!|\.|\ |\?|\'", paragraph.lower()))
         res, freq = None, -float('inf')
         for k, v in word_count.iteritems():
             if v > freq and k not in banset and k != '':

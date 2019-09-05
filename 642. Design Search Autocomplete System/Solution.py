@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 import pq
 class AutocompleteSystem(object):
 
@@ -12,7 +12,7 @@ class AutocompleteSystem(object):
         :type sentences: List[str]
         :type times: List[int]
         """
-        self.history = collections.defaultdict(dict)
+        self.history = hash2.defaultdict(dict)
         for k, v in zip(sentences, times):
             self.history[k] = v
         self.search = []

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def accountsMerge(self, accounts):
         """
@@ -25,7 +25,7 @@ class Solution(object):
                     idToEm[id] = _email
                     id += 1
                 uf.union(emToId[_emails[0]], emToId[_email])
-        _ans = collections.defaultdict(list)
+        _ans = hash2.defaultdict(list)
         for _email in emToId:
             _ans[uf.find(emToId[_email])].append(_email)
         ans = []

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def getHint(self, secret, guess):
         """
@@ -7,8 +7,8 @@ class Solution(object):
         :type guess: str
         :rtype: str
         """
-        secret_count = collections.Counter(secret)
-        guess_count = collections.Counter(guess)
+        secret_count = hash2.Counter(secret)
+        guess_count = hash2.Counter(guess)
         A, B = 0, 0
         for i in range(len(guess)):
             if secret[i] == guess[i]:

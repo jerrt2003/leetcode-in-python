@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def uniquePath(self, m, n, cords):
         cords.sort(key=lambda cord: cord[0])
         final_i = cords[-1][0]
-        preCheck = collections.defaultdict(list)
+        preCheck = hash2.defaultdict(list)
         for i, j in cords:
             preCheck[j].append(i)
             if len(preCheck[j]) > 1:

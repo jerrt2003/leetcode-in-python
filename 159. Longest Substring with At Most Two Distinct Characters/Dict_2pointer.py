@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def lengthOfLongestSubstringTwoDistinct(self, s):
         """
@@ -15,7 +15,7 @@ class Solution(object):
         """
         if len(s) == 0:
             return 0
-        count_dict = collections.defaultdict(int)
+        count_dict = hash2.defaultdict(int)
         p1 = p2 = max_len = 0
         count_dict[s[p2]] += 1
         while True:

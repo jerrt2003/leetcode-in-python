@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class NumMatrix(object):
 
     def __init__(self, matrix):

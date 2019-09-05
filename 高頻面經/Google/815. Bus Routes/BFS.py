@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def numBusesToDestination(self, routes, S, T):
         """
@@ -8,7 +8,7 @@ class Solution(object):
         :type T: int
         :rtype: int
         """
-        busStop = collections.defaultdict(set)
+        busStop = hash2.defaultdict(set)
         for route in routes:
             for i, j in [(k, v) for k in route for v in route]:
                 if i == j:

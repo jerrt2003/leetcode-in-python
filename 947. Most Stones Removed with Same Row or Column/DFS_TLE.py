@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 import copy
 class Solution(object):
     def removeStones(self, stones):
@@ -7,8 +7,8 @@ class Solution(object):
         :type stones: List[List[int]]
         :rtype: int
         """
-        row_stone = collections.defaultdict(list)
-        col_stone = collections.defaultdict(list)
+        row_stone = hash2.defaultdict(list)
+        col_stone = hash2.defaultdict(list)
         for x, y in stones:
             row_stone[x].append(y)
             col_stone[y].append(x)

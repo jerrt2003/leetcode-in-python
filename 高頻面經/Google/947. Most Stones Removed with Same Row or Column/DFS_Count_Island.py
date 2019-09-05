@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def removeStones(self, stones):
         """
@@ -48,7 +48,7 @@ class Solution(object):
         return len(stones) - island
         '''
         # refine version
-        stone_set = collections.defaultdict(set)
+        stone_set = hash2.defaultdict(set)
         for i, j in stones:
             stone_set[i].add(~j)
             stone_set[~j].add(i) # inverse j to make sure j will not collide with i in stone_set

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 
 
 class MagicDictionary(object):
@@ -8,7 +8,7 @@ class MagicDictionary(object):
         """
         Initialize your data structure here.
         """
-        self.pool = collections.Counter()
+        self.pool = hash2.Counter()
         self.words = set()
 
     def buildDict(self, dict):

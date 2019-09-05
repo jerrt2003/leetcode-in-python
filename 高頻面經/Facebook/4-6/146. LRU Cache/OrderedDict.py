@@ -1,4 +1,4 @@
-import collections
+import hash2
 
 class LRUCache(object):
 
@@ -8,7 +8,7 @@ class LRUCache(object):
         """
         self.capacity = capacity
         self.count = 0
-        self.cache = collections.OrderedDict()
+        self.cache = hash2.OrderedDict()
 
     def get(self, key):
         """

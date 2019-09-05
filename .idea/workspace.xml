@@ -2,278 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e784880-a35c-4e7c-8ca2-9e99917982a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/InorderTraversalEarlyTermination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/Inorder_Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/Iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/Recursion_InOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/530. Minimum Absolute Difference in BST/inordertraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/700. Search in a Binary Search Tree/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/701. Insert into a Binary Search Tree/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/inorder_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/99. Recover Binary Search Tree/InOrderTraverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/DP/Optimal Strategy for Card Drawing/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/230. Kth Smallest Element in a BST/InorderTraversalEarlyTermination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/230. Kth Smallest Element in a BST/Inorder_Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/230. Kth Smallest Element in a BST/Iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/230. Kth Smallest Element in a BST/Recursion_InOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/278. First Bad Version/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/297. Serialize and Deserialize Binary Tree/GoogleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/297. Serialize and Deserialize Binary Tree/Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/43. Multiply Strings/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/面經變化題/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/505. The Maze II/DFS_Dijkstra_PriorityQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/505. The Maze II/DFS_Dijkstra_TLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/505. The Maze II/DFS_Fail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/71. Simplify Path/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/75. Sort Colors/O_N_1_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/75. Sort Colors/dutch_partitioning_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/834. Sum of Distances in Tree/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/977. Squares of a Sorted Array/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode/123456789 对这9个数字，找出所有的operation to sum as 100/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode/123456789 对这9个数字，找出所有的operation to sum as 100/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode/Given an two strings, first string has an anagram of second string, find the the first index of the anagram/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/面經/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/142. Linked List Cycle II/ON.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/142. Linked List Cycle II/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/142. Linked List Cycle II/龜兔賽跑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/15. 3Sum/O_N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/15. 3Sum/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/15. 3Sum/變形/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/15. 3Sum/變形/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/15. 3Sum/變形/给定一个数组，找到所有的三元组使得x方加y方等于z方" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/198. House Robber/2nd_scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/198. House Robber/Q198_House_Robber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/198. House Robber/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/198. House Robber/google_onsite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/205. Isomorphic Strings/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/205. Isomorphic Strings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/213. House Robber II/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/213. House Robber II/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/buildinTool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/InorderTraversalEarlyTermination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Inorder_Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Recursion_InOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/SegTreeSimilar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/253. Meeting Rooms II/Heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/281. Zigzag Iterator/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/DP_Bottom_Up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/DP_Top_Down.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/GoogleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/322. Coin Change/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/322. Coin Change/DP_Bottom_Up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/322. Coin Change/DP_Top_Down.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/322. Coin Change/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/334. Increasing Triplet Subsequence/LIS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/337. House Robber III/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/341. Flatten Nested List Iterator/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/341. Flatten Nested List Iterator/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/341. Flatten Nested List Iterator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/359. Logger Rate Limiter/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/359. Logger Rate Limiter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/394. Decode String/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DFS_Memorization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/Seudo_Code_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/GoogleScan_DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/MySOL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/Sol_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/426. Convert Binary Search Tree to Sorted Doubly Linked List/BST_To_DoubleLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/484. Find Permutation/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/484. Find Permutation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/489. Robot Room Cleaner/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/489. Robot Room Cleaner/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/497. Random Point in Non-overlapping Rectangles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/497. Random Point in Non-overlapping Rectangles/weighted_probablity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Dijkstra_PriorityQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Dijkstra_TLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Fail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/528. Random Pick with Weight/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/528. Random Pick with Weight/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/Q62_Unique_Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/padding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp 1: 降維.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp 2: 给定矩形里的三个点，判断是否存在遍历这三个点的路径.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp3: 给定矩形里的三个点，找到遍历这三个点的所有路径数量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp4: 給定下界" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/followup5: 起点和终点改成从左上到左下，每一步只能 ↓↘↙，求所有可能的路径数量" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/降維.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/63. Unique Paths II/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/63. Unique Paths II/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/Dijkestra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/FollowUp: 重建Path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/Q64_Minimum_Path_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/變種：最大路徑和" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/659. Split Array into Consecutive Subsequences/Greedy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/659. Split Array into Consecutive Subsequences/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/676. Implement Magic Dictionary/CountCommonNeighbor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/676. Implement Magic Dictionary/Trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/68. Text Justification/Greedy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/68. Text Justification/RR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/684. Redundant Connection/GoogleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/684. Redundant Connection/UnionFind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/684. Redundant Connection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/685. Redundant Connection II/UF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/685. Redundant Connection II/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/731. My Calendar II/BrutalForce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/731. My Calendar II/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/739. Daily Temperatures/GoogleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/739. Daily Temperatures/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/739. Daily Temperatures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/750. Number Of Corner Rectangles/Solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/750. Number Of Corner Rectangles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/GoogleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/MySol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/sliding_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/768. Max Chunks To Make Sorted II/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/769. Max Chunks To Make Sorted/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/774. Minimize Max Distance to Gas Station --&gt; x/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/803. Bricks Falling When Hit/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/815. Bus Routes/BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/815. Bus Routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/834. Sum of Distances in Tree/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution: MinMax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/844. Backspace String Compare/2_Pointer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/844. Backspace String Compare/GoogleScan_Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/844. Backspace String Compare/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/849. Maximize Distance to Closest Person/BetterSolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/849. Maximize Distance to Closest Person/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/853. Car Fleet/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/853. Car Fleet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/855. Exam Room/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/855. Exam Room/pq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/857. Minimum Cost to Hire K Workers/Heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/857. Minimum Cost to Hire K Workers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/857. Minimum Cost to Hire K Workers/googleScan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/939. Minimum Area Rectangle/DiagnoalSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_TLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/UF_with_compression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/Union_Find.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/951. Flip Equivalent Binary Trees/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/951. Flip Equivalent Binary Trees/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/96. Unique Binary Search Trees/2nd_scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/96. Unique Binary Search Trees/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/963. Minimum Area Rectangle II/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Follow up: BST 刪除多餘邊/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Follow up: BST 刪除多餘邊/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/inorder_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Evaluate Largest Outcome/DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Evaluate Largest Outcome/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Image Byte 鏡像中心翻轉/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Image Byte 鏡像中心翻轉/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/Hashmap+LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/OrderedDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/N叉树，要求删一些node，返回list of roots 高频 8次/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/N叉树，要求删一些node，返回list of roots 高频 8次/dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Partition n tasks into k days to minimize the amout of resource used per day/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Partition n tasks into k days to minimize the amout of resource used per day/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/ScreenFit/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/ScreenFit/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Trie/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Trie/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/n-lightbulb/BIT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/二叉數刪除多餘邊/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/二叉數刪除多餘邊/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/可樂飲料機/Recursion+DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/圍棋/Note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/圍棋/最簡單的檢查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/字串處理/singleLevelBracket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/BS+Greedy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/DP+BIS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/待做" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/找出超過25%/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/找出超過25%/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/找出超過25%/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/findBestApartments_移動窗口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/消除字母/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/消除字母/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/消除字母/題目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/王位繼承/DFS+LazyDelete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/王位繼承/LinkedList+Hashmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/王位繼承/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高頻面經/Google/隨機生成迷宮/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/350. Intersection of Two Arrays II/hash2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/36. Valid Sudoku/2ndScan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/36. Valid Sudoku/Hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/37. Sudoku Solver/Backtracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/UF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/google_scan_bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/636. Exclusive Time of Functions/Better_Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/636. Exclusive Time of Functions/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/636. Exclusive Time of Functions/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/注意事項" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高頻面經/Google/旅遊計畫 N個城市 M天 能不能走訪全部N個城市/題目" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/253. Meeting Rooms II/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/253. Meeting Rooms II/Heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/264. Ugly Number II/Heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/264. Ugly Number II/Heapq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/300. Longest Increasing Subsequence/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule/DFS_Topo_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/407. Trapping Rain Water II/HeapQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/407. Trapping Rain Water II/HeapQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py" beforeDir="false" afterPath="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/Dict_2pointer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/GoogleScan_SlidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/GoogleScan_SlidingWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/207. Course Schedule/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/207. Course Schedule/Kahn_Algo_Topo_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule/Kahn_Algo_Topo_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/219. Contains Duplicate II/2nd_Scan_still_use_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/219. Contains Duplicate II/2nd_Scan_still_use_hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/299. Bulls and Cows/Hashset.py" beforeDir="false" afterPath="$PROJECT_DIR$/299. Bulls and Cows/Hashset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/30. Substring with Concatenation of All Words/Hashmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/316. Remove Duplicate Letters/Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/399. Evaluate Division/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/399. Evaluate Division/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/399. Evaluate Division/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/399. Evaluate Division/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/399. Evaluate Division/google_scan_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/399. Evaluate Division/google_scan_bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/403. Frog Jump/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/403. Frog Jump/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/406. Queue Reconstruction by Height/Greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/560. Subarray Sum Equals K/Hashmap_1_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/560. Subarray Sum Equals K/Hashmap_1_pass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/621. Task Scheduler/FrameworkSolution.py" beforeDir="false" afterPath="$PROJECT_DIR$/621. Task Scheduler/FrameworkSolution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/64. Minimum Path Sum/Dijkestra.py" beforeDir="false" afterPath="$PROJECT_DIR$/64. Minimum Path Sum/Dijkestra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/642. Design Search Autocomplete System/Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/76. Minimum Window Substring/sliding window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/697. Degree of an Array/Hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/697. Degree of an Array/Hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/76. Minimum Window Substring/sliding_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/76. Minimum Window Substring/sliding_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py" beforeDir="false" afterPath="$PROJECT_DIR$/787. Cheapest Flights Within K Stops/BFS_Dijkastra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/Heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/973. K Closest Points to Origin/Heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/973. K Closest Points to Origin/Heapq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/939. Minimum Area Rectangle/DiagnoalSet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BST/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BST/230. Kth Smallest Element in a BST/InorderTraversalEarlyTermination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/DP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BST/230. Kth Smallest Element in a BST/Iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/MinimumSpanningTree/Prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/MinimumSpanningTree/Prim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/MinimumSpanningTree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/DP/Optimal Strategy for Card Drawing/DP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/200. Number of Islands/UF_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/23. Merge k Sorted Lists/變形：merge K sorted int lists/Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/273. Integer to English Words/scan_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Amazon/城市建路題.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Amazon/城市建路題.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/114. Flatten Binary Tree to Linked List/reverse-preorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/114. Flatten Binary Tree to Linked List/reverse-preorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/200. Number of Islands/UF_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/200. Number of Islands/UF_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/23. Merge k Sorted Lists/2ndScan.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/23. Merge k Sorted Lists/2ndScan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/253. Meeting Rooms II/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/253. Meeting Rooms II/Heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/529. Minesweeper/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/338. Counting Bits/scan-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/53. Maximum Subarray/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/53. Maximum Subarray/DP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/636. Exclusive Time of Functions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/34. Find First and Last Position of Element in Sorted Array/clear_BS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/43. Multiply Strings/Scan2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/88. Merge Sorted Array/變種：input為3個/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/88. Merge Sorted Array/變種：input為3個/Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/935. Knight Dialer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/953. Verifying an Alien Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/分類.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/986. Interval List Intersections/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/面經變化題/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/987. Vertical Order Traversal of a Binary Tree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/505. The Maze II/GoogleScan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/y33mvyb2/Meetingroom2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/y4gwe6kd/278. First Bad Version.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/278. First Bad Version/278. First Bad Version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/y4gwe6kd/75. Sort Colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/75. Sort Colors/75. Sort Colors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/y56h54s8/297. Serialize and Deserialize Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/297. Serialize and Deserialize Binary Tree/297. Serialize and Deserialize Binary Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/76. Minimum Window Substring/slidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/76. Minimum Window Substring/slidingWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/71. Simplify Path/scan_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/10sec_Window/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/會expire的cache/Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Interview.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/SnapShot/Only_Store_Chaning_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Google Snap Shot (git的簡單實現)/Only_Store_Chaning_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/819. Most Common Word/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/819. Most Common Word/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/834. Sum of Distances in Tree/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/834. Sum of Distances in Tree/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree/DFS_BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree/DFS_BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/904. Fruit Into Baskets/2nd_Scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/904. Fruit Into Baskets/2nd_Scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/929. Unique Email Addresses/google_scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/929. Unique Email Addresses/google_scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py" beforeDir="false" afterPath="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/DFS_TLE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BS/35. Search Insert Position/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/1057. Campus Bikes/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BS/981. Time Based Key-Value Store/BS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/BS/981. Time Based Key-Value Store/BS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/104. Maximum Depth of Binary Tree/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/104. Maximum Depth of Binary Tree/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/589. N-ary Tree Preorder Traversal/Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/589. N-ary Tree Preorder Traversal/Iterative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/590. N-ary Tree Postorder Traversal/iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/590. N-ary Tree Postorder Traversal/iterative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/94. Binary Tree Inorder Traversal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Amazon/Count_Number_of_substrings_with_exactly_k_distinct_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Amazon/Count_Number_of_substrings_with_exactly_k_distinct_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Amazon/lengthSubSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Amazon/lengthSubSequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/146. LRU Cache/Inheritated_OrderedDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/146. LRU Cache/Inheritated_OrderedDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/146. LRU Cache/OrderedDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/146. LRU Cache/OrderedDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/314. Binary Tree Vertical Order Traversal/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/314. Binary Tree Vertical Order Traversal/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/438. Find All Anagrams in a String/SlidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/438. Find All Anagrams in a String/SlidingWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/分類.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/498. Diagonal Traverse/分類.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/UF2.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/UF2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/UnionFind.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/UnionFind.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/76. Minimum Window Substring/slidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/76. Minimum Window Substring/slidingWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/834. Sum of Distances in Tree/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/834. Sum of Distances in Tree/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/935. Knight Dialer/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/935. Knight Dialer/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/953. Verifying an Alien Dictionary/ans_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/953. Verifying an Alien Dictionary/ans_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/987. Vertical Order Traversal of a Binary Tree/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/987. Vertical Order Traversal of a Binary Tree/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode/Given an two strings, first string has an anagram of second string, find the the first index of the anagram/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode/Given an two strings, first string has an anagram of second string, find the the first index of the anagram/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/198. House Robber/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/161. One Edit Distance/ON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/205. Isomorphic Strings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/210. Course Schedule II/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/213. House Robber II/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/286. Walls and Gates/BFS2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/322. Coin Change/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/341. Flatten Nested List Iterator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce_Correct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DFS_Memorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DFS_Memorization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/MySOL.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/MySOL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/Sol_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/Sol_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/484. Find Permutation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/36. Valid Sudoku/2ndScan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/489. Robot Room Cleaner/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/518. Coin Change 2/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/528. Random Pick with Weight/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/670. Maximum Swap/Linear_Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/680. Valid Palindrome II/2pointer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp3: 给定矩形里的三个点，找到遍历这三个点的所有路径数量.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp3: 给定矩形里的三个点，找到遍历这三个点的所有路径数量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/785. Is Graph Bipartite?/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/63. Unique Paths II/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/896. Monotonic Array/ON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/659. Split Array into Consecutive Subsequences/Greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/659. Split Array into Consecutive Subsequences/Greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/676. Implement Magic Dictionary/CountCommonNeighbor.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/676. Implement Magic Dictionary/CountCommonNeighbor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/GoogleScan.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/GoogleScan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/sliding_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/76. Minimum Window Substring/sliding_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/815. Bus Routes/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/815. Bus Routes/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/958. Check Completeness of a Binary Tree/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/834. Sum of Distances in Tree/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/834. Sum of Distances in Tree/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution: MinMax.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution: MinMax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/939. Minimum Area Rectangle/GoogleScan_Hashtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_TLE.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_TLE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Follow up: BST 刪除多餘邊/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/BFS_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/636. Exclusive Time of Functions/Scan2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Google Phone Interview/Matching Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Google Phone Interview/Matching Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Google Snap Shot (git的簡單實現)/Only_Store_Chaning_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Google Snap Shot (git的簡單實現)/Only_Store_Chaning_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/OrderedDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/OrderedDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/N叉树，要求删一些node，返回list of roots 高频 8次/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/Solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Swap_String/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Swap String/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/Swap_String/Solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/Swap String/Solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/Sol2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/高頻面經/Google/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/interview.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/字串處理/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/721. Accounts Merge/UF2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/字串處理/multipleBracket.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/字串處理/multipleBracket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Facebook/4-6/938. Range Sum of BST/Iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/平面點對分.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/平面點對分.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高頻面經/Google/行人自行车匹配/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/行人自行车匹配/Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/y3sw9eul/BestApartments.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/y3sw9eul/BestApartments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/y3sw9eul/BestApartments2ptr.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/y3sw9eul/BestApartments2ptr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/y5yx9q3t/Hashmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/y5yx9q3t/Hashmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/二叉數刪除多餘邊/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/兩個字串 切一刀 判斷是不是Palindorme/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/可刪除字母_需幾次/BS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/BS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/可刪除字母_需幾次/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/2nd_Scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/可刪除字母_需幾次/greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/找出超過25%/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/旅遊計畫 N個城市 M天 能不能走訪全部N個城市/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/FindBestApartment.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的住處/FindBestApartment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/Note" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的住處/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的住處/練習2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/findBestApartments_移動窗口.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最方便的住處/findBestApartments_移動窗口.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最短路徑環/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最短路徑環/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/最短路徑環/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/最短路徑環/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/消除字母/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/王位繼承/DFS+LazyDelete.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/王位繼承/DFS+LazyDelete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/王位繼承/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/行人自行车匹配/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/行人自行車匹配/Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/Google/骰子面-ransom_note/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/高頻面經/Google/骰子面-ransom_note/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高頻面經/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -284,66 +137,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFS_Dijkstra_PriorityQ.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Dijkstra_PriorityQ.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2nd_scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/96. Unique Binary Search Trees/2nd_scan.py">
+      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/785. Is Graph Bipartite?/BFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="315">
+              <caret line="21" column="41" lean-forward="true" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/834. Sum of Distances in Tree/DFS.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Inorder_Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Inorder_Traversal.py">
+      <file leaf-file-name="2pointer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/680. Valid Palindrome II/2pointer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-145" />
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SegTreeSimilar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/SegTreeSimilar.py">
+      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/286. Walls and Gates/BFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-320" />
+            <state relative-caret-position="463">
+              <caret line="33" column="44" lean-forward="true" selection-end-line="35" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS.py">
+      <file leaf-file-name="BFS2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/286. Walls and Gates/BFS2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420" />
+            <state relative-caret-position="105">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS_Count_Island.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
+      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/958. Check Completeness of a Binary Tree/BFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-596" />
+            <state relative-caret-position="225">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleScan_UF.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Linear_Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/670. Maximum Swap/Linear_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleScan_DP.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/GoogleScan_DP.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="ON.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/161. One Edit Distance/ON.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Iterative.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Iterative.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="brutalForce.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="brutalForce_Correct.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce_Correct.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ON.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/896. Monotonic Array/ON.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -367,6 +248,8 @@
       <find>early</find>
       <find>215</find>
       <find>padding</find>
+      <find>lambda</find>
+      <find>shortest</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/高頻面經/Facebook/4-6/Non-Leetcode</dir>
@@ -381,47 +264,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/LogStartAndLogFinish/Hashmap+LinkedList.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/LogStartAndLogFinish/OrderedDict.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/426. Convert Binary Search Tree to Sorted Doubly Linked List/BST_To_DoubleLinkedList.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/215. Kth Largest Element in an Array/heap.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/215. Kth Largest Element in an Array/buildinTool.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/312. Burst Balloons/GoogleScan.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/769. Max Chunks To Make Sorted/DFS.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/768. Max Chunks To Make Sorted II/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Facebook/4-6/505. The Maze II/GoogleScan.py" />
-        <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/DiagnoalSet.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/939. Minimum Area Rectangle/DiagnoalSet.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/963. Minimum Area Rectangle II/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/302. Smallest Rectangle Enclosing Black Pixels/BS.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/230. Kth Smallest Element in a BST/SegTreeSimilar.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/739. Daily Temperatures/GoogleScan.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/Evaluate Largest Outcome/DP.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/SnapShot/Only_Store_Chaning_number.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/Partition n tasks into k days to minimize the amout of resource used per day/BS.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/findBestApartments_移動窗口.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/最方便的寓所/Test.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/403. Frog Jump/DP2.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/410. Split Array Largest Sum/GoogleScan_DP.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/833. Find And Replace in String/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/找出超過25%/題目" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/找出超過25%/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/142. Linked List Cycle II/龜兔賽跑.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/410. Split Array Largest Sum/DP.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/題目" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/DP_2.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/巧克力甜度/BS+Greedy.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/n-lightbulb/BIT.py" />
-        <option value="$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py" />
-        <option value="$PROJECT_DIR$/207. Course Schedule/DFS_Topo_2.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/字串處理/singleLevelBracket.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/字串處理/NestedCache.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/消除字母/題目" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/消除字母/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/484. Find Permutation/Solution.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/字串處理/multipleBracket.py" />
-        <option value="$PROJECT_DIR$/高頻面經/Google/4-6/685. Redundant Connection II/UF.py" />
         <option value="$PROJECT_DIR$/高頻面經/Google/4-6/890. Find and Replace Pattern/Solution.py" />
         <option value="$PROJECT_DIR$/高頻面經/Google/4-6/可樂飲料機/Recursion+DP.py" />
         <option value="$PROJECT_DIR$/高頻面經/Google/隨機生成迷宮/DFS.py" />
@@ -432,6 +274,47 @@
         <option value="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/MySOL.py" />
         <option value="$PROJECT_DIR$/高頻面經/Google/394. Decode String/DFS.py" />
         <option value="$PROJECT_DIR$/高頻面經/Google/96. Unique Binary Search Trees/2nd_scan.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/GoogleScan_DP.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/Google Snap Shot (git的簡單實現)/Only_Store_Chaning_number.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/最方便的住處/findBestApartments_移動窗口.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/旅遊計畫 N個城市 M天 能不能走訪全部N個城市/題目" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/旅遊計畫 N個城市 M天 能不能走訪全部N個城市/Solution.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/403. Frog Jump/DFS_Memorization.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/341. Flatten Nested List Iterator/DFS.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/636. Exclusive Time of Functions/Scan2.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/Solution2.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/注意事項" />
+        <option value="$PROJECT_DIR$/36. Valid Sudoku/Hash.py" />
+        <option value="$PROJECT_DIR$/36. Valid Sudoku/2ndScan.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/兩個字串 切一刀 判斷是不是Palindorme/Solution.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/行人自行車匹配/Heap.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/2nd_Scan.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/BS.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/澆花/Solution.py" />
+        <option value="$PROJECT_DIR$/463. Island Perimeter/Hash.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/BFS_Test.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/UF.py" />
+        <option value="$PROJECT_DIR$/518. Coin Change 2/DP.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py" />
+        <option value="$PROJECT_DIR$/1057. Campus Bikes/heap.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/Sol2.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS.py" />
+        <option value="$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS2.py" />
+        <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/dfs.py" />
+        <option value="$PROJECT_DIR$/210. Course Schedule II/dfs.py" />
+        <option value="$PROJECT_DIR$/489. Robot Room Cleaner/DFS.py" />
+        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/collections.py" />
+        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/hash2.py" />
+        <option value="$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py" />
+        <option value="$PROJECT_DIR$/785. Is Graph Bipartite?/DFS.py" />
+        <option value="$PROJECT_DIR$/680. Valid Palindrome II/2pointer.py" />
+        <option value="$PROJECT_DIR$/286. Walls and Gates/BFS2.py" />
+        <option value="$PROJECT_DIR$/958. Check Completeness of a Binary Tree/BFS.py" />
+        <option value="$PROJECT_DIR$/670. Maximum Swap/Linear_Solution.py" />
+        <option value="$PROJECT_DIR$/161. One Edit Distance/ON.py" />
+        <option value="$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py" />
+        <option value="$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce_Correct.py" />
+        <option value="$PROJECT_DIR$/896. Monotonic Array/ON.py" />
       </list>
     </option>
   </component>
@@ -533,18 +416,180 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="124. Binary Tree Maximum Path Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="199. Binary Tree Right Side View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="286. Walls and Gates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="311. Sparse Matrix Multiplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="317. Shortest Distance from All Buildings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="463. Island Perimeter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="489. Robot Room Cleaner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="518. Coin Change 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="670. Maximum Swap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="680. Valid Palindrome II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="958. Check Completeness of a Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="1057. Campus Bikes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BS" type="462c0819:PsiDirectoryNode" />
+              <item name="34. Find First and Last Position of Element in Sorted Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BS" type="462c0819:PsiDirectoryNode" />
+              <item name="35. Search Insert Position" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="MinimumSpanningTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structure &amp; Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="4-6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="4-6" type="462c0819:PsiDirectoryNode" />
+              <item name="953. Verifying an Alien Dictionary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="36. Valid Sudoku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="37. Sudoku Solver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="62. Unique Paths" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="62. Unique Paths" type="462c0819:PsiDirectoryNode" />
+              <item name="變形:左上到右上" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="63. Unique Paths II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -559,6 +604,49 @@
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="96. Unique Binary Search Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="98. Validate Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="98. Validate Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Follow up: BST 刪除多餘邊" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="157. Read N Characters Given Read4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="198. House Robber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="205. Isomorphic Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="213. House Robber II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -600,6 +688,13 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="322. Coin Change" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="334. Increasing Triplet Subsequence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -621,7 +716,28 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="341. Flatten Nested List Iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="394. Decode String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="403. Frog Jump" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -635,7 +751,7 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="418. Sentence Screen Fitting --&gt; x" type="462c0819:PsiDirectoryNode" />
+              <item name="418. Sentence Screen Fitting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -649,7 +765,28 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="489. Robot Room Cleaner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="505. The Maze II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="528. Random Pick with Weight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="636. Exclusive Time of Functions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -691,6 +828,13 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="833. Find And Replace in String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="834. Sum of Distances in Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -706,6 +850,13 @@
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="849. Maximize Distance to Closest Person" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="890. Find and Replace Pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -754,6 +905,13 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="N叉树，要求删一些node，返回list of roots 高频 8次" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="ScreenFit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -761,7 +919,65 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="Swap String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="Trie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="y3co6ur3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="y3co6ur3" type="462c0819:PsiDirectoryNode" />
+              <item name="找第K个在in-order traversal下返回的node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉數刪除多餘邊" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="兩個字串 切一刀 判斷是不是Palindorme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="判斷括號是否平衡" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="判斷括號是否平衡" type="462c0819:PsiDirectoryNode" />
+              <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="可以刪除字母 需要幾次才能得到目標字串" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -782,7 +998,77 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="字串處理" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="找出超過25%" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="旅遊計畫 N個城市 M天 能不能走訪全部N個城市" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="最方便的住處" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="最短路徑環" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="會expire的cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="查詢空閒slot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="消除字母" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="澆花" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="王位繼承" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="高頻面經" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="行人自行車匹配" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -830,8 +1116,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Hashmap+LinkedList">
-    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.brutalForce">
+    <configuration name="BFS3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -839,17 +1125,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高頻面經/Google/隨機生成迷宮" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/317. Shortest Distance from All Buildings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高頻面經/Google/隨機生成迷宮/DFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="FollowUp 1: 降維" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="brutalForce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -857,17 +1143,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高頻面經/Google/4-6/62. Unique Paths/變形:左上到右上" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/311. Sparse Matrix Multiplication" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高頻面經/Google/4-6/62. Unique Paths/變形:左上到右上/FollowUp 1: 降維.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="FollowUp: 重建Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -875,17 +1161,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高頻面經/Google/4-6/64. Minimum Path Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210. Course Schedule II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高頻面經/Google/4-6/64. Minimum Path Sum/FollowUp: 重建Path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210. Course Schedule II/dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Hashmap+LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hash2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -893,17 +1179,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高頻面經/Google/Log start and log finish" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/350. Intersection of Two Arrays II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高頻面經/Google/Log start and log finish/Hashmap+LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/350. Intersection of Two Arrays II/hash2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="MySOL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project_X" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -911,30 +1197,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1057. Campus Bikes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/MySOL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1057. Campus Bikes/heap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.FollowUp 1: 降維" />
-      <item itemvalue="Python.FollowUp: 重建Path" />
-      <item itemvalue="Python.DFS" />
-      <item itemvalue="Python.MySOL" />
-      <item itemvalue="Python.Hashmap+LinkedList" />
+      <item itemvalue="Python.heap" />
+      <item itemvalue="Python.dfs" />
+      <item itemvalue="Python.hash2" />
+      <item itemvalue="Python.BFS3" />
+      <item itemvalue="Python.brutalForce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hashmap+LinkedList" />
-        <item itemvalue="Python.MySOL" />
-        <item itemvalue="Python.DFS" />
-        <item itemvalue="Python.FollowUp: 重建Path" />
-        <item itemvalue="Python.FollowUp 1: 降維" />
+        <item itemvalue="Python.brutalForce" />
+        <item itemvalue="Python.BFS3" />
+        <item itemvalue="Python.hash2" />
+        <item itemvalue="Python.dfs" />
+        <item itemvalue="Python.heap" />
       </list>
     </recent_temporary>
   </component>
@@ -1250,7 +1536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560528632816</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Google Onsite Interview">
+      <created>1563467534813</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1563467534813</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1263,6 +1556,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" weight="0.32980973" />
@@ -1270,13 +1564,14 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21796565" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32893" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.51519156" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35588443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26004228" />
       <window_info id="Project Explorer" order="2" weight="0.32980973" />
       <window_info id="Job Explorer" order="2" weight="0.32980973" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" internal_type="SLIDING" order="3" type="SLIDING" weight="0.21003963" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1286,7 +1581,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="Console" order="7" />
@@ -1318,7 +1612,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2nd_scan/DP/#97" />
     <MESSAGE value="2nd_scan/DP/#264" />
     <MESSAGE value="2nd_scan/DP/#300" />
     <MESSAGE value="2nd_scan/DP/#343" />
@@ -1343,7 +1636,8 @@
     <MESSAGE value="Google/#981" />
     <MESSAGE value="Regular Push" />
     <MESSAGE value="Facebook Phone Interview" />
-    <option name="LAST_COMMIT_MESSAGE" value="Facebook Phone Interview" />
+    <MESSAGE value="Google Onsite Interview" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google Onsite Interview" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1503,12 +1797,12 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/可刪除字母_需幾次/greedy.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/greedy.py</url>
           <line>3</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/可刪除字母_需幾次/BS.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/可以刪除字母 需要幾次才能得到目標字串/BS.py</url>
           <line>17</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
@@ -1518,12 +1812,12 @@
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/行人自行车匹配/Heap.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/行人自行車匹配/Heap.py</url>
           <line>33</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/行人自行车匹配/Heap.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/行人自行車匹配/Heap.py</url>
           <line>22</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
@@ -1778,7 +2072,7 @@
           <option name="timeStamp" value="269" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的寓所/FindBestApartment.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的住處/FindBestApartment.py</url>
           <line>16</line>
           <option name="timeStamp" value="272" />
         </line-breakpoint>
@@ -1963,7 +2257,7 @@
           <option name="timeStamp" value="454" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/Sol_1.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/Sol_1.py</url>
           <line>37</line>
           <option name="timeStamp" value="455" />
         </line-breakpoint>
@@ -2013,12 +2307,12 @@
           <option name="timeStamp" value="488" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的寓所/findBestApartments_移動窗口.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的住處/findBestApartments_移動窗口.py</url>
           <line>44</line>
           <option name="timeStamp" value="489" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的寓所/Test.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/最方便的住處/練習2.py</url>
           <line>30</line>
           <option name="timeStamp" value="490" />
         </line-breakpoint>
@@ -2078,9 +2372,74 @@
           <option name="timeStamp" value="559" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/MySOL.py</url>
+          <url>file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting/MySOL.py</url>
           <line>9</line>
           <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/高頻面經/Google/833. Find And Replace in String/Solution2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/36. Valid Sudoku/2ndScan.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/36. Valid Sudoku/2ndScan.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/36. Valid Sudoku/2ndScan.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/高頻面經/Google/399. Evaluate Division/BFS_Test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/518. Coin Change 2/DP.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1057. Campus Bikes/heap.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/210. Course Schedule II/dfs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/210. Course Schedule II/dfs.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/350. Intersection of Two Arrays II/hash2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="591" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -2090,256 +2449,266 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="563" />
+      <option name="time" value="592" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/684. Redundant Connection/UnionFind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/字串處理/singleLevelBracket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/字串處理/multipleBracket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/685. Redundant Connection II/UF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-end-line="40" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp 1: 降維.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="68" lean-forward="true" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/64. Minimum Path Sum/FollowUp: 重建Path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution.py">
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/UF_with_compression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/843. Guess the Word/Solution: MinMax.py">
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-282" />
+        <state relative-caret-position="-437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/BS/34. Find First and Last Position of Element in Sorted Array/BS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/94. Binary Tree Inorder Traversal/Iterative.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree/94. Binary Tree Inorder Traversal/Iterative_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/inorder_traversal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Recursive.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/98. Validate Binary Search Tree/Follow up: BST 刪除多餘邊/Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/DP.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp 1: 降維.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp 2: 给定矩形里的三个点，判断是否存在遍历这三个点的路径.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp3: 给定矩形里的三个点，找到遍历这三个点的所有路径数量.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/FollowUp4: 給定下界">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/62. Unique Paths/變形:左上到右上/followup5: 起点和终点改成从左上到左下，每一步只能 ↓↘↙，求所有可能的路径数量">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/205. Isomorphic Strings/Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/890. Find and Replace Pattern/Sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/高頻面經/Google/489. Robot Room Cleaner/DFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-748" />
+        <state relative-caret-position="-609" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/659. Split Array into Consecutive Subsequences/Greedy.py">
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/963. Minimum Area Rectangle II/Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/939. Minimum Area Rectangle/DiagnoalSet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="390">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/王位繼承/LinkedList+Hashmap.py">
+    <entry file="file://$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/圍棋/Note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="765">
+          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/圍棋/最簡單的檢查.py">
+    <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/Recursion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/dfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Facebook/4-6/953. Verifying an Alien Dictionary/ans_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高頻面經/Facebook/4-6/953. Verifying an Alien Dictionary/ans_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/207. Course Schedule/DFS_Topological_Sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/207. Course Schedule/DFS_Topo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/210. Course Schedule II/Topological_Sort_Kahn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/210. Course Schedule II/dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/489. Robot Room Cleaner/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/Note">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph/MinimumSpanningTree/Prim.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/隨機生成迷宮/DFS.py">
+    <entry file="file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/ScreenFit/BS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/可樂飲料機/Recursion+DP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/803. Bricks Falling When Hit/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/281. Zigzag Iterator/Solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/68. Text Justification/Greedy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/253. Meeting Rooms II/Heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/查詢空閒slot/Note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/查詢空閒slot/Sol.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/849. Maximize Distance to Closest Person/BetterSolution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/849. Maximize Distance to Closest Person/Solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/Sol_1.py">
+    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/hash2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <caret line="20" column="18" lean-forward="true" selection-start-line="1" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/418. Sentence Screen Fitting --&gt; x/MySOL.py">
+    <entry file="file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="349">
+          <caret line="39" column="25" lean-forward="true" selection-end-line="48" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/394. Decode String/DFS.py">
+    <entry file="file://$PROJECT_DIR$/317. Shortest Distance from All Buildings/BFS3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="-237">
+          <caret lean-forward="true" selection-end-line="45" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/334. Increasing Triplet Subsequence/LIS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/337. House Robber III/DP.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/340. Longest Substring with At Most K Distinct Characters/SlidingWindow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/Log start and log finish/OrderedDict.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/Log start and log finish/Hashmap+LinkedList.py">
+    <entry file="file://$PROJECT_DIR$/785. Is Graph Bipartite?/DFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/buildinTool.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/Solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/215. Kth Largest Element in an Array/heap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/DP_Bottom_Up.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/DP_Top_Down.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/312. Burst Balloons/GoogleScan.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/768. Max Chunks To Make Sorted II/Solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Fail.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/505. The Maze II/DFS_Dijkstra_PriorityQ.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/96. Unique Binary Search Trees/2nd_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/834. Sum of Distances in Tree/DFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Iterative.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/Inorder_Traversal.py">
+    <entry file="file://$PROJECT_DIR$/785. Is Graph Bipartite?/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145" />
+        <state relative-caret-position="315">
+          <caret line="21" column="41" lean-forward="true" selection-end-line="27" selection-end-column="19" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/230. Kth Smallest Element in a BST/SegTreeSimilar.py">
+    <entry file="file://$PROJECT_DIR$/680. Valid Palindrome II/2pointer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320" />
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/302. Smallest Rectangle Enclosing Black Pixels/BS.py">
+    <entry file="file://$PROJECT_DIR$/286. Walls and Gates/BFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420" />
+        <state relative-caret-position="463">
+          <caret line="33" column="44" lean-forward="true" selection-end-line="35" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/DFS_Count_Island.py">
+    <entry file="file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Search/Note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-596" />
+        <state relative-caret-position="30">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/947. Most Stones Removed with Same Row or Column/GoogleScan_UF.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/286. Walls and Gates/BFS2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高頻面經/Google/410. Split Array Largest Sum/GoogleScan_DP.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/958. Check Completeness of a Binary Tree/BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/670. Maximum Swap/Linear_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/161. One Edit Distance/ON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/brutalForce_Correct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/896. Monotonic Array/ON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

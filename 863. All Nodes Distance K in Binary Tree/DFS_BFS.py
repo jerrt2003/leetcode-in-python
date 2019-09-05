@@ -22,8 +22,8 @@ class Solution(object):
         :rtype: List[int]
         """
         if not root: return []
-        import collections
-        conn = collections.defaultdict(list)
+        import hash2
+        conn = hash2.defaultdict(list)
         def DFS(parent, child):
             if parent and child:
                 conn[parent.val].append(child.val)

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def __init__(self):
-        self.logger = collections.OrderedDict()
+        self.logger = hash2.OrderedDict()
 
     def logStart(self, id, start):
         self.logger[id] = False

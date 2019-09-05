@@ -1,4 +1,4 @@
-import collections
+import hash2
 
 
 class TimeMap(object):
@@ -7,7 +7,7 @@ class TimeMap(object):
         """
         Initialize your data structure here.
         """
-        self.timeMap = collections.defaultdict(list)
+        self.timeMap = hash2.defaultdict(list)
 
     def set(self, key, value, timestamp):
         """

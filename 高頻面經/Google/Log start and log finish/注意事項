@@ -1,0 +1,3 @@
+1. 需跟面試官確認API是不是按照時間順序Call的
+-> 假如是的話用singly linked list
+2. 不是的話則用 doubly linked list

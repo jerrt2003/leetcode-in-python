@@ -13,6 +13,12 @@ class SnapShot(object):
         self.ver = 0
 
     def put(self, idx, val):
+        """
+        T:O(1)
+        :param idx:
+        :param val:
+        :return:
+        """
         # to store changing history
         curr = self.arr[idx][-1]
         curr_ver = curr[0]
@@ -22,6 +28,11 @@ class SnapShot(object):
             self.arr[idx].append([self.ver, val])
 
     def get(self, ver=None):
+        """
+        T:O(nlog(v)) (n is the total numbers)
+        :param ver:
+        :return:
+        """
         if ver >= self.ver:
             return None
         res = []
@@ -49,6 +60,10 @@ class SnapShot(object):
         return l-1
 
     def snap(self):
+        """
+        T:O(1)
+        :return:
+        """
         self.ver += 1
         return self.ver - 1
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def isPossible(self, nums):
         """
@@ -20,8 +20,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        freq = collections.Counter(nums)
-        tail = collections.Counter()
+        freq = hash2.Counter(nums)
+        tail = hash2.Counter()
         for x in nums:
             if freq[x] == 0:
                 continue

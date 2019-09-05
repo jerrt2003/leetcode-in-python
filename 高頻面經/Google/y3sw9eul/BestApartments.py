@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def findBestApartments(self, blocks, requirements):
         m = len(blocks)

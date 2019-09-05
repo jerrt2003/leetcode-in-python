@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
@@ -10,8 +10,8 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        incoming = collections.defaultdict(list)
-        outgoing = collections.defaultdict(list)
+        incoming = hash2.defaultdict(list)
+        outgoing = hash2.defaultdict(list)
         for k, v in prerequisites:
             incoming[k].append(v)
             outgoing[v].append(k)

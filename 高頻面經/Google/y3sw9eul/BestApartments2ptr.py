@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def findBestApartments(self, blks, reqs):
         m = len(blks)
         pt1, pt2, l, r, min_dist = 0, 0, None, None, float('inf')
-        bucket = collections.defaultdict(int)
+        bucket = hash2.defaultdict(int)
         while pt2 < m:
             for req in reqs:
                 if req in set(blks[pt2]):

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def numUniqueEmails(self, emails):
         """
@@ -11,7 +11,7 @@ class Solution(object):
         :type emails: List[str]
         :rtype: int
         """
-        res = collections.defaultdict(int)
+        res = hash2.defaultdict(int)
         for email in emails:
             localname, domainname = email.split('@')
             localname = localname.split('+')[0]

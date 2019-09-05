@@ -7,7 +7,7 @@ class Node(object):
         self.children = children
 """
 
-import collections
+import hash2
 class Solution(object):
     def postorder(self, root):
         """
@@ -19,7 +19,7 @@ class Solution(object):
         :rtype: List[int]
         """
         if root is None: return []
-        res, stack = [], collections.deque([root])
+        res, stack = [], hash2.deque([root])
         while stack:
             node = stack.pop()
             res.append(node.val)

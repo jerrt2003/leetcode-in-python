@@ -24,8 +24,8 @@ class Solution(object):
         :rtype: List[int]
         """
         # To build the tree using dict/set
-        import collections
-        graph = collections.defaultdict(set)
+        import hash2
+        graph = hash2.defaultdict(set)
         for k, v in edges:
             graph[k].add(v)
             graph[v].add(k)

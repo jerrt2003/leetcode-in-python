@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
@@ -36,7 +36,7 @@ class Solution(object):
                 state[i] = 1
                 return True
 
-        maps = collections.defaultdict(list)
+        maps = hash2.defaultdict(list)
         for k, v in prerequisites:
             maps[v].append(k)
         state = [0 for _ in range(numCourses)]

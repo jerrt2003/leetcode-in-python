@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import collections
+import hash2
 class Solution(object):
     def minAreaRect(self, points):
         """
@@ -11,8 +11,8 @@ class Solution(object):
         :type points: List[List[int]]
         :rtype: int
         """
-        x_set = collections.defaultdict(set)
-        y_set = collections.defaultdict(set)
+        x_set = hash2.defaultdict(set)
+        y_set = hash2.defaultdict(set)
         for x, y in points:
             y_set[x].add(y)
             x_set[y].add(x)
