@@ -9,11 +9,11 @@ sample:
 a != a, aa != aa, abc != cba -> 这些return false
 abc = acb, converse=conserve -> 这些return true
 """
-import hash2
+import collections
 class GoogleInterview(object):
     def Solution(self, s1, s2):
-        s1_map = hash2.defaultdict(int)
-        s2_map = hash2.defaultdict(int)
+        s1_map = collections.defaultdict(int)
+        s2_map = collections.defaultdict(int)
 
         m, n = len(s1), len(s2)
         if m != n or m == 1 or s1 == s2:

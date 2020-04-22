@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def calcEquation(self, equations, values, queries):
         """
@@ -8,7 +8,7 @@ class Solution(object):
         :type queries: List[List[str]]
         :rtype: List[float]
         """
-        mapping = hash2.defaultdict(dict)
+        mapping = collections.defaultdict(dict)
         for equation, v in zip(equations, values):
             p, q  = equation
             mapping[p][q] = v

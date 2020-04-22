@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def findExclusive(self, A, B):
-        counterA = hash2.Counter(A)
-        counterB = hash2.Counter(B)
+        counterA = collections.Counter(A)
+        counterB = collections.Counter(B)
         resA = []
         for k, v in counterA.iteritems():
             if k in counterB:

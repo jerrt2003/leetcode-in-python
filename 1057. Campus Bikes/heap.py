@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import heapq
-import hash2
+import collections
 
 
 class Solution(object):
@@ -15,7 +15,7 @@ class Solution(object):
         :type bikes: List[List[int]]
         :rtype: List[int]
         """
-        w2b = hash2.defaultdict(list)
+        w2b = collections.defaultdict(list)
         for i, (wX, wY) in enumerate(workers):
             for j, (bX, bY) in enumerate(bikes):
                 dist = abs(wX - bX) + abs(wY - bY)

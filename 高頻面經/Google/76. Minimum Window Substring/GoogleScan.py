@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def minWindow(self, s, t):
         """
@@ -7,8 +7,8 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        counter = hash2.Counter(t)
-        bkt = hash2.defaultdict(int)
+        counter = collections.Counter(t)
+        bkt = collections.defaultdict(int)
         p1, p2, minDist, res, formed = 0, 0, float('inf'), '', 0
         while p2 < len(s):
             if s[p2] in counter:

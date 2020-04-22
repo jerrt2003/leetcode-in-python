@@ -16,8 +16,8 @@ class Solution(object):
         :type people: List[List[int]]
         :rtype: List[List[int]]
         """
-        import hash2
-        people_dict = hash2.defaultdict(list)
+        import collections
+        people_dict = collections.defaultdict(list)
         height = set()
         res = []
         for p in people:

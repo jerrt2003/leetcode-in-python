@@ -19,5 +19,5 @@ class Solution(object):
                 stack.append(p)
         return '/' + '/'.join(stack)
 
-path = "/"
+path = "/../"
 print Solution().simplifyPath(path)

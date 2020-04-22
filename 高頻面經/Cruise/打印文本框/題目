@@ -1,0 +1,75 @@
+# What we‍‍‌‌‌‍‍‍‌‌‌‍‍‌‌‌‌‌‌ expect
+# ==============
+# Clean, readable, testable code.
+#
+# The Problem
+# ===========
+# You will be implementing a library for displaying text
+# boxes.
+#
+# We will start with basic functionality and then we will
+# ask you to add two more complex features to the library
+#
+
+
+# The textboxes library should implement the following API:
+#
+#    TextBox box = new TextBox("hello world", '+')
+#    box.show()
+#    +++++++++++++++
+#    + hello world +
+#    +++++++++++++++
+#
+# By default, text is padded with one space on each side.
+#
+
+
+
+# Please implement the following TextBox padding API
+#
+# paddedRight()
+# =============
+# Add support for a paddedRight() method on the TextBox
+# class that works as follows:
+#
+#    box = TextBox("hello", "+")
+#    box.paddedRight(4).show()
+#    +++++++++++++
+#    + hello     +
+#    +++++++++++++
+#    box.show()
+#    +++++++++
+#    + hello +
+#    +++++++++
+#
+#
+# paddedBelow()
+# =============
+# Add support for a paddedBelow() method that works as shown
+# below:
+#
+#    box = TextBox("hello", "+")
+#    box.paddedBelow(3).show()
+#    +++++++++
+#    + hello +
+#    +       +
+#    +       +
+#    +       +
+#    +++++++++
+#
+# Calling paddedRight() or paddedBelow() should not mutate
+# the original box object.
+
+
+
+*/
+
+interface Box {
+     public void show();
+     public Box paddedRight(int offset);
+     public Box paddedBelow(int offset);
+}
+
+class TextBox implements Box {
+
+}

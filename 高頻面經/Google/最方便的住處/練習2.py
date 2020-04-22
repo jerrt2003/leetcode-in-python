@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-import hash2, math
+import collections, math
 
 def best_apartment2(street, requirements):
-    counter = hash2.Counter(requirements)
+    counter = collections.Counter(requirements)
     remain = len(requirements)
     start = end = 0
     res, res_len = [], float('inf')

@@ -8,11 +8,11 @@ d1: [(0,'a'),(1,'b'),(2,'c'),(3,'d'),(4,'e'),(5,'_')]
 
 # 2. input: string
 """
-import hash2
+import collections
 class Solution(object):
     def findCombo(self, dices, input):
         self.input = input
-        self.charMap = hash2.defaultdict(list)
+        self.charMap = collections.defaultdict(list)
         for i, dice in enumerate(dices):
             for face, char in dice:
                 self.charMap[char].append((i, face))

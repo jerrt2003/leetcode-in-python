@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def findDiagonalOrder(self, matrix):
         """
@@ -9,7 +9,7 @@ class Solution(object):
         """
         if not matrix:
             return []
-        group = hash2.defaultdict(list)
+        group = collections.defaultdict(list)
         m = len(matrix)
         n = len(matrix[0])
         for i in range(m):

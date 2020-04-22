@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def calcEquation(self, equations, values, queries):
         """
@@ -23,7 +23,7 @@ class Solution(object):
         :type queries: List[List[str]]
         :rtype: List[float]
         """
-        graph = hash2.defaultdict(list)
+        graph = collections.defaultdict(list)
 
         def buildGraph(equations, values):
             for divs, value in zip(equations, values):

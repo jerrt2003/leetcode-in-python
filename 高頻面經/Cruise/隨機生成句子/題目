@@ -1,0 +1,16 @@
+通过一个语法词典，随机生成一组句子。
+DFS+随机‍‍‌‌‌‍‍‍‌‌‌‍‍‌‌‌‌‍‍选择，我的想法是检查一下当前变量是list还是str, 如果是str就是递归头了。
+可惜做题时记不得判断一个变量是什么类型的method了，卡了很久，后来面试官提醒用了isinstance(x, list)
+
+
+"""
+grammar = dict( # A ‍‍‌‌‌‍‍‍‌‌‌‍‍‌‌‌‌‍‍grammar for a trivial subset of English.
+       S = [['NP','VP'],['S','and','S']],
+       NP = [['Art', 'N']],
+       VP = [['V', 'NP']],
+       Art = ['the', 'a'],
+       N = ['man', 'ball', 'woman', 'table'],
+       V = ['hit', 'took', 'saw', 'liked'])
+ 
+generate('S', grammar) -> 'the man hit the ball'
+"""

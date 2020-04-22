@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 import pq
 class Solution(object):
     def leastInterval(self, tasks, n):
@@ -12,7 +12,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        freq2task_map = hash2.Counter(tasks)
+        freq2task_map = collections.Counter(tasks)
         max_freq = max(freq2task_map.values())
         base_sec = []
         for k, v in freq2task_map.iteritems():

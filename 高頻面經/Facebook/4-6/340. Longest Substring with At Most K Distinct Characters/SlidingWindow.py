@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def lengthOfLongestSubstringKDistinct(self, s, k):
         """
@@ -13,7 +13,7 @@ class Solution(object):
         """
         if not s: return 0
         res = -float('inf')
-        bkt = hash2.defaultdict(int)
+        bkt = collections.defaultdict(int)
         pt1, pt2 = 0, 0
         while pt2 < len(s):
             bkt[s[pt2]] += 1

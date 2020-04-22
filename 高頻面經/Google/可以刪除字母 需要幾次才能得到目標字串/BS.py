@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 import bisect
 class Solution(object):
 
@@ -14,7 +14,7 @@ class Solution(object):
     """
 
     def constructCount(self, src, dst):
-        pos_dict = hash2.defaultdict(list)
+        pos_dict = collections.defaultdict(list)
         for i, c in enumerate(src):
             pos_dict[c].append(i)
 

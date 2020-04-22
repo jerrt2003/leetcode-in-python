@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def __init__(self, king):
-        self.tree = hash2.defaultdict(list)
+        self.tree = collections.defaultdict(list)
         self.root = king
         self.dead = set()
 

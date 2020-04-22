@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def canCross(self, stones):
         """
@@ -7,7 +7,7 @@ class Solution(object):
         :type stones: List[int]
         :rtype: bool
         """
-        DP = hash2.defaultdict(set)
+        DP = collections.defaultdict(set)
         DP[0].add(0)
         for stone in stones:
             if stone in DP.keys():

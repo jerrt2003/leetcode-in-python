@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def subarraySum(self, nums, k):
         """
@@ -13,7 +13,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        sum_occur = hash2.defaultdict(int)
+        sum_occur = collections.defaultdict(int)
         sum_occur[0] = 1
         sum = count = 0
         for num in nums:

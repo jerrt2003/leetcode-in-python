@@ -15,8 +15,8 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        import hash2
-        count = hash2.Counter(s)
+        import collections
+        count = collections.Counter(s)
         added = [False for _ in range(26)]
         stack = []
         for character in s:

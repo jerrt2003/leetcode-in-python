@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import pq, hash2
+import pq, collections
 class Solution(object):
     def findCheapestPrice(self, n, flights, src, dst, K):
         """
@@ -18,7 +18,7 @@ class Solution(object):
         :type K: int
         :rtype: int
         """
-        graph = hash2.defaultdict(dict)
+        graph = collections.defaultdict(dict)
         for u, v, w in flights:
             graph[u][v] = w
         best = dict()

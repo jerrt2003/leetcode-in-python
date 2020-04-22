@@ -1,0 +1,32 @@
+The array of elevations passed into your function will be ordered from left
+to right but the order of the returned array of lake elevations is
+unimportant.
+
+
+ +--------------------------------------------------------------------------+
+14 |                                                                        |
+13 |                                                                        |
+12 |                           11                                           |
+11 |                           /\                                           |
+10 |                          /  \           9            9                 |
+ 9 |               8    8    /    \~~~~~~~~~~~~~~~~~~~~~~/\                 |
+ 8 |              /\~~~~~~~~/      \~ ~ ~ ~ ~ ~ ~ ~ ~ ~ /  \                |
+ 7 |             /  \~ ~ ~ /        \~ ~ ~ ~6 ~ ~ ~ ~ ~/    \               |
+ 6 |            /    \~ ~ /          \~ ~ ~ /\~ ~ ~ ~ /      \ 5 5          |
+ 5 |           /      \~ /            \~ ~ /  \~ ~ ~ /        \~~/\         |
+ 4 |          /        \/              \~ /    \~ ~ /          \/  \        |
+ 3 |         /                          \/      \~ /                \       |
+ 2 |        /                                    \/                  \      |
+ 1 |       /                                                          \     |
+ 0 |~~~~~~/                                                            \~~~~|
+   |~ ~ ~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+   |  ~  ~  ~  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~~  ~|
+   |   ~     ~     ~     ~     ~     ~     ~     ~     ~     ~     ~     ~  |
+ +--------------------------------------------------------------------------+
+
+
+ EXAMPLE:
+ Function is passed the array [8, 11, 6, 9, 5]
+
+ Your function would return the following array representing the elevations of
+ the series of lakes formed by filling in the valleys:  [8, 9, 5]

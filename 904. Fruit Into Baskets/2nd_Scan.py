@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def totalFruit(self, tree):
         """
@@ -13,7 +13,7 @@ class Solution(object):
         """
         if not tree: return 0
         m = len(tree)
-        bskt = hash2.defaultdict(int)
+        bskt = collections.defaultdict(int)
         pt1, pt2 = 0, 1
         bskt[tree[pt1]] = 1
         res = 1

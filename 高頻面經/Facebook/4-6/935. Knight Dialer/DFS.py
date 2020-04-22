@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2,math
+import collections,math
 class Solution(object):
     def knightDialer(self, N):
         """
@@ -11,7 +11,7 @@ class Solution(object):
         if N == 1:
             return 10
         self.nextJump = {1:(6,8),2:(7,9),3:(4,8),4:(0,3,9),5:(),6:(0,1,7),7:(2,6),8:(1,3),9:(2,4),0:(4,6)}
-        self.uniquePath = hash2.defaultdict(int)
+        self.uniquePath = collections.defaultdict(int)
         self.mod = math.pow(10,9)+7
         count = 0
         for dial in xrange(10):

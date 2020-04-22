@@ -1,4 +1,4 @@
-import hash2
+import collections
 class Solution(object):
     def findAnagrams(self, s, p):
         """
@@ -6,8 +6,8 @@ class Solution(object):
         :type p: str
         :rtype: List[int]
         """
-        counter = hash2.Counter(p)
-        window = hash2.Counter(s[:len(p) - 1])
+        counter = collections.Counter(p)
+        window = collections.Counter(s[:len(p) - 1])
         res = []
         for i in range(len(p) - 1, len(s)):
             window[s[i]] += 1

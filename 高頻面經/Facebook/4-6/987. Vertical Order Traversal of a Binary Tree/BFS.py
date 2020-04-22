@@ -5,7 +5,7 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-import hash2
+import collections
 class Solution(object):
     def verticalTraversal(self, root):
         """
@@ -13,12 +13,12 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        _res = hash2.defaultdict(list)
+        _res = collections.defaultdict(list)
 
         def _traversal(node):
             stack = [(node, 0)]
             while stack:
-                _tmp = hash2.defaultdict(list)
+                _tmp = collections.defaultdict(list)
                 for i in range(len(stack)):
                     _node, column = stack.pop(0)
                     _tmp[column].append(_node.val)

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 
 
 class Solution(object):
@@ -11,7 +11,7 @@ class Solution(object):
         :return: list
         """
         window = float('inf')
-        bkt = hash2.Counter()
+        bkt = collections.Counter()
         pt1 = pt2 = 0
         req = set(req)
         res = []

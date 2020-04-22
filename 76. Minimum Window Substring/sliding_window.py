@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from hash2 import Counter
+from collections import Counter
 class Solution(object):
     def minWindow(self, s, t):
         """

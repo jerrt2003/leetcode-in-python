@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 class Solution(object):
     def usingDFStoSolveShortestLoop(self, edges):
         dist_v = set()
-        maps = hash2.defaultdict(list)
+        maps = collections.defaultdict(list)
         for s, e in edges:
             maps[s].append(e)
             dist_v.add(s)

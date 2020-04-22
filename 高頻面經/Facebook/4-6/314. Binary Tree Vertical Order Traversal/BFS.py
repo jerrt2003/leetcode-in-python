@@ -5,7 +5,7 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-import hash2
+import collections
 class Solution(object):
     def verticalOrder(self, root):
         """
@@ -16,8 +16,8 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        maps = hash2.defaultdict(list)
-        queue = hash2.deque([(root, 0)])
+        maps = collections.defaultdict(list)
+        queue = collections.deque([(root, 0)])
         min_col, max_col = 0, 0
         while queue:
             node, col = queue.popleft()

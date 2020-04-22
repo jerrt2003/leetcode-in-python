@@ -7,14 +7,14 @@ class Node(object):
         self.children = children
 """
 
-import hash2
+import collections
 class Solution(object):
     def preorder(self, root):
         """
         :type root: Node
         :rtype: List[int]
         """
-        res, stack = [], hash2.deque([])
+        res, stack = [], collections.deque([])
         if root is None:
             return res
         else:

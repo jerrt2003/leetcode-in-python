@@ -5,7 +5,7 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-import hash2
+import collections
 class Solution(object):
     def maxDepth(self, root):
         """
@@ -18,7 +18,7 @@ class Solution(object):
         """
         if root is None: return 0
         res = 0
-        stack = hash2.deque([root])
+        stack = collections.deque([root])
         while stack:
             res += 1
             for i in range(len(stack)):

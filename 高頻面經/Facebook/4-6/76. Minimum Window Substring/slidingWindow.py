@@ -1,4 +1,4 @@
-import hash2
+import collections
 class Solution(object):
     def minWindow(self, s, t):
         """
@@ -10,8 +10,8 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        counter = hash2.Counter(t)
-        bkt = hash2.defaultdict(int)
+        counter = collections.Counter(t)
+        bkt = collections.defaultdict(int)
         pt1 = pt2 = formed = 0
         min_len = float('inf')
         res = ''

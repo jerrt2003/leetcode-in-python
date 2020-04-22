@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import hash2
+import collections
 
 class Solution(object):
     def findShortestSubArray(self, nums):
@@ -13,7 +13,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        degree = hash2.defaultdict(list)
+        degree = collections.defaultdict(list)
         for i in range(len(nums)):
             degree[nums[i]].append(i)
         max_degree = -float('inf')
