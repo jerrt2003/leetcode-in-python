@@ -28,5 +28,5 @@ class Solution(object):
             pt2 += 1
         return res
 
-tree = []
+tree = [1]
 print Solution().totalFruit(tree)
