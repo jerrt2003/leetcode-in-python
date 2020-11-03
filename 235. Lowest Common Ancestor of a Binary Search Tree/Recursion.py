@@ -9,9 +9,12 @@
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         """
+        Facebook
         Solution: Recursion
-        Time Complexity:
-        Space Complexity:
+        Time Complexity: T:O(n)
+        Space Complexity: S:O(1)
+        Runtime: 72 ms, faster than 75.40% of Python online submissions for Lowest Common Ancestor of a Binary Search Tree.
+        Memory Usage: 21 MB, less than 29.55% of Python online submissions for Lowest Common Ancestor of a Binary Search Tree.
         Thinking process:
         - if root.val == p or root.val == q -> return root directly (since it will be the direct ancestor)
         - if root.val > p and root.val > q -> continue to find in the left side of tree

@@ -8,6 +8,10 @@
 class Solution(object):
     def kthSmallest(self, root, k):
         """
+        Facebook
+        Stack
+        Iterative
+        T:O(n) S:O(n)
         Iterative: FILO
         Perf: Runtime: 44 ms, faster than 81.37% / Memory Usage: 19.6 MB, less than 54.19%
         :type root: TreeNode

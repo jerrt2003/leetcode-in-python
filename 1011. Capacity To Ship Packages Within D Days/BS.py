@@ -27,7 +27,7 @@ class Solution(object):
                 l = mid+1
         return l
 
-weights = [1,2,3,4,5,6,7,8,9,10]
-D = 5
+weights = [1,2,3,1,1]
+D = 4
 
 print Solution().shipWithinDays(weights, D)

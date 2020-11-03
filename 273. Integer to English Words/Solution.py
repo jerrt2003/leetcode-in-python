@@ -2,9 +2,10 @@
 class Solution(object):
     def numberToWords(self, num):
         """
-        Solution:
-        Time Complexity:
-        Space Complexity:
+        Facebook
+        Divide and Conquer
+        Time Complexity: T:O(n)
+        Space Complexity: S:O(1)
         Inspired By: https://leetcode.com/problems/integer-to-english-words/discuss/70625/My-clean-Java-solution-very-easy-to-understand
         TP:
         - Divide number by 1000

@@ -3,6 +3,8 @@ import pq
 class Solution(object):
     def nthUglyNumber(self, n):
         """
+        Facebook
+        T:O(nlogn) S:O(n)
         Solution: heapq (priority queue)
         Time Complexity: O(3*n)
         Space Complexity: O(3*n)

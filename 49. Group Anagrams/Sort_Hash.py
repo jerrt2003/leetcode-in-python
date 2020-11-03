@@ -2,6 +2,7 @@
 class Solution(object):
     def groupAnagrams(self, strs):
         """
+        Facebook
         Solution: Hashtable + sorted + tuple
         Time Complexity: O(NKlogK), where NN is the length of strs, and KK is the maximum length of a string in strs. The outer loop has complexity O(N)O(N) as we iterate through each string. Then, we sort each string in O(K \log K)O(KlogK) time.
         Space Complexity: O(NK)

@@ -1,0 +1,18 @@
+BFS template:
+
+q = [start]
+seen = ()
+step = 0
+
+while q:
+    l = len(q)
+    for _ in range(l):
+        s = q.pop()
+        if s == end:
+            return step
+        for t in expand(s):
+            if t not in seen():
+                q.add(t)
+                seen.add(t)
+    step++
+return -1

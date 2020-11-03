@@ -2,6 +2,7 @@
 class Solution(object):
     def removeElement(self, nums, val):
         """
+        Facebook
         Solution: O(n)
         Time Complexity: O(n) (44ms, beat 9%)
         Space Complexity: O(1)
@@ -21,6 +22,6 @@ class Solution(object):
         return last
 
 
-nums = [3,3]
+nums = [3,3,4,3,4]
 val = 3
 print Solution().removeElement(nums, val)

@@ -1,0 +1,6 @@
+Given a DAG and 2 numbers, find if they share the same common ancestor
+1 -> 2 <- 5
+|
+v
+3 <- 4
+

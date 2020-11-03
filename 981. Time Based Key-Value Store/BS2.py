@@ -13,6 +13,7 @@ class TimeMap(object):
 
     def set(self, key, value, timestamp):
         """
+        T:O(1), S:O(n)
         :type key: str
         :type value: str
         :type timestamp: int
@@ -23,6 +24,7 @@ class TimeMap(object):
 
     def get(self, key, timestamp):
         """
+        T:(log(n))
         :type key: str
         :type timestamp: int
         :rtype: str

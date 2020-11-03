@@ -9,9 +9,12 @@
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         """
+        Facebook
         Solution: Recursion
-        Time Complexity:
-        Space Complexity:
+        Time Complexity: T:O(n)
+        Space Complexity: S:O(1)
+        Runtime: 68 ms, faster than 73.76% of Python online submissions for Lowest Common Ancestor of a Binary Tree.
+        Memory Usage: 25.2 MB, less than 37.50% of Python online submissions for Lowest Common Ancestor of a Binary Tree.
         Inspired By: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/65226/My-Java-Solution-which-is-easy-to-understand
         Thinking Process:
         Algorithm:

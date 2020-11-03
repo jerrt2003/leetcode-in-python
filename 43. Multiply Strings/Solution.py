@@ -29,8 +29,8 @@ class Solution(object):
             zero_position += 1
         return res[zero_position:]
 
-num1 = '123'
-num2 = '456'
+num1 = '0'
+num2 = '0'
 
 sol = Solution()
 print sol.multiply(num1,num2)

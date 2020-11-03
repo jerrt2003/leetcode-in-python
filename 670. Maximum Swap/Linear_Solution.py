@@ -18,3 +18,5 @@ class Solution(object):
                     A[i], A[lastIdx[d]] = A[lastIdx[d]], A[i]
                     return int(''.join(map(str, A)))
         return num
+
+print Solution().maximumSwap(2736)

@@ -5,22 +5,27 @@ class Solution(object):
         :type target: int
         :rtype: str
         """
-        dp = [None]*(target+1)
+        dp = [""]*(target+1)
 
-        def buildDP(curr_target):
-            if curr_target < 0:
-                return None
-            elif curr_target == 0:
+        def dfs(target):
+            if target == 0:
                 return ""
-            elif dp[curr_target]:
-                return dp[curr_target]
+            elif target < 0:
+                return "0"
+            elif dp[target] != "":
+                return dp[target]
             else:
+                dp[target] = "0"
                 for i in range(1, 10):
-                    nxt = buildDP(curr_target - cost[i-1])
-                    if not nxt and len(nxt)+1 >= len(dp[curr_target]):
-                        dp[curr_target] = str(i) + nxt
-                return dp[curr_target]
+                    curr = dfs(target - cost[i-1])
+                    if curr != "0" and len(curr)+1 >= len(dp[target]):
+                        dp[target] = str(i) + curr
+            return dp[target]
 
-        return buildDP(target)
+        return dfs(target)
+
+
+
 
 print(Solution().largestNumber([4,3,2,5,6,7,2,5,5],9))
+print Solution().largestNumber([7,6,5,5,5,6,8,7,8],12)

@@ -2,6 +2,9 @@
 class Solution(object):
     def calculate(self, s):
         """
+        Facebook
+        Runtime: 92 ms, faster than 94.97% of Python online submissions for Basic Calculator.
+        Memory Usage: 14.8 MB, less than 42.29% of Python online submissions for Basic Calculator.
         Solution: Interactive Stack
         Time Complexity: O(n)
         Space Complexity: O(n)
@@ -48,5 +51,6 @@ class Solution(object):
             res += sign * curr_num
         return res
 
-s = "2147483647"
+# s = "2147483647"
+s = '(1+(4+5+2)-3)+(6+8)'
 print Solution().calculate(s)

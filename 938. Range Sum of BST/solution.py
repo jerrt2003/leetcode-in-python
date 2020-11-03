@@ -7,6 +7,7 @@
 class Solution(object):
     def rangeSumBST(self, root, L, R):
         """
+        Facebook
         DFS: T:O(n) S:O(1)
         Runtime: 268 ms, faster than 62.38% of Python online submissions for Range Sum of BST.
         Memory Usage: 29.1 MB, less than 6.45% of Python online submissions for Range Sum of BST.

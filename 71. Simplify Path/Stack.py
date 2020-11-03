@@ -2,6 +2,9 @@
 class Solution(object):
     def simplifyPath(self, path):
         """
+        Facebook
+        Runtime: 24 ms, faster than 71.10% of Python online submissions for Simplify Path.
+        Memory Usage: 12.9 MB, less than 13.33% of Python online submissions for Simplify Path.
         Solution: Stack + Split
         Time Complexity: O(n)
         Space Complexity: O(n)

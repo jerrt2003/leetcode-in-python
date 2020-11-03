@@ -1,6 +1,9 @@
 class Solution(object):
     def nextPermutation(self, nums):
         """
+        Facebook
+        Runtime: 32 ms, faster than 62.32% of Python online submissions for Next Permutation.
+        Memory Usage: 12.9 MB, less than 11.29% of Python online submissions for Next Permutation.
         Solution: O(n) Linear Solution
         Time Complexity: O(n)
         Space Complexity: O(1)

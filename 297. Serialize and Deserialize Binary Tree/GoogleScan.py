@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 # Definition for a binary tree node.
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
 class Codec:
 
@@ -14,21 +13,23 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
-        self.output = []
-        self._serialize(root)
-        return ','.join(self.output)
+        ret = []
 
-    def _serialize(self, root):
-        if root is None:
-            self.output.append('X')
-            return
-        self.output.append(str(root.val))
-        if root.left:
-            self._serialize(root.left)
-        if root.right:
-            self._serialize(root.right)
+        def dfs(node):
+            if not node:
+                return
+            ret.append(node.val)
+            if node.left:
+                dfs(node.left)
+            else:
+                ret.append('X')
+            if node.right:
+                dfs(node.right)
+            else:
+                ret.append('X')
 
-
+        dfs(root)
+        return ",".join([str(a) for a in ret])
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -36,19 +37,20 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        data = data.split(',')
-        return self._deserialize(data)
-
-    def _deserialize(self, data):
-        if not data:
+        if len(data) == 0:
             return
-        val = data.pop(0)
-        if val == 'X':
-            return None
-        root = TreeNode(val)
-        root.left = self._deserialize(data)
-        root.right = self._deserialize(data)
-        return root
+        data = data.split(",")
+
+        def dfs(data):
+            curr = data.pop(0)
+            if curr == 'X':
+                return None
+            root = TreeNode(int(curr))
+            root.left = dfs(data)
+            root.right = dfs(data)
+            return root
+
+        return dfs(data)
 
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()

@@ -2,7 +2,8 @@
 class Solution(object):
     def findPeakElement(self, nums):
         """
-        Solution: BS
+        Facebook
+        Binary Search
         Time Complexity: O(log(n))
         Space Complexity: O(log(n))
         :type nums: List[int]

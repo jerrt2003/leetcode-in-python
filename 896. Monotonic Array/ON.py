@@ -2,6 +2,8 @@
 class Solution(object):
     def isMonotonic(self, A):
         """
+        Facebook
+        T:O(n)
         Perf: Runtime: 464 ms, faster than 33.91% / Memory Usage: 17.1 MB, less than 36.36%
         T: O(n)
         S: O(1)

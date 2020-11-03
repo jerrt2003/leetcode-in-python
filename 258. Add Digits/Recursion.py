@@ -1,18 +1,22 @@
-# -*- coding: utf-8 -*-
 class Solution(object):
     def addDigits(self, num):
         """
-        Solution: Recursion
-        Time Complexity:
-        Space Complexity:
-        Inspired By: MySelf!!
+        Facebook
+        Recursion
+        T:O(V+E) S:O(1)
+        Runtime: 16 ms, faster than 91.45% of Python online submissions for Add Digits.
+        Memory Usage: 12.7 MB, less than 46.32% of Python online submissions for Add Digits.
         :type num: int
         :rtype: int
         """
-        res = num/10 + num%10
-        while res > 9:
-            res = res/10 + res%10
-        return res
+        ans = 0
+        while num > 0:
+            ans += num % 10
+            num = num/10
+            if num == 0 and ans > 9:
+                num = ans
+                ans = 0
+        return ans
 
 num = 19
 print Solution().addDigits(num)
