@@ -1,22 +1,12 @@
-# -*- coding: utf-8 -*-
-import sys
-class Solution(object):
-    def mySqrt(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        l: int = 0
+        r: int = x+1
         if x == 0: return 0
-        left = 1
-        right = sys.maxint
-        while True:
-            mid = (left+right)/2
-            if mid*mid > x:
-                right = mid-1
+        while l < r:
+            m = (l+r-1)//2
+            if m*m - x > 0:
+                r = m
             else:
-                if (mid+1)*(mid+1) > x:
-                    return mid
-                left = mid+1
-
-x = 0
-print Solution().mySqrt(x)
+                l = m+1
+        return l-1
