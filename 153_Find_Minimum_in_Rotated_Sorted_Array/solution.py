@@ -1,20 +1,12 @@
-class Solution(object):
-    def findMin(self, nums):
-        """
-        Facebook
-        T:O(logn) S:O(1)
-        Runtime: 28 ms, faster than 78.83% of Python online submissions for Find Minimum in Rotated Sorted Array.
-        Memory Usage: 13.1 MB, less than 32.55% of Python online submissions for Find Minimum in Rotated Sorted Array.
-        :type nums: List[int]
-        :rtype: int
-        """
-        l, r = 0, len(nums)-1
-        while l < r:
-            m = (l+r)/2
-            if nums[m] > nums[r]:
-                l = m+1
-            else:
-                r = m
-        return nums[l]
+from typing import List
 
-print Solution().findMin([3,4,5,1,2])
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        l, r = 0, len(nums)
+        while l < r:
+            m = (l+r-1)//2
+            if nums[m] < nums[0]:
+                r = m
+            else:
+                l = m+1
+        return nums[0] if l == len(nums) else nums[l] # l == len(nums) -> can't find m --> array is sorted already

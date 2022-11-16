@@ -1,33 +1,22 @@
-class Solution(object):
-    def minEatingSpeed(self, piles, H):
-        """
-        BS
-        T:O(nlog(n)) S:O(1)
-        Runtime: 460 ms, faster than 48.99% of Python online submissions for Koko Eating Bananas.
-        Memory Usage: 13.7 MB, less than 48.55% of Python online submissions for Koko Eating Bananas.
-        :type piles: List[int]
-        :type H: int
-        :rtype: int
-        """
-        def bs(K):
-            count = 0
-            for pile in piles:
-                count += pile/K
-                if pile%K != 0:
-                    count += 1
-                if count > H:
-                    return False
-            return count <= H
+from typing import List
 
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
         l, r = 1, max(piles)+1
         while l < r:
-            m = (l+r-1)/2
-            if bs(m):
+            m = (l+r-1)//2
+            if self._finish(piles, m, h):
                 r = m
             else:
                 l = m+1
         return l
-
-print Solution().minEatingSpeed([3,6,7,11], 8)
-print Solution().minEatingSpeed([30,11,23,4,20], 5)
-print Solution().minEatingSpeed([30,11,23,4,20], 6)
+    
+    def _finish(self, piles: List[int], speed: int, limit: int) -> bool:
+        total_hr = 0
+        for pile in piles:
+            total_hr += pile//speed
+            if pile%speed != 0:
+                total_hr +=1
+            if total_hr > limit:
+                return False
+        return total_hr <= limit

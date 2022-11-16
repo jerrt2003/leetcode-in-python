@@ -26,4 +26,3 @@ class Solution(object):
         return findPeak(l, r)
 
 nums = [-1, -10, 5, 3, 100, 21, 30, 100]
-print Solution().findPeakElement(nums)

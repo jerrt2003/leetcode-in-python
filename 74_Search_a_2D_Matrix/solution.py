@@ -31,5 +31,3 @@ class Solution(object):
         if l == len(matrix[0]):
             return False
         return row[l] == target
-
-print Solution().searchMatrix([[1]],1)
