@@ -19,7 +19,7 @@ class Solution:
         # BFS
         # if node is not visited, mark it and push into queue
         # increase level by 1
-        level = -1
+        level = 0
         while q:
             level_len = len(q)
             for _ in range(level_len):
@@ -33,4 +33,4 @@ class Solution:
                         rotten_count += 1
                         q.append([i, j])
             level += 1
-        return level if total_count == rotten_count else -1
+        return level-1 if total_count == rotten_count else -1
