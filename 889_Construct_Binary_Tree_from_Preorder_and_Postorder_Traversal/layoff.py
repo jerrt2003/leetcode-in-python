@@ -17,7 +17,7 @@ class Solution:
         return self.helper(preorder, 0, len(preorder), postorder, 0, len(postorder))
 
     def helper(self, preorder: List[int], s1, e1, postorder: List[int], s2, e2) -> TreeNode:
-        if s1 == e1:
+        if s1 == e1 or s2 == e2:
             return None
         root_val = preorder[s1]
         root = TreeNode(root_val)
