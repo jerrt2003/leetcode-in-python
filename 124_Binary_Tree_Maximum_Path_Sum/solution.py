@@ -15,8 +15,8 @@ class Solution:
             return 0
         left_node_max = max(0, self.helper(root.left))
         right_node_max = max(0, self.helper(root.right))
-        # 递归时记录好全局最大和
+        # 遞歸時紀錄含root+左子樹+右子樹的最大和(這是當下全局最大和)
         self.ans = max(self.ans, root.val + left_node_max + right_node_max)
-        # 返回联络最大和
+        # 返回含root+(左子樹或是右子樹的最大和)=>當下最大的path和
         return root.val + max(left_node_max, right_node_max)
         
