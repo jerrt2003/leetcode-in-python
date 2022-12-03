@@ -13,6 +13,8 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         self.min_height = sys.maxsize
         curr_height = 1
+        if not root:
+            return 0
         self.helper(root, curr_height)
         return self.min_height
 

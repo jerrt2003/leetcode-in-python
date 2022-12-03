@@ -34,9 +34,7 @@ class Solution(object):
         if node is None: return 0
         leftsum = max(0, self.findMaxPath(node.left))
         rightsum = max(0, self.findMaxPath(node.right))
-        # 递归时记录好全局最大和
         self.maxPath = max(self.maxPath, leftsum+rightsum+node.val)
-        # 返回联络最大和
         return max(leftsum,rightsum) + node.val
 
 
