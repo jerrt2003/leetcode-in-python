@@ -12,8 +12,6 @@ class Solution:
         # return self.helper(root, None, None)
         return self.helper(root)
 
-        
-
     # def helper(self, root: Optional[TreeNode], min_node: Optional[TreeNode], max_node: Optional[TreeNode]) -> bool:
     #     if not root:
     #         return True
