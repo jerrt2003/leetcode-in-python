@@ -7,13 +7,11 @@ class Solution:
         return self.ret
     
     def helper(self, start: int, n: int, k: int, path: List[int]) -> None:
-        if len(path + [start]) == k:
-            self.ret.append(path + [start])
+        if len(path) == k:
+            self.ret.append(path)
             return
-        if n - start + len(path+[start]) < k:
+        if len(path) + (n-start+1) < k:
             return
-        for i in range(start+1, n+1):
-            self.helper(i, n, k, path + [start])
-        for i in range(start+1, n+1):
-            self.helper(i, n, k, [start])            
+        for i in range(start, n+1):
+            self.helper(i+1, n, k, path + [i])
         
