@@ -34,7 +34,12 @@ class Test(unittest.TestCase):
     def test6(self):
         nums = [3,1]
         target = 3
-        self.assertEqual(self.s.search(nums, target), 0)        
+        self.assertEqual(self.s.search(nums, target), 0)
+
+    def test7(self):
+        nums = [1]
+        target = 0
+        self.assertEqual(self.s.search(nums, target), -1)                
 
 if __name__ == "__main__":
     unittest.main()
