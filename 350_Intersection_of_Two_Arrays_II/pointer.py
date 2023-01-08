@@ -5,7 +5,6 @@ class Solution:
         nums1.sort()
         nums2.sort()
         ans = []
-        # found = dict()
 
         i, j = 0, 0
         while i < len(nums1) and j < len(nums2):
