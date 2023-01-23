@@ -10,6 +10,7 @@ class Solution:
         if len(path) == k:
             self.ret.append(path)
             return
+        # 剪枝
         if len(path) + (n-start+1) < k:
             return
         for i in range(start, n+1):

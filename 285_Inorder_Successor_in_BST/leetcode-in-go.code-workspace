@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../leetcode-in-go"
+		},
+		{
+			"path": "../../../python"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
