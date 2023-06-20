@@ -14,3 +14,5 @@ def reverse(self, node: ListNode) -> ListNode:
         prev = head
         head = next_node
     return prev
+
+
