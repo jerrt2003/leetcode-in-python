@@ -1,12 +1,13 @@
 import unittest
 
-from solution2 import Solution
+from solution3 import Solution
+
 
 class Test(unittest.TestCase):
     def setUp(self) -> None:
         self.s = Solution()
         return super().setUp()
-    
+
     def test1(self):
         s = "eceba"
         k = 2
@@ -17,7 +18,8 @@ class Test(unittest.TestCase):
         s = "aa"
         k = 1
         ans = 2
-        self.assertEqual(ans, self.s.lengthOfLongestSubstringKDistinct(s, k))        
+        self.assertEqual(ans, self.s.lengthOfLongestSubstringKDistinct(s, k))
+
 
 if __name__ == "__main__":
     unittest.main()

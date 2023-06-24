@@ -1,5 +1,4 @@
 import unittest
-
 from solution import Solution
 
 
@@ -9,9 +8,11 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        heights = [2, 1, 5, 6, 2, 3]
-        ans = 10
-        self.assertEqual(self.s.largestRectangleArea(heights), ans)
+        target = 7
+        nums = [2, 3, 1, 2, 4, 3]
+        ans = 2
+
+        self.assertEqual(2, self.s.minSubArrayLen(target, nums))
 
 
 if __name__ == "__main__":

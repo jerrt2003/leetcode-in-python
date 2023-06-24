@@ -1,6 +1,6 @@
-import unittest
+from solution2 import Solution
 
-from solution import Solution
+import unittest
 
 
 class Test(unittest.TestCase):
@@ -9,9 +9,10 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        heights = [2, 1, 5, 6, 2, 3]
-        ans = 10
-        self.assertEqual(self.s.largestRectangleArea(heights), ans)
+        s = "cbaebabacd"
+        p = "abc"
+        ans = [0, 6]
+        self.assertEqual(ans, self.s.findAnagrams(s, p))
 
 
 if __name__ == "__main__":

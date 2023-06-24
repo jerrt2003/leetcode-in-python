@@ -14,9 +14,9 @@ class Solution(object):
         :rtype: List[int]
         """
         c_ref = collections.Counter(p)
-        c_runn = collections.Counter(s[:len(p)-1])
+        c_runn = collections.Counter(s[: len(p) - 1])
         ans = []
-        for i in range(len(p)-1, len(s)):
+        for i in range(len(p) - 1, len(s)):
             c_runn[s[i]] += 1
             j = i - len(p) + 1
             if c_ref == c_runn:
@@ -25,5 +25,3 @@ class Solution(object):
             if c_runn[s[j]] == 0:
                 del c_runn[s[j]]
         return ans
-print Solution().findAnagrams('abcafgcba','abc')
-print Solution().findAnagrams('cbaebabacd','abc')
