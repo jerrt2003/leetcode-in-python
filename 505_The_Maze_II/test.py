@@ -1,6 +1,7 @@
 import unittest
 
-from solution import Solution
+from solution2 import Solution
+
 
 class Test(unittest.TestCase):
     def setUp(self) -> None:
@@ -8,9 +9,15 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        maze = [[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]]
-        start = [0,4]
-        dest = [4,4]
+        maze = [
+            [0, 0, 1, 0, 0],
+            [0, 0, 0, 0, 0],
+            [0, 0, 0, 1, 0],
+            [1, 1, 0, 1, 1],
+            [0, 0, 0, 0, 0],
+        ]
+        start = [0, 4]
+        dest = [4, 4]
         self.assertEqual(self.s.shortestDistance(maze, start, dest), 12)
 
 

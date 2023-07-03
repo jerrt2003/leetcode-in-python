@@ -1,6 +1,7 @@
 import unittest
 
-from layoff import Solution
+from solution2 import Solution
+
 
 class Test(unittest.TestCase):
     def setUp(self) -> None:
@@ -8,14 +9,14 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        nums = [1,2,3]
-        out = [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
+        nums = [1, 2, 3]
+        out = [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]
         self.assertEqual(self.s.permute(nums), out)
 
     def test2(self):
         nums = [1]
         out = [[1]]
-        self.assertEqual(self.s.permute(nums), out)        
+        self.assertEqual(self.s.permute(nums), out)
 
 
 if __name__ == "__main__":
