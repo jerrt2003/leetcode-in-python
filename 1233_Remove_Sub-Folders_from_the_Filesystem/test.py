@@ -9,9 +9,9 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        n = 3
-        out = ["((()))", "(()())", "(())()", "()(())", "()()()"]
-        self.assertEqual(self.s.generateParenthesis(n), out)
+        folder = ["/a", "/a/b", "/c/d", "/c/d/e", "/c/f"]
+        ans = ["/a", "/c/d", "/c/f"]
+        self.assertEqual(ans, self.s.removeSubfolders(folder))
 
 
 if __name__ == "__main__":
