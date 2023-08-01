@@ -1,6 +1,7 @@
 import unittest
 
-from layoff import Solution
+from solution2 import Solution
+
 
 class Test(unittest.TestCase):
     def setUp(self) -> None:
@@ -8,7 +9,7 @@ class Test(unittest.TestCase):
         return super().setUp()
 
     def test1(self):
-        nums = [10,9,2,5,3,7,101,18]
+        nums = [10, 9, 2, 5, 3, 7, 101, 18]
         ans = 4
         self.assertEqual(self.s.lengthOfLIS(nums), 4)
 

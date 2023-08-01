@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# BFS
 class Solution(object):
     def isBipartite(self, graph):
         """
@@ -12,11 +12,17 @@ class Solution(object):
         :type graph: List[List[int]]
         :rtype: bool
         """
-        visited = [0 for _ in range(len(graph))] # we'll use 3 numbers to represent 3 status: (0, not visited), (1, white), (-1, black)
+        visited = [
+            0 for _ in range(len(graph))
+        ]  # we'll use 3 numbers to represent 3 status: (0, not visited), (1, white), (-1, black)
         for i in range(len(graph)):
-            if graph[i] and visited[i] == 0: # Only check when node has edges (neighbors) and not visit yet
-                visited[i] = 1 # If a node is not visit, we'll mark it as white, WHY? because if this node can't be white, then it must be marked already
-                q = [i] # Start BFS
+            if (
+                graph[i] and visited[i] == 0
+            ):  # Only check when node has edges (neighbors) and not visit yet
+                visited[
+                    i
+                ] = 1  # If a node is not visit, we'll mark it as white, WHY? because if this node can't be white, then it must be marked already
+                q = [i]  # Start BFS
                 while q:
                     curr = q.pop(0)
                     for j in graph[curr]:

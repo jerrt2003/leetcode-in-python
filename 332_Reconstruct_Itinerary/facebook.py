@@ -27,7 +27,5 @@ class Solution(object):
                 dfs(nxt)
             ans.append(curr)
 
-        dfs('JFK')
+        dfs("JFK")
         return ans[::-1]
-
-print Solution().findItinerary([["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]])

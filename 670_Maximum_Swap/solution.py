@@ -16,7 +16,5 @@ class Solution(object):
             for j in range(9, v, -1):
                 if last_idx[j] != -1 and last_idx[j] > i:
                     A[i], A[last_idx[j]] = A[last_idx[j]], A[i]
-                    return int(''.join(str(d) for d in A))
+                    return int("".join(str(d) for d in A))
         return num
-
-print Solution().maximumSwap(9934)
